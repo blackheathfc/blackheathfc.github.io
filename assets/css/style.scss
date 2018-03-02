@@ -5,9 +5,7 @@
 
 @media print {
   section {
-    -webkit-column-count: 2;
-    -moz-column-count: 2;
-    -ms-column-count: 2;
     column-count: 2;
+    column-gap: 20em;
   }
 }
