@@ -1,0 +1,31 @@
+<article>
+<h1 id="{{ page.title | slugify }}">{{ page.title }} match schedule</h1>
+
+<section class="groups">
+{% for group in page.items %}
+<section class="group">
+<hr>
+<h2 id="{{ group[0] | slugify }}">{{ page.title }} {{ group[0] }}</h2>
+<hr>
+{% assign pitches = group[1] %}
+{% for pitch in pitches %}
+<h3 id="{{ pitch[0] | slugify }}">{{ pitch[0] }}</h3>
+
+<table>
+  <tbody>
+{% assign matches = pitch[1] %}
+{% for match in matches %}
+    <tr>
+      <td>{{ match.time | date: "%H:%M" }}</td>
+      <td>{{ match.home }}</td>
+      <td>v</td>
+      <td>{{ match.away }}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
+{% endfor %}
+</section>
+{% endfor %}
+</section>
+</article>
