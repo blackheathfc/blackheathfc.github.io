@@ -2,10 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-@media print {
-  section {
-    column-count: 2;
-    column-gap: 16em;
-  }
-}
