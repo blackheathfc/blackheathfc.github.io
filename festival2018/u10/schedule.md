@@ -1,6 +1,7 @@
 ---
 title: U10
-groups:
+style: schedule
+items:
   Group A:
     Twickenham:
       -
@@ -261,4 +262,4 @@ groups:
         away: Tunbridge Wells 2
 ---
 
-{% include schedule_groups.md %}
+{% include schedule_groups.html %}

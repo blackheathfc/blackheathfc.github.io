@@ -1,0 +1,7 @@
+<article>
+<h1 id="{{ page.title | slugify }}">{{ page.title }} pitches</h1>
+<hr>
+{% for pitch in page.items %}
+<h2 id="{{ group[0] | slugify }}"><a href="{{ pitch | slugify }}">{{ pitch }}</a></h2>
+{% endfor %}
+</article>

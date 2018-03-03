@@ -1,6 +1,7 @@
 ---
 title: U9
-groups:
+style: schedule
+items:
   Group A:
     Twickenham:
       -
@@ -259,4 +260,4 @@ groups:
         away: Tonbridge Juddians 2
 ---
 
-{% include schedule_groups.md %}
+{% include schedule_groups.html %}

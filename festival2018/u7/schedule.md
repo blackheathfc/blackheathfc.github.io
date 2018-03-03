@@ -1,6 +1,7 @@
 ---
 title: U7
-groups:
+style: schedule
+items:
   Group A:
     Twickenham:
       -
@@ -347,4 +348,4 @@ groups:
         away: Old Dunstonians 1
 ---
 
-{% include schedule_groups.md %}
+{% include schedule_groups.html %}

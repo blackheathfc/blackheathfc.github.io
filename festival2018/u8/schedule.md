@@ -1,6 +1,7 @@
 ---
 title: U8
-groups:
+style: schedule
+items:
   Group A:
     Twickenham:
       -
@@ -303,4 +304,4 @@ groups:
         away: Old Elthamians 3
 ---
 
-{% include schedule_groups.md %}
+{% include schedule_groups.html %}
