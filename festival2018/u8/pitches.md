@@ -1,5 +1,5 @@
 ---
-title: U7
+title: U8
 style: pitch_list
 items:
   - Twickenham
@@ -9,9 +9,6 @@ items:
   - Parc des Princes
   - Stadio Olimpico
   - Ellis Park
-  - Eden Park
-  - Lang Park
-  - Franklin's Gardens
 ---
 
 {% include pitch_list.md %}
