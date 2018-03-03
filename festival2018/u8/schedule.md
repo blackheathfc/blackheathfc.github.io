@@ -1,5 +1,6 @@
 ---
 title: U8
+style: schedule
 groups:
   Group A:
     Twickenham:
