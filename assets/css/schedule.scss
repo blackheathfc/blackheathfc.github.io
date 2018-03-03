@@ -1,0 +1,30 @@
+---
+---
+
+@media print {
+  @page {
+    size: portrait;
+  }
+
+  html, body {
+    width: 1048px;
+  }
+
+  section {
+    border: none;
+  }
+
+  .groups {
+    column-count: 2;
+    column-gap: 6em;
+  }
+
+  .group {
+    font-size: 14pt;
+    page-break-inside: avoid;
+  }
+
+  header, footer, h1 {
+    display: none;
+  }
+}
