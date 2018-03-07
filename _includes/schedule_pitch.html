@@ -1,0 +1,21 @@
+<article>
+<h1 id="{{ page.title | slugify }}">{{ page.title }} match schedule</h1>
+
+<section class="matches">
+
+<table>
+  <tbody>
+{% for match_data in page.items %}
+{% assign match = match_data[1] %}
+  <tr>
+    <td>{{ match.time | date: "%H:%M" }}</td>
+    <td>{{ match.group }}</td>
+    <td>{{ match.home }}</td>
+    <td>v</td>
+    <td>{{ match.away }}</td>
+  </tr>
+{% endfor %}
+  </tbody>
+</table>
+</section>
+</article>
