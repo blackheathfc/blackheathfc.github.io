@@ -10,8 +10,6 @@ items:
 - Stadio Olimpico
 - Ellis Park
 - Eden Park
-- Lang Park
-- Franklin's Gardens
 ---
 
 {% include pitch_list.html %}

@@ -8,7 +8,6 @@ items:
 - Murrayfield
 - Parc des Princes
 - Stadio Olimpico
-- Ellis Park
 ---
 
 {% include pitch_list.html %}
