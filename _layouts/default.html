@@ -29,6 +29,11 @@
       <header>
         <a href="/"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p><a href="/festival2018"> {{ site.description | default: site.github.project_tagline }}</a></p>
+
+        <p>Age groups:</p>
+        {% for category in site.data.categories %}
+        <h4><a href="/festival2018/{{ category[0] }}">{{ category[1] }}</a></h4>
+        {% endfor %}
       </header>
       <section>
 
