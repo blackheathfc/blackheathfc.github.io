@@ -1,6 +1,9 @@
 ---
 title: U8 - Old Albanian RFC
 style: entrant_schedule
+breadcrumbs:
+  u8: U8
+  entrants: clubs
 items:
   Old Albanians 1:
     11:

@@ -1,6 +1,9 @@
 ---
 title: U8 - Hackney RFC
 style: entrant_schedule
+breadcrumbs:
+  u8: U8
+  entrants: clubs
 items:
   Hackney Bulls 1:
     12:

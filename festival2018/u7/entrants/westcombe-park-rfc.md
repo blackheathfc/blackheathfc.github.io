@@ -1,6 +1,9 @@
 ---
 title: U7 - Westcombe Park RFC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   Westcombe Park 1:
     11:

@@ -1,6 +1,8 @@
 ---
 title: U10
 style: match_schedule
+breadcrumbs:
+  u10: U10
 items:
   Group A:
     Twickenham:

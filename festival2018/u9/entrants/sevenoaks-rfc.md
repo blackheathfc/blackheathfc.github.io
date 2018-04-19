@@ -1,6 +1,9 @@
 ---
 title: U9 - Sevenoaks RFC
 style: entrant_schedule
+breadcrumbs:
+  u9: U9
+  entrants: clubs
 items:
   Sevenoaks 1:
     11:

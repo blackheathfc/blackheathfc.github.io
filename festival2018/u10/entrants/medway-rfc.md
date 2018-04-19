@@ -1,6 +1,9 @@
 ---
 title: U10 - Medway RFC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   Medway:
     11:

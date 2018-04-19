@@ -1,6 +1,9 @@
 ---
 title: U7 - Stadio Olimpico
 style: pitch_schedule
+breadcrumbs:
+  u7: U7
+  pitches: pitches
 items:
   11:
     time: 2018-04-29 10:00

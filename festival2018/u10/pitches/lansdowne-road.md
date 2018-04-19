@@ -1,6 +1,9 @@
 ---
 title: U10 - Lansdowne Road
 style: pitch_schedule
+breadcrumbs:
+  u10: U10
+  pitches: pitches
 items:
   11:
     time: 2018-04-29 10:00

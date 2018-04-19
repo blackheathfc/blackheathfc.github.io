@@ -1,6 +1,9 @@
 ---
 title: U10 - Old Alleynian FC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   Old Alleynians:
     11:

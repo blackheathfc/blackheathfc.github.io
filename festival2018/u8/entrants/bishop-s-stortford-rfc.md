@@ -1,6 +1,9 @@
 ---
 title: U8 - Bishop's Stortford RFC
 style: entrant_schedule
+breadcrumbs:
+  u8: U8
+  entrants: clubs
 items:
   Bishop's Stortford 1:
     1:

@@ -1,6 +1,9 @@
 ---
 title: U8 - King's College Hospital RFC
 style: entrant_schedule
+breadcrumbs:
+  u8: U8
+  entrants: clubs
 items:
   KCH Pirates:
     12:

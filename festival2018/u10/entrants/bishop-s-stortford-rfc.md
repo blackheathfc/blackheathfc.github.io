@@ -1,6 +1,9 @@
 ---
 title: U10 - Bishop's Stortford RFC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   Bishop's Stortford 1:
     11:

@@ -1,6 +1,9 @@
 ---
 title: U8 - Old Colfeians RFC
 style: entrant_schedule
+breadcrumbs:
+  u8: U8
+  entrants: clubs
 items:
   Old Colfeians 1:
     14:

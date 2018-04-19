@@ -1,6 +1,9 @@
 ---
 title: U9 - Bishop's Stortford RFC
 style: entrant_schedule
+breadcrumbs:
+  u9: U9
+  entrants: clubs
 items:
   Bishop's Stortford:
     1:

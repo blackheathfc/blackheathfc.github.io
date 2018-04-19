@@ -1,6 +1,8 @@
 ---
 title: U8
 style: match_schedule
+breadcrumbs:
+  u8: U8
 items:
   Group A:
     Twickenham:

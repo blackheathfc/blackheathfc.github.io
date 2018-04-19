@@ -1,6 +1,9 @@
 ---
 title: U9 - Old Dunstonian RFC
 style: entrant_schedule
+breadcrumbs:
+  u9: U9
+  entrants: clubs
 items:
   Old Dunstonians:
     1:

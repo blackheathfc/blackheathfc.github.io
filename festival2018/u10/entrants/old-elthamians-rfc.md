@@ -1,6 +1,9 @@
 ---
 title: U10 - Old Elthamians RFC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   Old Elthamians 1:
     12:

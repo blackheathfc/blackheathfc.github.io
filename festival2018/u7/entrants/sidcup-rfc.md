@@ -1,6 +1,9 @@
 ---
 title: U7 - Sidcup RFC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   Sidcup 1:
     11:

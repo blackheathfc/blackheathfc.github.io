@@ -1,6 +1,9 @@
 ---
 title: U7 - Canterbury RFC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   Canterbury 1:
     11:

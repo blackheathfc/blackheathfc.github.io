@@ -1,6 +1,9 @@
 ---
 title: U8 - Stadio Olimpico
 style: pitch_schedule
+breadcrumbs:
+  u8: U8
+  pitches: pitches
 items:
   11:
     time: 2018-04-29 10:00

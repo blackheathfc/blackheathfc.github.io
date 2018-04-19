@@ -1,6 +1,9 @@
 ---
 title: U11 - Old Alleynian FC
 style: entrant_schedule
+breadcrumbs:
+  u11: U11
+  entrants: clubs
 items:
   Old Alleynians:
     22:

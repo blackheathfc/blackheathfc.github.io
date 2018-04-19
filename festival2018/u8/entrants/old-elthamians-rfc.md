@@ -1,6 +1,9 @@
 ---
 title: U8 - Old Elthamians RFC
 style: entrant_schedule
+breadcrumbs:
+  u8: U8
+  entrants: clubs
 items:
   Old Elthamians 1:
     12:

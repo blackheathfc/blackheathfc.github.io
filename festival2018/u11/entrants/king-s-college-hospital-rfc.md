@@ -1,6 +1,9 @@
 ---
 title: U11 - King's College Hospital RFC
 style: entrant_schedule
+breadcrumbs:
+  u11: U11
+  entrants: clubs
 items:
   KCH Pirates:
     22:

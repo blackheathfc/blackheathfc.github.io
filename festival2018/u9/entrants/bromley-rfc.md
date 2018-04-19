@@ -1,6 +1,9 @@
 ---
 title: U9 - Bromley RFC
 style: entrant_schedule
+breadcrumbs:
+  u9: U9
+  entrants: clubs
 items:
   Bromley:
     1:

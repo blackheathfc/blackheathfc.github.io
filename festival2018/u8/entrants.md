@@ -1,6 +1,8 @@
 ---
 title: U8
 style: entrant_list
+breadcrumbs:
+  u8: U8
 items:
 - Bishop's Stortford RFC
 - Blackheath FC

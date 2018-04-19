@@ -1,6 +1,9 @@
 ---
 title: U8 - Medway RFC
 style: entrant_schedule
+breadcrumbs:
+  u8: U8
+  entrants: clubs
 items:
   Medway 1:
     1:

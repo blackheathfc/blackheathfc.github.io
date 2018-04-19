@@ -1,6 +1,8 @@
 ---
 title: U7
 style: match_schedule
+breadcrumbs:
+  u7: U7
 items:
   Group A:
     Twickenham:

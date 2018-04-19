@@ -1,6 +1,9 @@
 ---
 title: U9 - Sidcup RFC
 style: entrant_schedule
+breadcrumbs:
+  u9: U9
+  entrants: clubs
 items:
   Sidcup 1:
     2:

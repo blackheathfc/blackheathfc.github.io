@@ -1,6 +1,9 @@
 ---
 title: U7 - Old Colfeians RFC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   Old Colfeians 1:
     12:

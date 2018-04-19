@@ -1,6 +1,9 @@
 ---
 title: U11 - Bromley RFC
 style: entrant_schedule
+breadcrumbs:
+  u11: U11
+  entrants: clubs
 items:
   Bromley:
     21:

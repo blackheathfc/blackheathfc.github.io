@@ -1,6 +1,8 @@
 ---
 title: U10
 style: entrant_list
+breadcrumbs:
+  u10: U10
 items:
 - Bishop's Stortford RFC
 - Blackheath FC

@@ -1,6 +1,9 @@
 ---
 title: U10 - Bromley RFC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   Bromley:
     12:

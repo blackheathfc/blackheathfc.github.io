@@ -1,6 +1,9 @@
 ---
 title: U9 - Old Elthamians RFC
 style: entrant_schedule
+breadcrumbs:
+  u9: U9
+  entrants: clubs
 items:
   Old Elthamians 1:
     2:

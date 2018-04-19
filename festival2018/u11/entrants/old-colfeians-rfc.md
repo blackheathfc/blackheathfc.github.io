@@ -1,6 +1,9 @@
 ---
 title: U11 - Old Colfeians RFC
 style: entrant_schedule
+breadcrumbs:
+  u11: U11
+  entrants: clubs
 items:
   Old Colfeians:
     21:

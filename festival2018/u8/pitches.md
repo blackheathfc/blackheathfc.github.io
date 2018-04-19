@@ -1,6 +1,8 @@
 ---
 title: U8
 style: pitch_list
+breadcrumbs:
+  u8: U8
 items:
 - Twickenham
 - Lansdowne Road

@@ -1,6 +1,9 @@
 ---
 title: U8 - Sidcup RFC
 style: entrant_schedule
+breadcrumbs:
+  u8: U8
+  entrants: clubs
 items:
   Sidcup 1:
     12:

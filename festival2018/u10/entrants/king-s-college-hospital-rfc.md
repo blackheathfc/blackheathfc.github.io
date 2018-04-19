@@ -1,6 +1,9 @@
 ---
 title: U10 - King's College Hospital RFC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   KCH Pirates:
     12:

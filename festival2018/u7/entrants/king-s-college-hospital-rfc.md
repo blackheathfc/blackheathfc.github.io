@@ -1,6 +1,9 @@
 ---
 title: U7 - King's College Hospital RFC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   KCH Pirates:
     11:

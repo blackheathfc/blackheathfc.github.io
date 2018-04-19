@@ -1,6 +1,9 @@
 ---
 title: U10 - Hackney RFC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   Hackney Bulls 1:
     12:

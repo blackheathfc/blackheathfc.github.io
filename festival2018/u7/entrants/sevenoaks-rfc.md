@@ -1,6 +1,9 @@
 ---
 title: U7 - Sevenoaks RFC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   Sevenoaks 1:
     11:

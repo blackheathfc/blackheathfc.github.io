@@ -1,6 +1,9 @@
 ---
 title: U7 - Old Dunstonian RFC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   Old Dunstonians 1:
     12:

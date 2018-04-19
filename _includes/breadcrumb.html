@@ -1,0 +1,8 @@
+<ol class="breadcrumb">
+{% assign breadcrumb_link = "/festival2018" %}
+  <li><a href="{{ breadcrumb_link }}">age groups</a></li>
+{% for breadcrumb in page.breadcrumbs %}
+{% assign breadcrumb_link = breadcrumb_link | append: '/' | append: breadcrumb[0] %}
+  <li><a href="{{ breadcrumb_link}}/">{{ breadcrumb[1] }}</a></li>
+{% endfor %}
+</ol>

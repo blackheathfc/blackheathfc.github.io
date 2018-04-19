@@ -1,6 +1,9 @@
 ---
 title: U8 - Old Dunstonian RFC
 style: entrant_schedule
+breadcrumbs:
+  u8: U8
+  entrants: clubs
 items:
   Old Dunstonians:
     13:

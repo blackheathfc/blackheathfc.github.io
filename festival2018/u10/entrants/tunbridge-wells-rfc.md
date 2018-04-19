@@ -1,6 +1,9 @@
 ---
 title: U10 - Tunbridge Wells RFC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   Tunbridge Wells 1:
     11:

@@ -1,6 +1,9 @@
 ---
 title: U8 - Tunbridge Wells RFC
 style: entrant_schedule
+breadcrumbs:
+  u8: U8
+  entrants: clubs
 items:
   Tunbridge Wells:
     2:

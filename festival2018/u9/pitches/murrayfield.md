@@ -1,6 +1,9 @@
 ---
 title: U9 - Murrayfield
 style: pitch_schedule
+breadcrumbs:
+  u9: U9
+  pitches: pitches
 items:
   11:
     time: 2018-04-29 10:00

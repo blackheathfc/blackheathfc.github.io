@@ -1,6 +1,9 @@
 ---
 title: U10 - Cambridge RUFC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   Cambridge 1:
     11:

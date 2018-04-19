@@ -1,6 +1,9 @@
 ---
 title: U7 - Hampstead RFC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   Hampstead:
     12:

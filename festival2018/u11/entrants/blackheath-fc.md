@@ -1,6 +1,9 @@
 ---
 title: U11 - Blackheath FC
 style: entrant_schedule
+breadcrumbs:
+  u11: U11
+  entrants: clubs
 items:
   Blackheath 1:
     21:

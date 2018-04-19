@@ -1,6 +1,9 @@
 ---
 title: U9 - Old Colfeians RFC
 style: entrant_schedule
+breadcrumbs:
+  u9: U9
+  entrants: clubs
 items:
   Old Colfeians 1:
     12:

@@ -1,6 +1,9 @@
 ---
 title: U7 - Old Alleynian FC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   Old Alleynians:
     11:

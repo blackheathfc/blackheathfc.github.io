@@ -1,6 +1,9 @@
 ---
 title: U10 - Sevenoaks RFC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   Sevenoaks 1:
     13:

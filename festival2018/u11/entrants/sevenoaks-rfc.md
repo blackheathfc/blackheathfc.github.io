@@ -1,6 +1,9 @@
 ---
 title: U11 - Sevenoaks RFC
 style: entrant_schedule
+breadcrumbs:
+  u11: U11
+  entrants: clubs
 items:
   Sevenoaks 1:
     22:

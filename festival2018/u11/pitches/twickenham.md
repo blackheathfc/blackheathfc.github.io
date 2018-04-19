@@ -1,6 +1,9 @@
 ---
 title: U11 - Twickenham
 style: pitch_schedule
+breadcrumbs:
+  u11: U11
+  pitches: pitches
 items:
   21:
     time: 2018-04-29 10:00

@@ -1,6 +1,9 @@
 ---
 title: U7 - Tunbridge Wells RFC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   Tunbridge Wells 1:
     11:

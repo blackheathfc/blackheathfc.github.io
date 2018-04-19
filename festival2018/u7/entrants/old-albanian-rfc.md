@@ -1,6 +1,9 @@
 ---
 title: U7 - Old Albanian RFC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   Old Albanians 1:
     11:

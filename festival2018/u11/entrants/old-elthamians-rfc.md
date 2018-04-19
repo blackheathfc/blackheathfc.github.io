@@ -1,6 +1,9 @@
 ---
 title: U11 - Old Elthamians RFC
 style: entrant_schedule
+breadcrumbs:
+  u11: U11
+  entrants: clubs
 items:
   Old Elthamians 1:
     22:

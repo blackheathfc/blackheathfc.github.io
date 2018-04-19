@@ -1,6 +1,9 @@
 ---
 title: U9 - Tunbridge Wells RFC
 style: entrant_schedule
+breadcrumbs:
+  u9: U9
+  entrants: clubs
 items:
   Tunbridge Wells 1:
     1:

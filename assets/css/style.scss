@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+.breadcrumb {
+  margin: 0 0 2em;
+  padding: 0;
+
+  li {
+    display: inline;
+
+    + li:before {
+      content: "» ";
+    }
+  }
+}

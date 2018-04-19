@@ -1,6 +1,9 @@
 ---
 title: U10 - Old Dunstonian RFC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   Old Dunstonians:
     13:

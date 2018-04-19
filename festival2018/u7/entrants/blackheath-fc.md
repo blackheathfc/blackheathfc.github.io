@@ -1,6 +1,9 @@
 ---
 title: U7 - Blackheath FC
 style: entrant_schedule
+breadcrumbs:
+  u7: U7
+  entrants: clubs
 items:
   Blackheath 1:
     13:

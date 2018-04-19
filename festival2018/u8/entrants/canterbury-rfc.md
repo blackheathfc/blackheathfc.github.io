@@ -1,6 +1,9 @@
 ---
 title: U8 - Canterbury RFC
 style: entrant_schedule
+breadcrumbs:
+  u8: U8
+  entrants: clubs
 items:
   Canterbury 1:
     2:

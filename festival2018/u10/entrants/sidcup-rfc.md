@@ -1,6 +1,9 @@
 ---
 title: U10 - Sidcup RFC
 style: entrant_schedule
+breadcrumbs:
+  u10: U10
+  entrants: clubs
 items:
   Sidcup 1:
     11:

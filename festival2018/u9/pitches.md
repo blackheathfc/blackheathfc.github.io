@@ -1,6 +1,8 @@
 ---
 title: U9
 style: pitch_list
+breadcrumbs:
+  u9: U9
 items:
 - Twickenham
 - Lansdowne Road

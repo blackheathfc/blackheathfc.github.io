@@ -1,6 +1,9 @@
 ---
 title: U8 - Cardiff Arms Park
 style: pitch_schedule
+breadcrumbs:
+  u8: U8
+  pitches: pitches
 items:
   1:
     time: 2018-04-29 10:00

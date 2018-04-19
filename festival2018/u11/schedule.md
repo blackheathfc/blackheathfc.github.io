@@ -1,6 +1,8 @@
 ---
 title: U11
 style: match_schedule
+breadcrumbs:
+  u11: U11
 items:
   Group A:
     Twickenham:
