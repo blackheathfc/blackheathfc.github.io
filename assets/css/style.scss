@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+  width: 800px;
+}
+
+section {
+  width: 540px;
+}
+
 .breadcrumb {
   margin: 0 0 2em;
   padding: 0;
