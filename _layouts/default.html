@@ -27,13 +27,16 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="/"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
-        <p><a href="/festival2018"> {{ site.description | default: site.github.project_tagline }}</a></p>
-
-        <p>Age groups:</p>
-        {% for category in site.data.categories %}
-        <h4><a href="/festival2018/{{ category[0] }}">{{ category[1] }}</a></h4>
-        {% endfor %}
+        <div>
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p class="subtitle"><a href="/festival2018"> {{ site.description | default: site.github.project_tagline }}</a></p>
+        </div>
+        <ul class="category">
+          <li><h3>Age groups:</h3></li>
+          {% for category in site.data.categories %}
+          <li><a class="category" href="/festival2018/{{ category[0] }}">{{ category[1] }}</a></li>
+          {% endfor %}
+        </ul>
       </header>
       <section>
 
