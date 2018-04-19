@@ -1,5 +1,5 @@
 ---
-title: U8 Lansdowne Road
+title: U8 - Lansdowne Road
 style: pitch_schedule
 items:
   1:
@@ -7,51 +7,61 @@ items:
     home: Blackheath 4
     away: Old Elthamians 4
     group: Group A
+    pitch: Lansdowne Road
   2:
     time: 2018-04-29 10:15
     home: Canterbury 1
     away: Old Colfeians 3
     group: Group B
+    pitch: Lansdowne Road
   3:
     time: 2018-04-29 10:30
     home: Medway 1
     away: Tonbridge Juddians 2
     group: Group A
+    pitch: Lansdowne Road
   4:
     time: 2018-04-29 10:45
     home: Old Colfeians 3
     away: Tunbridge Wells
     group: Group B
+    pitch: Lansdowne Road
   5:
     time: 2018-04-29 11:00
     home: Old Elthamians 4
     away: Tonbridge Juddians 2
     group: Group A
+    pitch: Lansdowne Road
   6:
     time: 2018-04-29 11:15
     home: Bishop's Stortford 2
     away: Tunbridge Wells
     group: Group B
+    pitch: Lansdowne Road
   7:
     time: 2018-04-29 11:30
     home: Blackheath 4
     away: Medway 1
     group: Group A
+    pitch: Lansdowne Road
   8:
     time: 2018-04-29 11:45
     home: Bishop's Stortford 2
     away: Old Colfeians 3
     group: Group B
+    pitch: Lansdowne Road
   9:
     time: 2018-04-29 12:00
     home: Blackheath 4
     away: Tonbridge Juddians 2
     group: Group A
+    pitch: Lansdowne Road
   10:
     time: 2018-04-29 12:15
     home: Bishop's Stortford 2
     away: Canterbury 1
     group: Group B
+    pitch: Lansdowne Road
 ---
 
 {% include schedule_pitch.html %}

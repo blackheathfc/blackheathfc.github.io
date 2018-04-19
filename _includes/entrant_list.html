@@ -1,0 +1,7 @@
+<article>
+<h1 id="{{ page.title | slugify }}">{{ page.title }} clubs</h1>
+<hr>
+{% for club in page.items %}
+<h2 id="{{ club | slugify }}"><a href="{{ club | slugify }}">{{ club }}</a></h2>
+{% endfor %}
+</article>

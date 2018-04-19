@@ -2,20 +2,14 @@
 
 ---
 
-# [Match schedule](schedule)
+## [Club pages](entrants)
 
-(for coaches, parents and players)
-
----
-
-### [Pitch plan](pitches)
-
-(for pitch marshals)
+Go here for your {{page.title}} team's matches
 
 ---
 
-### [Referees' briefing](referees)
-
-(for referees)
+* **[Match schedule](schedule)** (all {{page.title}} mathes)
+* **[Pitch plan](pitches)** (for pitch marshals)
+* **[Referees' briefing](referees)** (for referees)
 
 ---

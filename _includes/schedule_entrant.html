@@ -1,0 +1,30 @@
+<article>
+  <h1 id="{{ page.title | slugify }}">{{ page.title }}</h1>
+
+  <section class="entrants">
+{% for entrant in page.items %}
+    <section class="entrant">
+      <hr>
+      <h2 id="{{ entrant[0] | slugify }}">{{ entrant[0] }}</h2>
+      <hr>
+
+      <section class="matches">
+        <table>
+          <tbody>
+{% for match_data in entrant[1] %}
+{% assign match = match_data[1] %}
+            <tr>
+              <td>{{ match.time | date: "%H:%M" }}</td>
+              <td>{{ match.pitch }}</td>
+              <td>{{ match.home }}</td>
+              <td>v</td>
+              <td>{{ match.away }}</td>
+            </tr>
+{% endfor %}
+          </tbody>
+        </table>
+      </section>
+    </section>
+{% endfor %}
+  </section>
+</article>
