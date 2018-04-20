@@ -4,18 +4,17 @@ style: entrant_list
 breadcrumbs:
   u11: U11
 items:
+- Ashford RFC
 - Blackheath FC
 - Bromley RFC
+- Eton Manor RFC
 - Hackney RFC
-- Hampstead RFC
 - King's College Hospital RFC
-- Medway RFC
 - Old Alleynian FC
 - Old Colfeians RFC
-- Old Elthamians RFC
 - Sevenoaks RFC
 - Sidcup RFC
-- Tunbridge Wells RFC
+- Thanet Wanderers RUFC
 ---
 
 {% include entrant_list.html %}

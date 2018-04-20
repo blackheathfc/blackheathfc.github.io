@@ -1,41 +1,41 @@
 ---
-title: U7 - Westcombe Park RFC
+title: U9 - Ashford RFC
 style: entrant_schedule
 breadcrumbs:
-  u7: U7
+  u9: U9
   entrants: clubs
 items:
-  Westcombe Park:
-    11:
+  " Ashford":
+    1:
       time: 2018-04-29 10:00
-      home: KCH Pirates
-      away: Westcombe Park
-      group: Group A
-      pitch: Twickenham
-    13:
-      time: 2018-04-29 10:40
-      home: Blackheath 5
-      away: Westcombe Park
+      home: " Ashford"
+      away: Old Colfeians 2
       group: Group A
       pitch: Lansdowne Road
-    15:
+    3:
+      time: 2018-04-29 10:40
+      home: " Ashford"
+      away: KCH Pirates
+      group: Group A
+      pitch: Lansdowne Road
+    5:
       time: 2018-04-29 11:20
       home: " Ashford"
-      away: Westcombe Park
+      away: Blackheath 3
       group: Group A
       pitch: Twickenham
-    17:
+    7:
       time: 2018-04-29 12:00
-      home: Canterbury 1
-      away: Westcombe Park
+      home: " Ashford"
+      away: Sevenoaks 2
       group: Group A
-      pitch: Twickenham
-    19:
+      pitch: Lansdowne Road
+    9:
       time: 2018-04-29 12:40
-      home: Old Colfeians 4
-      away: Westcombe Park
+      home: " Ashford"
+      away: Eton Manor 1
       group: Group A
-      pitch: Twickenham
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

@@ -6,30 +6,30 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Alleynians:
-    11:
-      time: 2018-04-29 10:00
-      home: Blackheath 3
-      away: Old Alleynians
-      group: Group C
-      pitch: Murrayfield
     13:
       time: 2018-04-29 10:40
-      home: Old Alleynians
-      away: Tonbridge Juddians 1
-      group: Group C
-      pitch: Murrayfield
+      home: Blackheath 6
+      away: Old Alleynians
+      group: Group B
+      pitch: Parc des Princes
     15:
       time: 2018-04-29 11:20
       home: Old Alleynians
-      away: Old Elthamians 2
-      group: Group C
-      pitch: Murrayfield
+      away: Sevenoaks 1
+      group: Group B
+      pitch: Parc des Princes
+    17:
+      time: 2018-04-29 12:00
+      home: Blackheath 1
+      away: Old Alleynians
+      group: Group B
+      pitch: Parc des Princes
     19:
       time: 2018-04-29 12:40
-      home: Canterbury 1
+      home: Canterbury 2
       away: Old Alleynians
-      group: Group C
-      pitch: Cardiff Arms Park
+      group: Group B
+      pitch: Murrayfield
 ---
 
 {% include schedule_entrant.html %}

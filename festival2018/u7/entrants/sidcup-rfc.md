@@ -6,55 +6,55 @@ breadcrumbs:
   entrants: clubs
 items:
   Sidcup 1:
-    11:
-      time: 2018-04-29 10:00
-      home: Bromley 1
+    14:
+      time: 2018-04-29 11:00
+      home: Blackheath 3
       away: Sidcup 1
-      group: Group A
+      group: Group D
       pitch: Lansdowne Road
-    15:
-      time: 2018-04-29 11:20
-      home: Old Dunstonians 2
+    16:
+      time: 2018-04-29 11:40
+      home: Blackheath 8
       away: Sidcup 1
-      group: Group A
-      pitch: Twickenham
-    17:
-      time: 2018-04-29 12:00
-      home: Blackheath 1
-      away: Sidcup 1
-      group: Group A
+      group: Group D
       pitch: Lansdowne Road
-    19:
-      time: 2018-04-29 12:40
-      home: Old Albanians 1
+    18:
+      time: 2018-04-29 12:20
+      home: Eton Manor 2
       away: Sidcup 1
-      group: Group A
-      pitch: Twickenham
+      group: Group D
+      pitch: Parc des Princes
+    20:
+      time: 2018-04-29 13:00
+      home: Old Colfeians 2
+      away: Sidcup 1
+      group: Group D
+      pitch: Parc des Princes
   Sidcup 2:
     12:
       time: 2018-04-29 10:20
-      home: Blackheath 2
+      home: Old Colfeians 3
       away: Sidcup 2
-      group: Group B
-      pitch: Lansdowne Road
+      group: Group E
+      pitch: Stadio Olimpico
     14:
       time: 2018-04-29 11:00
-      home: Old Elthamians 1
+      home: Bromley
       away: Sidcup 2
-      group: Group B
-      pitch: Twickenham
+      group: Group E
+      pitch: Stadio Olimpico
     16:
       time: 2018-04-29 11:40
-      home: Old Albanians 2
+      home: Hackney Bulls
       away: Sidcup 2
-      group: Group B
-      pitch: Lansdowne Road
+      group: Group E
+      pitch: Cardiff Arms Park
     20:
       time: 2018-04-29 13:00
-      home: Bromley 2
+      home: Blackheath 4
       away: Sidcup 2
-      group: Group B
-      pitch: Lansdowne Road
+      group: Group E
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

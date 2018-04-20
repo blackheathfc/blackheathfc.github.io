@@ -1,17 +1,17 @@
 ---
-title: U8 - King's College Hospital RFC
+title: U8 - Ashford RFC
 style: entrant_schedule
 breadcrumbs:
   u8: U8
   entrants: clubs
 items:
-  KCH Pirates:
+  " Ashford":
     1:
       time: 2018-04-29 10:00
-      home: Eton Manor 1
-      away: KCH Pirates
+      home: " Ashford"
+      away: Blackheath 4
       group: Group A
-      pitch: Lansdowne Road
+      pitch: Cardiff Arms Park
     3:
       time: 2018-04-29 10:30
       home: " Ashford"
@@ -20,22 +20,22 @@ items:
       pitch: Twickenham
     5:
       time: 2018-04-29 11:00
-      home: KCH Pirates
-      away: Old Colfeians 3
-      group: Group A
-      pitch: Lansdowne Road
-    7:
-      time: 2018-04-29 11:30
-      home: KCH Pirates
-      away: Sidcup 1
-      group: Group A
-      pitch: Lansdowne Road
-    9:
-      time: 2018-04-29 12:00
-      home: Blackheath 4
-      away: KCH Pirates
+      home: " Ashford"
+      away: Eton Manor 1
       group: Group A
       pitch: Cardiff Arms Park
+    7:
+      time: 2018-04-29 11:30
+      home: " Ashford"
+      away: Old Colfeians 3
+      group: Group A
+      pitch: Cardiff Arms Park
+    9:
+      time: 2018-04-29 12:00
+      home: " Ashford"
+      away: Sidcup 1
+      group: Group A
+      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}

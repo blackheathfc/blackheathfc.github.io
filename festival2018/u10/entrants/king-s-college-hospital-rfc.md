@@ -6,30 +6,24 @@ breadcrumbs:
   entrants: clubs
 items:
   KCH Pirates:
-    12:
-      time: 2018-04-29 10:20
+    22:
+      time: 2018-04-29 10:25
       home: KCH Pirates
-      away: Tunbridge Wells 2
-      group: Group F
-      pitch: Parc des Princes
-    14:
-      time: 2018-04-29 11:00
-      home: KCH Pirates
-      away: Sevenoaks 2
-      group: Group F
-      pitch: Stadio Olimpico
-    18:
-      time: 2018-04-29 12:20
-      home: Bromley
+      away: Sidcup 2
+      group: Group D
+      pitch: Murrayfield
+    24:
+      time: 2018-04-29 11:15
+      home: Blackheath 3
       away: KCH Pirates
-      group: Group F
-      pitch: Parc des Princes
-    20:
-      time: 2018-04-29 13:00
+      group: Group D
+      pitch: Murrayfield
+    26:
+      time: 2018-04-29 12:05
       home: KCH Pirates
       away: Old Colfeians 3
-      group: Group F
-      pitch: Parc des Princes
+      group: Group D
+      pitch: Murrayfield
 ---
 
 {% include schedule_entrant.html %}

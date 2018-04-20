@@ -7,63 +7,63 @@ breadcrumbs:
 items:
   11:
     time: 2018-04-29 10:00
-    home: Canterbury 1
-    away: Old Elthamians 2
-    group: Group C
+    home: " Ashford"
+    away: Old Colfeians 4
+    group: Group A
     pitch: Cardiff Arms Park
   12:
     time: 2018-04-29 10:20
-    home: Canterbury 2
-    away: Old Colfeians 1
-    group: Group D
+    home: Blackheath 4
+    away: Bromley
+    group: Group E
     pitch: Cardiff Arms Park
   13:
     time: 2018-04-29 10:40
-    home: Blackheath 3
-    away: Canterbury 1
-    group: Group C
+    home: KCH Pirates
+    away: Old Colfeians 4
+    group: Group A
     pitch: Cardiff Arms Park
   14:
     time: 2018-04-29 11:00
-    home: Blackheath 4
-    away: Old Colfeians 1
-    group: Group D
+    home: Hackney Bulls
+    away: Old Colfeians 3
+    group: Group E
     pitch: Cardiff Arms Park
   15:
     time: 2018-04-29 11:20
-    home: Blackheath 3
-    away: Tonbridge Juddians 1
-    group: Group C
+    home: Blackheath 5
+    away: KCH Pirates
+    group: Group A
     pitch: Cardiff Arms Park
   16:
     time: 2018-04-29 11:40
-    home: Old Colfeians 1
-    away: Tonbridge Juddians 2
-    group: Group D
+    home: Hackney Bulls
+    away: Sidcup 2
+    group: Group E
     pitch: Cardiff Arms Park
   17:
     time: 2018-04-29 12:00
-    home: Canterbury 1
-    away: Tonbridge Juddians 1
-    group: Group C
+    home: Blackheath 5
+    away: Old Colfeians 4
+    group: Group A
     pitch: Cardiff Arms Park
   18:
     time: 2018-04-29 12:20
-    home: Canterbury 2
-    away: Old Elthamians 3
-    group: Group D
+    home: Blackheath 4
+    away: Hackney Bulls
+    group: Group E
     pitch: Cardiff Arms Park
   19:
     time: 2018-04-29 12:40
-    home: Canterbury 1
-    away: Old Alleynians
-    group: Group C
+    home: " Ashford"
+    away: Blackheath 5
+    group: Group A
     pitch: Cardiff Arms Park
   20:
     time: 2018-04-29 13:00
-    home: Old Colfeians 1
-    away: Old Elthamians 3
-    group: Group D
+    home: Blackheath 4
+    away: Sidcup 2
+    group: Group E
     pitch: Cardiff Arms Park
 ---
 

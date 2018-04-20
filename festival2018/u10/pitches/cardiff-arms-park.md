@@ -5,64 +5,40 @@ breadcrumbs:
   u10: U10
   pitches: pitches
 items:
-  11:
+  21:
     time: 2018-04-29 10:00
-    home: Old Alleynians
-    away: Old Elthamians 2
+    home: Old Colfeians 2
+    away: Sidcup 1
     group: Group C
     pitch: Cardiff Arms Park
-  12:
-    time: 2018-04-29 10:20
-    home: Blackheath 2
-    away: Tonbridge Juddians 2
+  22:
+    time: 2018-04-29 10:25
+    home: Blackheath 3
+    away: Old Colfeians 3
     group: Group D
     pitch: Cardiff Arms Park
-  13:
-    time: 2018-04-29 10:40
-    home: Cambridge 3
-    away: Old Alleynians
+  23:
+    time: 2018-04-29 10:50
+    home: Blackheath 2
+    away: Old Colfeians 2
     group: Group C
     pitch: Cardiff Arms Park
-  14:
-    time: 2018-04-29 11:00
-    home: Blackheath 2
-    away: Old Elthamians 3
+  24:
+    time: 2018-04-29 11:15
+    home: Old Colfeians 3
+    away: Sidcup 2
     group: Group D
     pitch: Cardiff Arms Park
-  15:
-    time: 2018-04-29 11:20
-    home: Cambridge 3
-    away: Old Elthamians 2
-    group: Group C
-    pitch: Cardiff Arms Park
-  16:
+  25:
     time: 2018-04-29 11:40
     home: Blackheath 2
-    away: Hackney Bulls 1
-    group: Group D
-    pitch: Cardiff Arms Park
-  17:
-    time: 2018-04-29 12:00
-    home: Blackheath 1
-    away: Cambridge 3
+    away: Sidcup 1
     group: Group C
     pitch: Cardiff Arms Park
-  18:
-    time: 2018-04-29 12:20
-    home: Hackney Bulls 1
-    away: Tonbridge Juddians 2
-    group: Group D
-    pitch: Cardiff Arms Park
-  19:
-    time: 2018-04-29 12:40
-    home: Blackheath 1
-    away: Old Elthamians 2
-    group: Group C
-    pitch: Cardiff Arms Park
-  20:
-    time: 2018-04-29 13:00
-    home: Old Elthamians 3
-    away: Tonbridge Juddians 2
+  26:
+    time: 2018-04-29 12:05
+    home: Blackheath 3
+    away: Sidcup 2
     group: Group D
     pitch: Cardiff Arms Park
 ---

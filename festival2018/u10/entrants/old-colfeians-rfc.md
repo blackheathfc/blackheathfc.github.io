@@ -6,80 +6,62 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Colfeians 1:
-    14:
-      time: 2018-04-29 11:00
-      home: Old Colfeians 1
-      away: Tonbridge Juddians 2
-      group: Group D
-      pitch: Murrayfield
-    16:
-      time: 2018-04-29 11:40
-      home: Old Colfeians 1
-      away: Old Elthamians 3
-      group: Group D
-      pitch: Murrayfield
-    18:
-      time: 2018-04-29 12:20
-      home: Blackheath 2
+    22:
+      time: 2018-04-29 10:25
+      home: Blackheath 1
       away: Old Colfeians 1
-      group: Group D
-      pitch: Murrayfield
-    20:
-      time: 2018-04-29 13:00
+      group: Group B
+      pitch: Twickenham
+    24:
+      time: 2018-04-29 11:15
+      home: Old Colfeians 1
+      away: Sevenoaks 2
+      group: Group B
+      pitch: Twickenham
+    26:
+      time: 2018-04-29 12:05
       home: Hackney Bulls 1
       away: Old Colfeians 1
-      group: Group D
-      pitch: Murrayfield
+      group: Group B
+      pitch: Twickenham
   Old Colfeians 2:
-    11:
+    21:
       time: 2018-04-29 10:00
+      home: Old Colfeians 2
+      away: Sidcup 1
+      group: Group C
+      pitch: Cardiff Arms Park
+    23:
+      time: 2018-04-29 10:50
+      home: Blackheath 2
+      away: Old Colfeians 2
+      group: Group C
+      pitch: Cardiff Arms Park
+    25:
+      time: 2018-04-29 11:40
       home: Hackney Bulls 2
       away: Old Colfeians 2
-      group: Group E
-      pitch: Parc des Princes
-    13:
-      time: 2018-04-29 10:40
-      home: Blackheath 3
-      away: Old Colfeians 2
-      group: Group E
-      pitch: Parc des Princes
-    15:
-      time: 2018-04-29 11:20
-      home: Old Colfeians 2
-      away: Tunbridge Wells 1
-      group: Group E
-      pitch: Stadio Olimpico
-    17:
-      time: 2018-04-29 12:00
-      home: Old Colfeians 2
-      away: Sevenoaks 1
-      group: Group E
-      pitch: Parc des Princes
+      group: Group C
+      pitch: Murrayfield
   Old Colfeians 3:
-    12:
-      time: 2018-04-29 10:20
-      home: Bromley
+    22:
+      time: 2018-04-29 10:25
+      home: Blackheath 3
       away: Old Colfeians 3
-      group: Group F
-      pitch: Stadio Olimpico
-    16:
-      time: 2018-04-29 11:40
+      group: Group D
+      pitch: Cardiff Arms Park
+    24:
+      time: 2018-04-29 11:15
       home: Old Colfeians 3
-      away: Tunbridge Wells 2
-      group: Group F
-      pitch: Parc des Princes
-    18:
-      time: 2018-04-29 12:20
-      home: Old Colfeians 3
-      away: Sevenoaks 2
-      group: Group F
-      pitch: Stadio Olimpico
-    20:
-      time: 2018-04-29 13:00
+      away: Sidcup 2
+      group: Group D
+      pitch: Cardiff Arms Park
+    26:
+      time: 2018-04-29 12:05
       home: KCH Pirates
       away: Old Colfeians 3
-      group: Group F
-      pitch: Parc des Princes
+      group: Group D
+      pitch: Murrayfield
 ---
 
 {% include schedule_entrant.html %}

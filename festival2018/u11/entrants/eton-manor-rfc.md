@@ -1,23 +1,17 @@
 ---
-title: U11 - Sevenoaks RFC
+title: U11 - Eton Manor RFC
 style: entrant_schedule
 breadcrumbs:
   u11: U11
   entrants: clubs
 items:
-  Sevenoaks 1:
+  Eton Manor 1:
     12:
       time: 2018-04-29 10:25
-      home: Blackheath 1
-      away: Sevenoaks 1
-      group: Group B
-      pitch: Twickenham
-    14:
-      time: 2018-04-29 11:15
-      home: Sevenoaks 1
+      home: Eton Manor 1
       away: Sidcup 2
       group: Group B
-      pitch: Twickenham
+      pitch: Lansdowne Road
     16:
       time: 2018-04-29 12:05
       home: Eton Manor 1
@@ -26,35 +20,41 @@ items:
       pitch: Twickenham
     18:
       time: 2018-04-29 12:55
-      home: KCH Pirates
-      away: Sevenoaks 1
+      home: Blackheath 1
+      away: Eton Manor 1
+      group: Group B
+      pitch: Twickenham
+    20:
+      time: 2018-04-29 13:45
+      home: Eton Manor 1
+      away: KCH Pirates
       group: Group B
       pitch: Lansdowne Road
-  Sevenoaks 2:
+  Eton Manor 2:
+    11:
+      time: 2018-04-29 10:00
+      home: Eton Manor 2
+      away: Old Alleynians
+      group: Group C
+      pitch: Cardiff Arms Park
     13:
       time: 2018-04-29 10:50
       home: Eton Manor 2
       away: Sevenoaks 2
       group: Group C
       pitch: Cardiff Arms Park
-    15:
-      time: 2018-04-29 11:40
-      home: Sevenoaks 2
-      away: Thanet Wanderers
-      group: Group C
-      pitch: Murrayfield
     17:
       time: 2018-04-29 12:30
-      home: Old Alleynians
-      away: Sevenoaks 2
+      home: Blackheath 2
+      away: Eton Manor 2
       group: Group C
-      pitch: Murrayfield
+      pitch: Cardiff Arms Park
     19:
       time: 2018-04-29 13:20
-      home: Blackheath 2
-      away: Sevenoaks 2
+      home: Eton Manor 2
+      away: Thanet Wanderers
       group: Group C
-      pitch: Murrayfield
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

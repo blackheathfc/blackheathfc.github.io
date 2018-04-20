@@ -5,65 +5,35 @@ breadcrumbs:
   u9: U9
   pitches: pitches
 items:
-  11:
+  1:
     time: 2018-04-29 10:00
-    home: Medway
-    away: Sevenoaks 1
-    group: Group E
+    home: Blackheath 2
+    away: Bromley
+    group: Group C
     pitch: Stadio Olimpico
-  12:
-    time: 2018-04-29 10:20
-    home: Blackheath 4
-    away: Old Colfeians 2
-    group: Group E
-    pitch: Stadio Olimpico
-  13:
+  3:
     time: 2018-04-29 10:40
-    home: Medway
-    away: Tonbridge Juddians 2
-    group: Group E
-    pitch: Stadio Olimpico
-  14:
-    time: 2018-04-29 11:00
-    home: Old Colfeians 2
+    home: Bromley
     away: Sevenoaks 1
-    group: Group E
+    group: Group C
     pitch: Stadio Olimpico
-  15:
+  5:
     time: 2018-04-29 11:20
-    home: Blackheath 4
-    away: Medway
-    group: Group E
-    pitch: Stadio Olimpico
-  16:
-    time: 2018-04-29 11:40
-    home: Sevenoaks 1
-    away: Tonbridge Juddians 2
-    group: Group E
-    pitch: Stadio Olimpico
-  17:
-    time: 2018-04-29 12:00
-    home: Medway
-    away: Old Colfeians 2
-    group: Group E
-    pitch: Stadio Olimpico
-  18:
-    time: 2018-04-29 12:20
-    home: Blackheath 4
-    away: Tonbridge Juddians 2
-    group: Group E
-    pitch: Stadio Olimpico
-  19:
-    time: 2018-04-29 12:40
-    home: Blackheath 4
+    home: Blackheath 2
     away: Sevenoaks 1
-    group: Group E
+    group: Group C
     pitch: Stadio Olimpico
-  20:
-    time: 2018-04-29 13:00
-    home: Old Colfeians 2
-    away: Tonbridge Juddians 2
-    group: Group E
+  7:
+    time: 2018-04-29 12:00
+    home: Hackney Bulls
+    away: Sevenoaks 1
+    group: Group C
+    pitch: Stadio Olimpico
+  9:
+    time: 2018-04-29 12:40
+    home: Sevenoaks 1
+    away: Sidcup 2
+    group: Group C
     pitch: Stadio Olimpico
 ---
 

@@ -5,64 +5,40 @@ breadcrumbs:
   u10: U10
   pitches: pitches
 items:
-  11:
+  21:
     time: 2018-04-29 10:00
-    home: Cambridge 1
-    away: Sidcup 1
+    home: " Ashford"
+    away: Sevenoaks 1
     group: Group A
     pitch: Lansdowne Road
-  12:
-    time: 2018-04-29 10:20
-    home: Old Albanians
-    away: Old Elthamians 1
+  22:
+    time: 2018-04-29 10:25
+    home: Hackney Bulls 1
+    away: Sevenoaks 2
     group: Group B
     pitch: Lansdowne Road
-  13:
-    time: 2018-04-29 10:40
-    home: Old Dunstonians
-    away: Sidcup 1
+  23:
+    time: 2018-04-29 10:50
+    home: Old Alleynians
+    away: Sevenoaks 1
     group: Group A
     pitch: Lansdowne Road
-  14:
-    time: 2018-04-29 11:00
-    home: Bishop's Stortford 2
-    away: Old Albanians
+  24:
+    time: 2018-04-29 11:15
+    home: Blackheath 1
+    away: Hackney Bulls 1
     group: Group B
     pitch: Lansdowne Road
-  15:
-    time: 2018-04-29 11:20
-    home: Bishop's Stortford 1
-    away: Old Dunstonians
-    group: Group A
-    pitch: Lansdowne Road
-  16:
+  25:
     time: 2018-04-29 11:40
-    home: Bishop's Stortford 2
-    away: Cambridge 2
-    group: Group B
-    pitch: Lansdowne Road
-  17:
-    time: 2018-04-29 12:00
-    home: Medway
-    away: Sidcup 1
+    home: Bromley
+    away: Sevenoaks 1
     group: Group A
     pitch: Lansdowne Road
-  18:
-    time: 2018-04-29 12:20
-    home: Old Albanians
-    away: Sidcup 2
-    group: Group B
-    pitch: Lansdowne Road
-  19:
-    time: 2018-04-29 12:40
-    home: Medway
-    away: Old Dunstonians
-    group: Group A
-    pitch: Lansdowne Road
-  20:
-    time: 2018-04-29 13:00
-    home: Cambridge 2
-    away: Old Albanians
+  26:
+    time: 2018-04-29 12:05
+    home: Blackheath 1
+    away: Sevenoaks 2
     group: Group B
     pitch: Lansdowne Road
 ---

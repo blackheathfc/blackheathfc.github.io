@@ -5,65 +5,35 @@ breadcrumbs:
   u9: U9
   pitches: pitches
 items:
-  11:
+  1:
     time: 2018-04-29 10:00
-    home: Hampstead
-    away: Sidcup 2
+    home: Old Colfeians 1
+    away: Sevenoaks 1
     group: Group C
     pitch: Parc des Princes
-  12:
-    time: 2018-04-29 10:20
-    home: Blackheath 3
-    away: KCH Pirates
-    group: Group D
-    pitch: Parc des Princes
-  13:
+  3:
     time: 2018-04-29 10:40
-    home: Old Alleynians
-    away: Old Elthamians 2
+    home: Blackheath 2
+    away: Hackney Bulls
     group: Group C
     pitch: Parc des Princes
-  14:
-    time: 2018-04-29 11:00
-    home: KCH Pirates
-    away: Old Colfeians 1
-    group: Group D
-    pitch: Parc des Princes
-  15:
+  5:
     time: 2018-04-29 11:20
-    home: Old Alleynians
+    home: Hackney Bulls
+    away: Old Colfeians 1
+    group: Group C
+    pitch: Parc des Princes
+  7:
+    time: 2018-04-29 12:00
+    home: Blackheath 2
     away: Sidcup 2
     group: Group C
     pitch: Parc des Princes
-  16:
-    time: 2018-04-29 11:40
-    home: Blackheath 3
-    away: Old Elthamians 3
-    group: Group D
-    pitch: Parc des Princes
-  17:
-    time: 2018-04-29 12:00
-    home: Hampstead
-    away: Old Alleynians
-    group: Group C
-    pitch: Parc des Princes
-  18:
-    time: 2018-04-29 12:20
-    home: KCH Pirates
-    away: Old Elthamians 3
-    group: Group D
-    pitch: Parc des Princes
-  19:
+  9:
     time: 2018-04-29 12:40
     home: Blackheath 2
-    away: Old Alleynians
+    away: Old Colfeians 1
     group: Group C
-    pitch: Parc des Princes
-  20:
-    time: 2018-04-29 13:00
-    home: Old Elthamians 3
-    away: Tonbridge Juddians 1
-    group: Group D
     pitch: Parc des Princes
 ---
 

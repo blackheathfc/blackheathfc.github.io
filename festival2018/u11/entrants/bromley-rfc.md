@@ -6,24 +6,30 @@ breadcrumbs:
   entrants: clubs
 items:
   Bromley:
-    21:
+    11:
       time: 2018-04-29 10:00
       home: Bromley
-      away: Medway
-      group: Group C
-      pitch: Murrayfield
-    23:
-      time: 2018-04-29 11:00
+      away: Hackney Bulls
+      group: Group A
+      pitch: Twickenham
+    15:
+      time: 2018-04-29 11:40
+      home: " Ashford"
+      away: Bromley
+      group: Group A
+      pitch: Lansdowne Road
+    17:
+      time: 2018-04-29 12:30
       home: Bromley
-      away: Old Elthamians 2
-      group: Group C
-      pitch: Cardiff Arms Park
-    25:
-      time: 2018-04-29 12:00
+      away: Sidcup 1
+      group: Group A
+      pitch: Twickenham
+    19:
+      time: 2018-04-29 13:20
       home: Bromley
-      away: Sidcup 2
-      group: Group C
-      pitch: Cardiff Arms Park
+      away: Old Colfeians
+      group: Group A
+      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}

@@ -5,41 +5,35 @@ breadcrumbs:
   u11: U11
   pitches: pitches
 items:
-  21:
+  11:
     time: 2018-04-29 10:00
-    home: Bromley
-    away: Medway
+    home: Blackheath 2
+    away: Thanet Wanderers
     group: Group C
     pitch: Murrayfield
-  22:
-    time: 2018-04-29 10:30
+  13:
+    time: 2018-04-29 10:50
     home: Old Alleynians
-    away: Tunbridge Wells
-    group: Group D
-    pitch: Murrayfield
-  23:
-    time: 2018-04-29 11:00
-    home: Medway
-    away: Sidcup 2
+    away: Thanet Wanderers
     group: Group C
     pitch: Murrayfield
-  24:
-    time: 2018-04-29 11:30
-    home: Hackney Bulls
-    away: Old Alleynians
-    group: Group D
-    pitch: Murrayfield
-  25:
-    time: 2018-04-29 12:00
-    home: Medway
-    away: Old Elthamians 2
+  15:
+    time: 2018-04-29 11:40
+    home: Sevenoaks 2
+    away: Thanet Wanderers
     group: Group C
     pitch: Murrayfield
-  26:
+  17:
     time: 2018-04-29 12:30
     home: Old Alleynians
-    away: Sevenoaks 1
-    group: Group D
+    away: Sevenoaks 2
+    group: Group C
+    pitch: Murrayfield
+  19:
+    time: 2018-04-29 13:20
+    home: Blackheath 2
+    away: Sevenoaks 2
+    group: Group C
     pitch: Murrayfield
 ---
 

@@ -6,30 +6,24 @@ breadcrumbs:
   entrants: clubs
 items:
   Bromley:
-    12:
-      time: 2018-04-29 10:20
+    21:
+      time: 2018-04-29 10:00
       home: Bromley
-      away: Old Colfeians 3
-      group: Group F
-      pitch: Stadio Olimpico
-    14:
-      time: 2018-04-29 11:00
-      home: Bromley
-      away: Tunbridge Wells 2
-      group: Group F
-      pitch: Parc des Princes
-    16:
+      away: Old Alleynians
+      group: Group A
+      pitch: Twickenham
+    23:
+      time: 2018-04-29 10:50
+      home: " Ashford"
+      away: Bromley
+      group: Group A
+      pitch: Twickenham
+    25:
       time: 2018-04-29 11:40
       home: Bromley
-      away: Sevenoaks 2
-      group: Group F
-      pitch: Stadio Olimpico
-    18:
-      time: 2018-04-29 12:20
-      home: Bromley
-      away: KCH Pirates
-      group: Group F
-      pitch: Parc des Princes
+      away: Sevenoaks 1
+      group: Group A
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

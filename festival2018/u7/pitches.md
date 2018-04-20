@@ -10,8 +10,6 @@ items:
 - Murrayfield
 - Parc des Princes
 - Stadio Olimpico
-- Ellis Park
-- Eden Park
 ---
 
 {% include pitch_list.html %}

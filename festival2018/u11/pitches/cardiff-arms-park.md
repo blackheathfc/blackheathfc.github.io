@@ -5,41 +5,35 @@ breadcrumbs:
   u11: U11
   pitches: pitches
 items:
-  21:
+  11:
     time: 2018-04-29 10:00
-    home: Old Elthamians 2
-    away: Sidcup 2
+    home: Eton Manor 2
+    away: Old Alleynians
     group: Group C
     pitch: Cardiff Arms Park
-  22:
-    time: 2018-04-29 10:30
-    home: Hackney Bulls
-    away: Sevenoaks 1
-    group: Group D
-    pitch: Cardiff Arms Park
-  23:
-    time: 2018-04-29 11:00
-    home: Bromley
-    away: Old Elthamians 2
+  13:
+    time: 2018-04-29 10:50
+    home: Eton Manor 2
+    away: Sevenoaks 2
     group: Group C
     pitch: Cardiff Arms Park
-  24:
-    time: 2018-04-29 11:30
-    home: Sevenoaks 1
-    away: Tunbridge Wells
-    group: Group D
-    pitch: Cardiff Arms Park
-  25:
-    time: 2018-04-29 12:00
-    home: Bromley
-    away: Sidcup 2
+  15:
+    time: 2018-04-29 11:40
+    home: Blackheath 2
+    away: Old Alleynians
     group: Group C
     pitch: Cardiff Arms Park
-  26:
+  17:
     time: 2018-04-29 12:30
-    home: Hackney Bulls
-    away: Tunbridge Wells
-    group: Group D
+    home: Blackheath 2
+    away: Eton Manor 2
+    group: Group C
+    pitch: Cardiff Arms Park
+  19:
+    time: 2018-04-29 13:20
+    home: Eton Manor 2
+    away: Thanet Wanderers
+    group: Group C
     pitch: Cardiff Arms Park
 ---
 

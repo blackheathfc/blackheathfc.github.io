@@ -5,64 +5,40 @@ breadcrumbs:
   u10: U10
   pitches: pitches
 items:
-  11:
+  21:
     time: 2018-04-29 10:00
-    home: Bishop's Stortford 1
-    away: Medway
+    home: Bromley
+    away: Old Alleynians
     group: Group A
     pitch: Twickenham
-  12:
-    time: 2018-04-29 10:20
-    home: Cambridge 2
-    away: Sidcup 2
+  22:
+    time: 2018-04-29 10:25
+    home: Blackheath 1
+    away: Old Colfeians 1
     group: Group B
     pitch: Twickenham
-  13:
-    time: 2018-04-29 10:40
-    home: Bishop's Stortford 1
-    away: Cambridge 1
+  23:
+    time: 2018-04-29 10:50
+    home: " Ashford"
+    away: Bromley
     group: Group A
     pitch: Twickenham
-  14:
-    time: 2018-04-29 11:00
-    home: Cambridge 2
-    away: Old Elthamians 1
+  24:
+    time: 2018-04-29 11:15
+    home: Old Colfeians 1
+    away: Sevenoaks 2
     group: Group B
     pitch: Twickenham
-  15:
-    time: 2018-04-29 11:20
-    home: Cambridge 1
-    away: Medway
-    group: Group A
-    pitch: Twickenham
-  16:
+  25:
     time: 2018-04-29 11:40
-    home: Old Elthamians 1
-    away: Sidcup 2
-    group: Group B
-    pitch: Twickenham
-  17:
-    time: 2018-04-29 12:00
-    home: Cambridge 1
-    away: Old Dunstonians
+    home: " Ashford"
+    away: Old Alleynians
     group: Group A
     pitch: Twickenham
-  18:
-    time: 2018-04-29 12:20
-    home: Bishop's Stortford 2
-    away: Old Elthamians 1
-    group: Group B
-    pitch: Twickenham
-  19:
-    time: 2018-04-29 12:40
-    home: Bishop's Stortford 1
-    away: Sidcup 1
-    group: Group A
-    pitch: Twickenham
-  20:
-    time: 2018-04-29 13:00
-    home: Bishop's Stortford 2
-    away: Sidcup 2
+  26:
+    time: 2018-04-29 12:05
+    home: Hackney Bulls 1
+    away: Old Colfeians 1
     group: Group B
     pitch: Twickenham
 ---

@@ -4,22 +4,17 @@ style: entrant_list
 breadcrumbs:
   u7: U7
 items:
+- Ashford RFC
 - Blackheath FC
 - Bromley RFC
 - Canterbury RFC
+- Eton Manor RFC
 - Hackney RFC
-- Hampstead RFC
 - King's College Hospital RFC
-- Medway RFC
-- Old Albanian RFC
 - Old Alleynian FC
 - Old Colfeians RFC
-- Old Dunstonian RFC
-- Old Elthamians RFC
 - Sevenoaks RFC
 - Sidcup RFC
-- Tonbridge Juddians RFC
-- Tunbridge Wells RFC
 - Westcombe Park RFC
 ---
 

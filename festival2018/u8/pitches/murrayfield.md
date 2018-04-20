@@ -7,62 +7,62 @@ breadcrumbs:
 items:
   11:
     time: 2018-04-29 10:00
-    home: Canterbury 2
-    away: Old Albanians 1
+    home: Blackheath 2
+    away: Sevenoaks 1
     group: Group C
     pitch: Murrayfield
   12:
     time: 2018-04-29 10:20
-    home: Old Albanians 2
-    away: Sidcup 1
+    home: Old Colfeians 2
+    away: Sevenoaks 2
     group: Group D
     pitch: Murrayfield
   13:
     time: 2018-04-29 10:40
-    home: Bishop's Stortford 3
-    away: Canterbury 2
+    home: Sevenoaks 1
+    away: Sidcup 3
     group: Group C
     pitch: Murrayfield
   14:
     time: 2018-04-29 11:00
-    home: Hackney Bulls 1
-    away: Old Albanians 2
+    home: Canterbury 2
+    away: Sevenoaks 2
     group: Group D
     pitch: Murrayfield
   15:
     time: 2018-04-29 11:20
-    home: Canterbury 2
-    away: Old Dunstonians
+    home: Old Colfeians 1
+    away: Sevenoaks 1
     group: Group C
     pitch: Murrayfield
   16:
     time: 2018-04-29 11:40
-    home: Blackheath 1
-    away: Old Albanians 2
+    home: Blackheath 3
+    away: Sevenoaks 2
     group: Group D
     pitch: Murrayfield
   17:
     time: 2018-04-29 12:00
-    home: Bishop's Stortford 3
-    away: Old Dunstonians
+    home: Hackney Bulls 1
+    away: Sevenoaks 1
     group: Group C
     pitch: Murrayfield
   18:
     time: 2018-04-29 12:20
-    home: Blackheath 1
-    away: Old Elthamians 1
+    home: Blackheath 3
+    away: Old Colfeians 2
     group: Group D
     pitch: Murrayfield
   19:
     time: 2018-04-29 12:40
-    home: Bishop's Stortford 3
-    away: Old Albanians 1
+    home: Canterbury 1
+    away: Sevenoaks 1
     group: Group C
     pitch: Murrayfield
   20:
     time: 2018-04-29 13:00
-    home: Old Albanians 2
-    away: Old Elthamians 1
+    home: Canterbury 2
+    away: Old Colfeians 2
     group: Group D
     pitch: Murrayfield
 ---
