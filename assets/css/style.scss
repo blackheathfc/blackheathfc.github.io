@@ -9,6 +9,7 @@
 
 section {
   border: none;
+  padding: 0;
   width: 540px;
 }
 
@@ -57,11 +58,16 @@ section {
 }
 
 @media screen and (max-width: 960px) {
-  h1 { display: inline-block; }
+  header {
+    width: fit-content;
 
-  .subtitle {
-    display: inline-block;
-    margin: 0 0 0 2em;
+    h1, .subtitle {
+      display: inline-block;
+      font-size: 15px;
+      margin: 0 0 1em;
+    }
+
+    .subtitle { &:before { content: " | " } }
   }
 
   .category {
