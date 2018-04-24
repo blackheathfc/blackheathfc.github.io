@@ -7,319 +7,241 @@ items:
   Group A:
     Twickenham:
     - time: 2018-04-29 10:00
-      home: Blackheath 4
-      away: Eton Manor 1
-      group: Group A
-      pitch: Twickenham
-    - time: 2018-04-29 10:30
-      home: Blackheath 4
-      away: Old Alleynians
-      group: Group A
-      pitch: Twickenham
-    - time: 2018-04-29 11:00
       home: Ashford
-      away: Blackheath 4
+      away: Hackney Bulls
       group: Group A
       pitch: Twickenham
-    - time: 2018-04-29 11:30
-      home: Ashford
-      away: Eton Manor 1
+    - time: 2018-04-29 10:40
+      home: Blackheath 4
+      away: Hackney Bulls
+      group: Group A
+      pitch: Twickenham
+    - time: 2018-04-29 11:20
+      home: Hackney Bulls
+      away: Old Colfeians 2
       group: Group A
       pitch: Twickenham
     - time: 2018-04-29 12:00
-      home: Ashford
-      away: Old Alleynians
+      home: Blackheath 4
+      away: Old Colfeians 2
+      group: Group A
+      pitch: Twickenham
+    - time: 2018-04-29 12:40
+      home: Hackney Bulls
+      away: Westcombe Park
       group: Group A
       pitch: Twickenham
     Lansdowne Road:
     - time: 2018-04-29 10:00
-      home: Old Alleynians
-      away: Old Colfeians 4
+      home: Blackheath 4
+      away: Westcombe Park
       group: Group A
       pitch: Lansdowne Road
-    - time: 2018-04-29 10:30
-      home: Blackheath 8
-      away: Eton Manor 1
+    - time: 2018-04-29 10:40
+      home: Ashford
+      away: Blackheath 8
       group: Group A
       pitch: Lansdowne Road
-    - time: 2018-04-29 11:00
+    - time: 2018-04-29 11:20
       home: Blackheath 8
-      away: Old Colfeians 4
-      group: Group A
-      pitch: Lansdowne Road
-    - time: 2018-04-29 11:30
-      home: Blackheath 8
-      away: Old Alleynians
+      away: Westcombe Park
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 12:00
-      home: Eton Manor 1
-      away: Old Colfeians 4
+      home: Blackheath 8
+      away: Hackney Bulls
+      group: Group A
+      pitch: Lansdowne Road
+    - time: 2018-04-29 12:40
+      home: Blackheath 4
+      away: Blackheath 8
       group: Group A
       pitch: Lansdowne Road
     Cardiff Arms Park:
     - time: 2018-04-29 10:00
+      home: Blackheath 8
+      away: Old Colfeians 2
+      group: Group A
+      pitch: Cardiff Arms Park
+    - time: 2018-04-29 10:40
+      home: Old Colfeians 2
+      away: Westcombe Park
+      group: Group A
+      pitch: Cardiff Arms Park
+    - time: 2018-04-29 11:20
       home: Ashford
-      away: Blackheath 8
-      group: Group A
-      pitch: Cardiff Arms Park
-    - time: 2018-04-29 10:30
-      home: Ashford
-      away: Old Colfeians 4
-      group: Group A
-      pitch: Cardiff Arms Park
-    - time: 2018-04-29 11:00
-      home: Eton Manor 1
-      away: Old Alleynians
-      group: Group A
-      pitch: Cardiff Arms Park
-    - time: 2018-04-29 11:30
-      home: Blackheath 4
-      away: Old Colfeians 4
+      away: Blackheath 4
       group: Group A
       pitch: Cardiff Arms Park
     - time: 2018-04-29 12:00
-      home: Blackheath 4
-      away: Blackheath 8
+      home: Ashford
+      away: Westcombe Park
+      group: Group A
+      pitch: Cardiff Arms Park
+    - time: 2018-04-29 12:40
+      home: Ashford
+      away: Old Colfeians 2
       group: Group A
       pitch: Cardiff Arms Park
   Group B:
     Twickenham:
-    - time: 2018-04-29 10:15
+    - time: 2018-04-29 10:20
       home: Blackheath 5
-      away: Eton Manor 2
+      away: KCH Pirates
       group: Group B
       pitch: Twickenham
-    - time: 2018-04-29 10:45
-      home: Eton Manor 2
-      away: Old Colfeians 5
-      group: Group B
-      pitch: Twickenham
-    - time: 2018-04-29 11:15
-      home: Bromley
-      away: Eton Manor 2
-      group: Group B
-      pitch: Twickenham
-    - time: 2018-04-29 11:45
+    - time: 2018-04-29 11:00
       home: Blackheath 5
       away: Bromley
       group: Group B
       pitch: Twickenham
-    - time: 2018-04-29 12:15
-      home: Eton Manor 2
-      away: Old Colfeians 1
+    - time: 2018-04-29 11:40
+      home: Bromley
+      away: KCH Pirates
+      group: Group B
+      pitch: Twickenham
+    - time: 2018-04-29 12:20
+      home: Bromley
+      away: Old Colfeians 3
+      group: Group B
+      pitch: Twickenham
+    - time: 2018-04-29 13:00
+      home: Blackheath 1
+      away: Bromley
       group: Group B
       pitch: Twickenham
     Lansdowne Road:
-    - time: 2018-04-29 10:15
-      home: Bromley
-      away: Old Colfeians 5
+    - time: 2018-04-29 10:20
+      home: Blackheath 1
+      away: Old Colfeians 3
       group: Group B
       pitch: Lansdowne Road
-    - time: 2018-04-29 10:45
+    - time: 2018-04-29 11:00
+      home: KCH Pirates
+      away: Old Colfeians 3
+      group: Group B
+      pitch: Lansdowne Road
+    - time: 2018-04-29 11:40
       home: Blackheath 1
       away: Blackheath 5
       group: Group B
       pitch: Lansdowne Road
-    - time: 2018-04-29 11:15
+    - time: 2018-04-29 12:20
+      home: Blackheath 1
+      away: KCH Pirates
+      group: Group B
+      pitch: Lansdowne Road
+    - time: 2018-04-29 13:00
       home: Blackheath 5
-      away: Old Colfeians 1
+      away: Old Colfeians 3
       group: Group B
       pitch: Lansdowne Road
-    - time: 2018-04-29 11:45
-      home: Blackheath 1
-      away: Eton Manor 2
-      group: Group B
-      pitch: Lansdowne Road
-    - time: 2018-04-29 12:15
-      home: Blackheath 5
-      away: Old Colfeians 5
-      group: Group B
-      pitch: Lansdowne Road
-    Cardiff Arms Park:
-    - time: 2018-04-29 10:15
-      home: Blackheath 1
-      away: Old Colfeians 1
-      group: Group B
-      pitch: Cardiff Arms Park
-    - time: 2018-04-29 10:45
-      home: Bromley
-      away: Old Colfeians 1
-      group: Group B
-      pitch: Cardiff Arms Park
-    - time: 2018-04-29 11:15
-      home: Blackheath 1
-      away: Old Colfeians 5
-      group: Group B
-      pitch: Cardiff Arms Park
-    - time: 2018-04-29 11:45
-      home: Old Colfeians 1
-      away: Old Colfeians 5
-      group: Group B
-      pitch: Cardiff Arms Park
-    - time: 2018-04-29 12:15
-      home: Blackheath 1
-      away: Bromley
-      group: Group B
-      pitch: Cardiff Arms Park
   Group C:
     Murrayfield:
     - time: 2018-04-29 10:00
-      home: Blackheath 6
-      away: Old Colfeians 2
-      group: Group C
-      pitch: Murrayfield
-    - time: 2018-04-29 10:30
       home: Blackheath 2
-      away: Old Colfeians 2
+      away: Old Colfeians 4
       group: Group C
       pitch: Murrayfield
-    - time: 2018-04-29 11:00
-      home: Hackney Bulls
-      away: Old Colfeians 2
+    - time: 2018-04-29 10:40
+      home: Eton Manor 1
+      away: Old Colfeians 4
       group: Group C
       pitch: Murrayfield
-    - time: 2018-04-29 11:30
-      home: Blackheath 6
-      away: Hackney Bulls
+    - time: 2018-04-29 11:20
+      home: Eton Manor 1
+      away: Old Alleynians
       group: Group C
       pitch: Murrayfield
     - time: 2018-04-29 12:00
+      home: Blackheath 6
+      away: Old Colfeians 4
+      group: Group C
+      pitch: Murrayfield
+    - time: 2018-04-29 12:40
+      home: Old Alleynians
+      away: Old Colfeians 4
+      group: Group C
+      pitch: Murrayfield
+    Parc des Princes:
+    - time: 2018-04-29 10:00
+      home: Blackheath 6
+      away: Old Alleynians
+      group: Group C
+      pitch: Parc des Princes
+    - time: 2018-04-29 10:40
+      home: Blackheath 2
+      away: Old Alleynians
+      group: Group C
+      pitch: Parc des Princes
+    - time: 2018-04-29 11:20
       home: Blackheath 2
       away: Blackheath 6
       group: Group C
-      pitch: Murrayfield
-    Parc des Princes:
-    - time: 2018-04-29 10:00
-      home: Blackheath 2
-      away: Hackney Bulls
-      group: Group C
-      pitch: Parc des Princes
-    - time: 2018-04-29 10:30
-      home: Blackheath 6
-      away: Canterbury 1
-      group: Group C
-      pitch: Parc des Princes
-    - time: 2018-04-29 11:00
-      home: Blackheath 2
-      away: Canterbury 1
-      group: Group C
-      pitch: Parc des Princes
-    - time: 2018-04-29 11:30
-      home: Blackheath 2
-      away: Westcombe Park
-      group: Group C
       pitch: Parc des Princes
     - time: 2018-04-29 12:00
-      home: Old Colfeians 2
-      away: Westcombe Park
+      home: Blackheath 2
+      away: Eton Manor 1
       group: Group C
       pitch: Parc des Princes
-    Stadio Olimpico:
-    - time: 2018-04-29 10:00
-      home: Canterbury 1
-      away: Westcombe Park
-      group: Group C
-      pitch: Stadio Olimpico
-    - time: 2018-04-29 10:30
-      home: Hackney Bulls
-      away: Westcombe Park
-      group: Group C
-      pitch: Stadio Olimpico
-    - time: 2018-04-29 11:00
+    - time: 2018-04-29 12:40
       home: Blackheath 6
-      away: Westcombe Park
+      away: Eton Manor 1
       group: Group C
-      pitch: Stadio Olimpico
-    - time: 2018-04-29 11:30
-      home: Canterbury 1
-      away: Old Colfeians 2
-      group: Group C
-      pitch: Stadio Olimpico
-    - time: 2018-04-29 12:00
-      home: Canterbury 1
-      away: Hackney Bulls
-      group: Group C
-      pitch: Stadio Olimpico
+      pitch: Parc des Princes
   Group D:
     Murrayfield:
-    - time: 2018-04-29 10:15
-      home: Canterbury 2
-      away: Barbarians
+    - time: 2018-04-29 10:20
+      home: Blackheath 7
+      away: Old Colfeians 1
       group: Group D
       pitch: Murrayfield
-    - time: 2018-04-29 10:45
-      home: Blackheath 3
-      away: Canterbury 2
-      group: Group D
-      pitch: Murrayfield
-    - time: 2018-04-29 11:15
-      home: Canterbury 2
-      away: KCH Pirates
-      group: Group D
-      pitch: Murrayfield
-    - time: 2018-04-29 11:45
-      home: Blackheath 3
-      away: Old Colfeians 3
-      group: Group D
-      pitch: Murrayfield
-    - time: 2018-04-29 12:15
-      home: Canterbury 2
-      away: Old Colfeians 3
-      group: Group D
-      pitch: Murrayfield
-    Parc des Princes:
-    - time: 2018-04-29 10:15
+    - time: 2018-04-29 11:00
       home: Blackheath 3
       away: Blackheath 7
       group: Group D
-      pitch: Parc des Princes
-    - time: 2018-04-29 10:45
-      home: Old Colfeians 3
-      away: Barbarians
-      group: Group D
-      pitch: Parc des Princes
-    - time: 2018-04-29 11:15
+      pitch: Murrayfield
+    - time: 2018-04-29 11:40
       home: Blackheath 3
-      away: Barbarians
+      away: Old Colfeians 1
       group: Group D
-      pitch: Parc des Princes
-    - time: 2018-04-29 11:45
-      home: KCH Pirates
-      away: Barbarians
+      pitch: Murrayfield
+    - time: 2018-04-29 12:20
+      home: Old Colfeians 1
+      away: Old Colfeians 5
       group: Group D
-      pitch: Parc des Princes
-    - time: 2018-04-29 12:15
+      pitch: Murrayfield
+    - time: 2018-04-29 13:00
+      home: Blackheath 7
+      away: Old Colfeians 5
+      group: Group D
+      pitch: Murrayfield
+    Parc des Princes:
+    - time: 2018-04-29 10:20
       home: Blackheath 3
-      away: KCH Pirates
+      away: Old Colfeians 5
       group: Group D
       pitch: Parc des Princes
-    Stadio Olimpico:
-    - time: 2018-04-29 10:15
-      home: KCH Pirates
-      away: Old Colfeians 3
+    - time: 2018-04-29 11:00
+      home: Eton Manor 2
+      away: Old Colfeians 5
       group: Group D
-      pitch: Stadio Olimpico
-    - time: 2018-04-29 10:45
+      pitch: Parc des Princes
+    - time: 2018-04-29 11:40
       home: Blackheath 7
-      away: KCH Pirates
+      away: Eton Manor 2
       group: Group D
-      pitch: Stadio Olimpico
-    - time: 2018-04-29 11:15
-      home: Blackheath 7
-      away: Old Colfeians 3
+      pitch: Parc des Princes
+    - time: 2018-04-29 12:20
+      home: Blackheath 3
+      away: Eton Manor 2
       group: Group D
-      pitch: Stadio Olimpico
-    - time: 2018-04-29 11:45
-      home: Blackheath 7
-      away: Canterbury 2
+      pitch: Parc des Princes
+    - time: 2018-04-29 13:00
+      home: Eton Manor 2
+      away: Old Colfeians 1
       group: Group D
-      pitch: Stadio Olimpico
-    - time: 2018-04-29 12:15
-      home: Blackheath 7
-      away: Barbarians
-      group: Group D
-      pitch: Stadio Olimpico
+      pitch: Parc des Princes
 ---
 
 {% include schedule_groups.html %}

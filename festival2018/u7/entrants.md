@@ -5,10 +5,8 @@ breadcrumbs:
   u7: U7
 items:
 - Ashford RFC
-- Barbarians
 - Blackheath FC
 - Bromley RFC
-- Canterbury RFC
 - Eton Manor RFC
 - Hackney RFC
 - King's College Hospital RFC

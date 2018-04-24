@@ -5,64 +5,64 @@ breadcrumbs:
   u7: U7
   pitches: pitches
 items:
-  1:
+  11:
     time: 2018-04-29 10:00
-    home: Blackheath 4
-    away: Eton Manor 1
+    home: Ashford
+    away: Hackney Bulls
     group: Group A
     pitch: Twickenham
-  2:
-    time: 2018-04-29 10:15
+  12:
+    time: 2018-04-29 10:20
     home: Blackheath 5
-    away: Eton Manor 2
+    away: KCH Pirates
     group: Group B
     pitch: Twickenham
-  3:
-    time: 2018-04-29 10:30
+  13:
+    time: 2018-04-29 10:40
     home: Blackheath 4
-    away: Old Alleynians
+    away: Hackney Bulls
     group: Group A
     pitch: Twickenham
-  4:
-    time: 2018-04-29 10:45
-    home: Eton Manor 2
-    away: Old Colfeians 5
-    group: Group B
-    pitch: Twickenham
-  5:
+  14:
     time: 2018-04-29 11:00
-    home: Ashford
-    away: Blackheath 4
-    group: Group A
-    pitch: Twickenham
-  6:
-    time: 2018-04-29 11:15
-    home: Bromley
-    away: Eton Manor 2
-    group: Group B
-    pitch: Twickenham
-  7:
-    time: 2018-04-29 11:30
-    home: Ashford
-    away: Eton Manor 1
-    group: Group A
-    pitch: Twickenham
-  8:
-    time: 2018-04-29 11:45
     home: Blackheath 5
     away: Bromley
     group: Group B
     pitch: Twickenham
-  9:
-    time: 2018-04-29 12:00
-    home: Ashford
-    away: Old Alleynians
+  15:
+    time: 2018-04-29 11:20
+    home: Hackney Bulls
+    away: Old Colfeians 2
     group: Group A
     pitch: Twickenham
-  10:
-    time: 2018-04-29 12:15
-    home: Eton Manor 2
-    away: Old Colfeians 1
+  16:
+    time: 2018-04-29 11:40
+    home: Bromley
+    away: KCH Pirates
+    group: Group B
+    pitch: Twickenham
+  17:
+    time: 2018-04-29 12:00
+    home: Blackheath 4
+    away: Old Colfeians 2
+    group: Group A
+    pitch: Twickenham
+  18:
+    time: 2018-04-29 12:20
+    home: Bromley
+    away: Old Colfeians 3
+    group: Group B
+    pitch: Twickenham
+  19:
+    time: 2018-04-29 12:40
+    home: Hackney Bulls
+    away: Westcombe Park
+    group: Group A
+    pitch: Twickenham
+  20:
+    time: 2018-04-29 13:00
+    home: Blackheath 1
+    away: Bromley
     group: Group B
     pitch: Twickenham
 ---

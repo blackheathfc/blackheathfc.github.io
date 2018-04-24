@@ -5,65 +5,35 @@ breadcrumbs:
   u7: U7
   pitches: pitches
 items:
-  1:
+  11:
     time: 2018-04-29 10:00
+    home: Blackheath 8
+    away: Old Colfeians 2
+    group: Group A
+    pitch: Cardiff Arms Park
+  13:
+    time: 2018-04-29 10:40
+    home: Old Colfeians 2
+    away: Westcombe Park
+    group: Group A
+    pitch: Cardiff Arms Park
+  15:
+    time: 2018-04-29 11:20
     home: Ashford
-    away: Blackheath 8
+    away: Blackheath 4
     group: Group A
     pitch: Cardiff Arms Park
-  2:
-    time: 2018-04-29 10:15
-    home: Blackheath 1
-    away: Old Colfeians 1
-    group: Group B
-    pitch: Cardiff Arms Park
-  3:
-    time: 2018-04-29 10:30
-    home: Ashford
-    away: Old Colfeians 4
-    group: Group A
-    pitch: Cardiff Arms Park
-  4:
-    time: 2018-04-29 10:45
-    home: Bromley
-    away: Old Colfeians 1
-    group: Group B
-    pitch: Cardiff Arms Park
-  5:
-    time: 2018-04-29 11:00
-    home: Eton Manor 1
-    away: Old Alleynians
-    group: Group A
-    pitch: Cardiff Arms Park
-  6:
-    time: 2018-04-29 11:15
-    home: Blackheath 1
-    away: Old Colfeians 5
-    group: Group B
-    pitch: Cardiff Arms Park
-  7:
-    time: 2018-04-29 11:30
-    home: Blackheath 4
-    away: Old Colfeians 4
-    group: Group A
-    pitch: Cardiff Arms Park
-  8:
-    time: 2018-04-29 11:45
-    home: Old Colfeians 1
-    away: Old Colfeians 5
-    group: Group B
-    pitch: Cardiff Arms Park
-  9:
+  17:
     time: 2018-04-29 12:00
-    home: Blackheath 4
-    away: Blackheath 8
+    home: Ashford
+    away: Westcombe Park
     group: Group A
     pitch: Cardiff Arms Park
-  10:
-    time: 2018-04-29 12:15
-    home: Blackheath 1
-    away: Bromley
-    group: Group B
+  19:
+    time: 2018-04-29 12:40
+    home: Ashford
+    away: Old Colfeians 2
+    group: Group A
     pitch: Cardiff Arms Park
 ---
 

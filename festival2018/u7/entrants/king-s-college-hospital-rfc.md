@@ -6,36 +6,30 @@ breadcrumbs:
   entrants: clubs
 items:
   KCH Pirates:
-    2:
-      time: 2018-04-29 10:15
+    12:
+      time: 2018-04-29 10:20
+      home: Blackheath 5
+      away: KCH Pirates
+      group: Group B
+      pitch: Twickenham
+    14:
+      time: 2018-04-29 11:00
       home: KCH Pirates
       away: Old Colfeians 3
-      group: Group D
-      pitch: Stadio Olimpico
-    4:
-      time: 2018-04-29 10:45
-      home: Blackheath 7
+      group: Group B
+      pitch: Lansdowne Road
+    16:
+      time: 2018-04-29 11:40
+      home: Bromley
       away: KCH Pirates
-      group: Group D
-      pitch: Stadio Olimpico
-    6:
-      time: 2018-04-29 11:15
-      home: Canterbury 2
+      group: Group B
+      pitch: Twickenham
+    18:
+      time: 2018-04-29 12:20
+      home: Blackheath 1
       away: KCH Pirates
-      group: Group D
-      pitch: Murrayfield
-    8:
-      time: 2018-04-29 11:45
-      home: KCH Pirates
-      away: Barbarians
-      group: Group D
-      pitch: Parc des Princes
-    10:
-      time: 2018-04-29 12:15
-      home: Blackheath 3
-      away: KCH Pirates
-      group: Group D
-      pitch: Parc des Princes
+      group: Group B
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}
