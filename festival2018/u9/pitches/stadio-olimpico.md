@@ -14,25 +14,25 @@ items:
   3:
     time: 2018-04-29 10:40
     home: Bromley
-    away: Sevenoaks 1
+    away: Sevenoaks 2
     group: Group C
     pitch: Stadio Olimpico
   5:
     time: 2018-04-29 11:20
     home: Blackheath 2
-    away: Sevenoaks 1
+    away: Sevenoaks 2
     group: Group C
     pitch: Stadio Olimpico
   7:
     time: 2018-04-29 12:00
     home: Hackney Bulls
-    away: Sevenoaks 1
+    away: Sevenoaks 2
     group: Group C
     pitch: Stadio Olimpico
   9:
     time: 2018-04-29 12:40
-    home: Sevenoaks 1
-    away: Sidcup 2
+    home: Sevenoaks 2
+    away: Barbarians
     group: Group C
     pitch: Stadio Olimpico
 ---

@@ -6,55 +6,67 @@ breadcrumbs:
   entrants: clubs
 items:
   Eton Manor 1:
-    12:
-      time: 2018-04-29 10:20
-      home: Blackheath 7
+    1:
+      time: 2018-04-29 10:00
+      home: Blackheath 4
       away: Eton Manor 1
-      group: Group C
+      group: Group A
       pitch: Twickenham
-    14:
-      time: 2018-04-29 11:00
-      home: Eton Manor 1
-      away: Old Colfeians 1
-      group: Group C
-      pitch: Twickenham
-    16:
-      time: 2018-04-29 11:40
-      home: Blackheath 2
-      away: Eton Manor 1
-      group: Group C
-      pitch: Twickenham
-    18:
-      time: 2018-04-29 12:20
-      home: Eton Manor 1
-      away: Sevenoaks 2
-      group: Group C
-      pitch: Twickenham
-  Eton Manor 2:
-    12:
-      time: 2018-04-29 10:20
+    3:
+      time: 2018-04-29 10:30
       home: Blackheath 8
-      away: Eton Manor 2
-      group: Group D
-      pitch: Parc des Princes
-    14:
+      away: Eton Manor 1
+      group: Group A
+      pitch: Lansdowne Road
+    5:
       time: 2018-04-29 11:00
-      home: Eton Manor 2
-      away: Old Colfeians 2
-      group: Group D
-      pitch: Parc des Princes
-    16:
-      time: 2018-04-29 11:40
-      home: Blackheath 3
+      home: Eton Manor 1
+      away: Old Alleynians
+      group: Group A
+      pitch: Cardiff Arms Park
+    7:
+      time: 2018-04-29 11:30
+      home: Ashford
+      away: Eton Manor 1
+      group: Group A
+      pitch: Twickenham
+    9:
+      time: 2018-04-29 12:00
+      home: Eton Manor 1
+      away: Old Colfeians 4
+      group: Group A
+      pitch: Lansdowne Road
+  Eton Manor 2:
+    2:
+      time: 2018-04-29 10:15
+      home: Blackheath 5
       away: Eton Manor 2
-      group: Group D
-      pitch: Parc des Princes
-    18:
-      time: 2018-04-29 12:20
+      group: Group B
+      pitch: Twickenham
+    4:
+      time: 2018-04-29 10:45
       home: Eton Manor 2
-      away: Sidcup 1
-      group: Group D
-      pitch: Parc des Princes
+      away: Old Colfeians 5
+      group: Group B
+      pitch: Twickenham
+    6:
+      time: 2018-04-29 11:15
+      home: Bromley
+      away: Eton Manor 2
+      group: Group B
+      pitch: Twickenham
+    8:
+      time: 2018-04-29 11:45
+      home: Blackheath 1
+      away: Eton Manor 2
+      group: Group B
+      pitch: Lansdowne Road
+    10:
+      time: 2018-04-29 12:15
+      home: Eton Manor 2
+      away: Old Colfeians 1
+      group: Group B
+      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}

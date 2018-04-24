@@ -6,36 +6,30 @@ breadcrumbs:
   entrants: clubs
 items:
   Bromley:
-    2:
-      time: 2018-04-29 10:15
+    12:
+      time: 2018-04-29 10:20
       home: Blackheath 1
       away: Bromley
       group: Group B
-      pitch: Cardiff Arms Park
-    4:
-      time: 2018-04-29 10:45
-      home: Bromley
-      away: Eton Manor 2
-      group: Group B
       pitch: Lansdowne Road
-    6:
-      time: 2018-04-29 11:15
-      home: Bromley
-      away: Old Colfeians 4
-      group: Group B
-      pitch: Cardiff Arms Park
-    8:
-      time: 2018-04-29 11:45
-      home: Bromley
-      away: Old Alleynians
-      group: Group B
-      pitch: Lansdowne Road
-    10:
-      time: 2018-04-29 12:15
+    16:
+      time: 2018-04-29 11:40
       home: Bromley
       away: Sidcup 2
       group: Group B
       pitch: Lansdowne Road
+    18:
+      time: 2018-04-29 12:20
+      home: Bromley
+      away: Eton Manor 2
+      group: Group B
+      pitch: Lansdowne Road
+    20:
+      time: 2018-04-29 13:00
+      home: Bromley
+      away: Old Alleynians
+      group: Group B
+      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}

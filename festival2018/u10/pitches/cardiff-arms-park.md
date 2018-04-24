@@ -5,41 +5,65 @@ breadcrumbs:
   u10: U10
   pitches: pitches
 items:
-  21:
+  1:
     time: 2018-04-29 10:00
-    home: Old Colfeians 2
+    home: KCH Pirates
+    away: Sevenoaks 2
+    group: Group A
+    pitch: Cardiff Arms Park
+  2:
+    time: 2018-04-29 10:20
+    home: Hackney Bulls 1
     away: Sidcup 1
-    group: Group C
+    group: Group B
     pitch: Cardiff Arms Park
-  22:
-    time: 2018-04-29 10:25
-    home: Blackheath 3
-    away: Old Colfeians 3
-    group: Group D
+  3:
+    time: 2018-04-29 10:40
+    home: Eton Manor 2
+    away: Old Dunstonians
+    group: Group A
     pitch: Cardiff Arms Park
-  23:
-    time: 2018-04-29 10:50
-    home: Blackheath 2
-    away: Old Colfeians 2
-    group: Group C
+  4:
+    time: 2018-04-29 11:00
+    home: Bromley
+    away: Sidcup 1
+    group: Group B
     pitch: Cardiff Arms Park
-  24:
-    time: 2018-04-29 11:15
-    home: Old Colfeians 3
-    away: Sidcup 2
-    group: Group D
+  5:
+    time: 2018-04-29 11:20
+    home: KCH Pirates
+    away: Old Dunstonians
+    group: Group A
     pitch: Cardiff Arms Park
-  25:
+  6:
     time: 2018-04-29 11:40
-    home: Blackheath 2
+    home: Old Elthamians
     away: Sidcup 1
-    group: Group C
+    group: Group B
     pitch: Cardiff Arms Park
-  26:
-    time: 2018-04-29 12:05
+  7:
+    time: 2018-04-29 12:00
     home: Blackheath 3
-    away: Sidcup 2
-    group: Group D
+    away: Old Dunstonians
+    group: Group A
+    pitch: Cardiff Arms Park
+  8:
+    time: 2018-04-29 12:20
+    home: Blackheath 1
+    away: Bromley
+    group: Group B
+    pitch: Cardiff Arms Park
+  9:
+    time: 2018-04-29 12:40
+    home: Ashford
+    away: Eton Manor 2
+    group: Group A
+    pitch: Cardiff Arms Park
+  10:
+    time: 2018-04-29 13:00
+    home: Bromley
+    away: Old Elthamians
+    group: Group B
     pitch: Cardiff Arms Park
 ---
 

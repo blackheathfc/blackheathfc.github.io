@@ -5,6 +5,7 @@ breadcrumbs:
   u9: U9
 items:
 - Ashford RFC
+- Barbarians
 - Blackheath FC
 - Bromley RFC
 - Eton Manor RFC
@@ -12,7 +13,6 @@ items:
 - King's College Hospital RFC
 - Old Alleynian FC
 - Old Colfeians RFC
-- Old Dunstonian RFC
 - Sevenoaks RFC
 - Sidcup RFC
 ---

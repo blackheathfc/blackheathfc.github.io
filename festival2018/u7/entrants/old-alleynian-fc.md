@@ -6,30 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Alleynians:
-    13:
-      time: 2018-04-29 10:40
-      home: Blackheath 6
-      away: Old Alleynians
-      group: Group B
-      pitch: Parc des Princes
-    15:
-      time: 2018-04-29 11:20
+    1:
+      time: 2018-04-29 10:00
       home: Old Alleynians
-      away: Sevenoaks 1
-      group: Group B
-      pitch: Parc des Princes
-    17:
+      away: Old Colfeians 4
+      group: Group A
+      pitch: Lansdowne Road
+    3:
+      time: 2018-04-29 10:30
+      home: Blackheath 4
+      away: Old Alleynians
+      group: Group A
+      pitch: Twickenham
+    5:
+      time: 2018-04-29 11:00
+      home: Eton Manor 1
+      away: Old Alleynians
+      group: Group A
+      pitch: Cardiff Arms Park
+    7:
+      time: 2018-04-29 11:30
+      home: Blackheath 8
+      away: Old Alleynians
+      group: Group A
+      pitch: Lansdowne Road
+    9:
       time: 2018-04-29 12:00
-      home: Blackheath 1
+      home: Ashford
       away: Old Alleynians
-      group: Group B
-      pitch: Parc des Princes
-    19:
-      time: 2018-04-29 12:40
-      home: Canterbury 2
-      away: Old Alleynians
-      group: Group B
-      pitch: Murrayfield
+      group: Group A
+      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}

@@ -5,65 +5,35 @@ breadcrumbs:
   u10: U10
   pitches: pitches
 items:
-  11:
+  1:
     time: 2018-04-29 10:00
-    home: Blackheath 3
-    away: Tunbridge Wells 1
-    group: Group E
+    home: Blackheath 2
+    away: Eton Manor 1
+    group: Group C
     pitch: Stadio Olimpico
-  12:
-    time: 2018-04-29 10:20
-    home: Bromley
-    away: Old Colfeians 3
-    group: Group F
-    pitch: Stadio Olimpico
-  13:
+  3:
     time: 2018-04-29 10:40
-    home: Hackney Bulls 2
+    home: Eton Manor 1
     away: Sevenoaks 1
-    group: Group E
+    group: Group C
     pitch: Stadio Olimpico
-  14:
-    time: 2018-04-29 11:00
-    home: KCH Pirates
-    away: Sevenoaks 2
-    group: Group F
-    pitch: Stadio Olimpico
-  15:
+  5:
     time: 2018-04-29 11:20
-    home: Old Colfeians 2
-    away: Tunbridge Wells 1
-    group: Group E
+    home: Blackheath 2
+    away: Sevenoaks 1
+    group: Group C
     pitch: Stadio Olimpico
-  16:
-    time: 2018-04-29 11:40
-    home: Bromley
-    away: Sevenoaks 2
-    group: Group F
-    pitch: Stadio Olimpico
-  17:
+  7:
     time: 2018-04-29 12:00
     home: Hackney Bulls 2
-    away: Tunbridge Wells 1
-    group: Group E
+    away: Sevenoaks 1
+    group: Group C
     pitch: Stadio Olimpico
-  18:
-    time: 2018-04-29 12:20
-    home: Old Colfeians 3
-    away: Sevenoaks 2
-    group: Group F
-    pitch: Stadio Olimpico
-  19:
+  9:
     time: 2018-04-29 12:40
-    home: Blackheath 3
-    away: Hackney Bulls 2
-    group: Group E
-    pitch: Stadio Olimpico
-  20:
-    time: 2018-04-29 13:00
-    home: Sevenoaks 2
-    away: Tunbridge Wells 2
-    group: Group F
+    home: Sevenoaks 1
+    away: Sidcup 2
+    group: Group C
     pitch: Stadio Olimpico
 ---
 

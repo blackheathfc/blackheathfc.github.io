@@ -21,7 +21,7 @@ items:
     5:
       time: 2018-04-29 11:20
       home: Eton Manor 1
-      away: Sevenoaks 2
+      away: Sidcup 1
       group: Group A
       pitch: Lansdowne Road
     7:
@@ -32,7 +32,7 @@ items:
       pitch: Twickenham
     9:
       time: 2018-04-29 12:40
-      home: " Ashford"
+      home: Ashford
       away: Eton Manor 1
       group: Group A
       pitch: Cardiff Arms Park
@@ -40,7 +40,7 @@ items:
     2:
       time: 2018-04-29 10:20
       home: Eton Manor 2
-      away: Sidcup 1
+      away: Sidcup 2
       group: Group B
       pitch: Cardiff Arms Park
     4:
@@ -58,7 +58,7 @@ items:
     8:
       time: 2018-04-29 12:20
       home: Eton Manor 2
-      away: Old Dunstonians
+      away: Sevenoaks 1
       group: Group B
       pitch: Lansdowne Road
     10:

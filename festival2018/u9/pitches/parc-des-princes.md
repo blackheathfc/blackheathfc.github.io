@@ -8,7 +8,7 @@ items:
   1:
     time: 2018-04-29 10:00
     home: Old Colfeians 1
-    away: Sevenoaks 1
+    away: Sevenoaks 2
     group: Group C
     pitch: Parc des Princes
   3:
@@ -26,7 +26,7 @@ items:
   7:
     time: 2018-04-29 12:00
     home: Blackheath 2
-    away: Sidcup 2
+    away: Barbarians
     group: Group C
     pitch: Parc des Princes
   9:

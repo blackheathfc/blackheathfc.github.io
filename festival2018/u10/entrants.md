@@ -7,10 +7,13 @@ items:
 - Ashford RFC
 - Blackheath FC
 - Bromley RFC
+- Eton Manor RFC
 - Hackney RFC
 - King's College Hospital RFC
 - Old Alleynian FC
 - Old Colfeians RFC
+- Old Dunstonian RFC
+- Old Elthamians RFC
 - Sevenoaks RFC
 - Sidcup RFC
 ---

@@ -5,41 +5,35 @@ breadcrumbs:
   u10: U10
   pitches: pitches
 items:
-  21:
+  1:
     time: 2018-04-29 10:00
-    home: Blackheath 2
+    home: Hackney Bulls 2
+    away: Sidcup 2
+    group: Group C
+    pitch: Murrayfield
+  3:
+    time: 2018-04-29 10:40
+    home: Old Colfeians
+    away: Sidcup 2
+    group: Group C
+    pitch: Murrayfield
+  5:
+    time: 2018-04-29 11:20
+    home: Eton Manor 1
+    away: Sidcup 2
+    group: Group C
+    pitch: Murrayfield
+  7:
+    time: 2018-04-29 12:00
+    home: Eton Manor 1
+    away: Old Colfeians
+    group: Group C
+    pitch: Murrayfield
+  9:
+    time: 2018-04-29 12:40
+    home: Eton Manor 1
     away: Hackney Bulls 2
     group: Group C
-    pitch: Murrayfield
-  22:
-    time: 2018-04-29 10:25
-    home: KCH Pirates
-    away: Sidcup 2
-    group: Group D
-    pitch: Murrayfield
-  23:
-    time: 2018-04-29 10:50
-    home: Hackney Bulls 2
-    away: Sidcup 1
-    group: Group C
-    pitch: Murrayfield
-  24:
-    time: 2018-04-29 11:15
-    home: Blackheath 3
-    away: KCH Pirates
-    group: Group D
-    pitch: Murrayfield
-  25:
-    time: 2018-04-29 11:40
-    home: Hackney Bulls 2
-    away: Old Colfeians 2
-    group: Group C
-    pitch: Murrayfield
-  26:
-    time: 2018-04-29 12:05
-    home: KCH Pirates
-    away: Old Colfeians 3
-    group: Group D
     pitch: Murrayfield
 ---
 

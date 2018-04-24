@@ -15,7 +15,7 @@ items:
     4:
       time: 2018-04-29 11:00
       home: Old Alleynians
-      away: Old Dunstonians
+      away: Sevenoaks 1
       group: Group B
       pitch: Twickenham
     6:
@@ -27,7 +27,7 @@ items:
     8:
       time: 2018-04-29 12:20
       home: Old Alleynians
-      away: Sidcup 1
+      away: Sidcup 2
       group: Group B
       pitch: Twickenham
     10:

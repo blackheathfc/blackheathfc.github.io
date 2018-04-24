@@ -9,12 +9,12 @@ items:
     1:
       time: 2018-04-29 10:00
       home: KCH Pirates
-      away: Sevenoaks 2
+      away: Sidcup 1
       group: Group A
       pitch: Cardiff Arms Park
     3:
       time: 2018-04-29 10:40
-      home: " Ashford"
+      home: Ashford
       away: KCH Pirates
       group: Group A
       pitch: Lansdowne Road

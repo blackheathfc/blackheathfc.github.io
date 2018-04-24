@@ -6,24 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Alleynians:
-    21:
-      time: 2018-04-29 10:00
+    2:
+      time: 2018-04-29 10:20
       home: Bromley
       away: Old Alleynians
-      group: Group A
-      pitch: Twickenham
-    23:
-      time: 2018-04-29 10:50
-      home: Old Alleynians
-      away: Sevenoaks 1
-      group: Group A
+      group: Group B
       pitch: Lansdowne Road
-    25:
-      time: 2018-04-29 11:40
-      home: " Ashford"
-      away: Old Alleynians
-      group: Group A
+    4:
+      time: 2018-04-29 11:00
+      home: Old Alleynians
+      away: Old Elthamians
+      group: Group B
       pitch: Twickenham
+    6:
+      time: 2018-04-29 11:40
+      home: Blackheath 1
+      away: Old Alleynians
+      group: Group B
+      pitch: Twickenham
+    8:
+      time: 2018-04-29 12:20
+      home: Old Alleynians
+      away: Sidcup 1
+      group: Group B
+      pitch: Twickenham
+    10:
+      time: 2018-04-29 13:00
+      home: Hackney Bulls 1
+      away: Old Alleynians
+      group: Group B
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

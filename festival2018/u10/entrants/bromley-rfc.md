@@ -6,24 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Bromley:
-    21:
-      time: 2018-04-29 10:00
+    2:
+      time: 2018-04-29 10:20
       home: Bromley
       away: Old Alleynians
-      group: Group A
-      pitch: Twickenham
-    23:
-      time: 2018-04-29 10:50
-      home: " Ashford"
-      away: Bromley
-      group: Group A
-      pitch: Twickenham
-    25:
+      group: Group B
+      pitch: Lansdowne Road
+    4:
+      time: 2018-04-29 11:00
+      home: Bromley
+      away: Sidcup 1
+      group: Group B
+      pitch: Cardiff Arms Park
+    6:
       time: 2018-04-29 11:40
       home: Bromley
-      away: Sevenoaks 1
-      group: Group A
+      away: Hackney Bulls 1
+      group: Group B
       pitch: Lansdowne Road
+    8:
+      time: 2018-04-29 12:20
+      home: Blackheath 1
+      away: Bromley
+      group: Group B
+      pitch: Cardiff Arms Park
+    10:
+      time: 2018-04-29 13:00
+      home: Bromley
+      away: Old Elthamians
+      group: Group B
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

@@ -9,7 +9,7 @@ items:
     2:
       time: 2018-04-29 10:20
       home: Blackheath 1
-      away: Old Dunstonians
+      away: Sevenoaks 1
       group: Group B
       pitch: Twickenham
     4:
@@ -33,7 +33,7 @@ items:
     10:
       time: 2018-04-29 13:00
       home: Blackheath 1
-      away: Sidcup 1
+      away: Sidcup 2
       group: Group B
       pitch: Twickenham
   Blackheath 2:
@@ -52,13 +52,13 @@ items:
     5:
       time: 2018-04-29 11:20
       home: Blackheath 2
-      away: Sevenoaks 1
+      away: Sevenoaks 2
       group: Group C
       pitch: Stadio Olimpico
     7:
       time: 2018-04-29 12:00
       home: Blackheath 2
-      away: Sidcup 2
+      away: Barbarians
       group: Group C
       pitch: Parc des Princes
     9:
@@ -77,12 +77,12 @@ items:
     3:
       time: 2018-04-29 10:40
       home: Blackheath 3
-      away: Sevenoaks 2
+      away: Sidcup 1
       group: Group A
       pitch: Twickenham
     5:
       time: 2018-04-29 11:20
-      home: " Ashford"
+      home: Ashford
       away: Blackheath 3
       group: Group A
       pitch: Twickenham
@@ -108,7 +108,7 @@ items:
     4:
       time: 2018-04-29 11:00
       home: Blackheath 4
-      away: Sidcup 1
+      away: Sidcup 2
       group: Group B
       pitch: Cardiff Arms Park
     6:
@@ -121,7 +121,7 @@ items:
     10:
       time: 2018-04-29 13:00
       home: Blackheath 4
-      away: Old Dunstonians
+      away: Sevenoaks 1
       group: Group B
       pitch: Cardiff Arms Park
 ---

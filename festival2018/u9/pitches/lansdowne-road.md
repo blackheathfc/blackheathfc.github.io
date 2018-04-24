@@ -7,7 +7,7 @@ breadcrumbs:
 items:
   1:
     time: 2018-04-29 10:00
-    home: " Ashford"
+    home: Ashford
     away: Old Colfeians 2
     group: Group A
     pitch: Lansdowne Road
@@ -19,7 +19,7 @@ items:
     pitch: Lansdowne Road
   3:
     time: 2018-04-29 10:40
-    home: " Ashford"
+    home: Ashford
     away: KCH Pirates
     group: Group A
     pitch: Lansdowne Road
@@ -32,7 +32,7 @@ items:
   5:
     time: 2018-04-29 11:20
     home: Eton Manor 1
-    away: Sevenoaks 2
+    away: Sidcup 1
     group: Group A
     pitch: Lansdowne Road
   6:
@@ -43,14 +43,14 @@ items:
     pitch: Lansdowne Road
   7:
     time: 2018-04-29 12:00
-    home: " Ashford"
-    away: Sevenoaks 2
+    home: Ashford
+    away: Sidcup 1
     group: Group A
     pitch: Lansdowne Road
   8:
     time: 2018-04-29 12:20
     home: Eton Manor 2
-    away: Old Dunstonians
+    away: Sevenoaks 1
     group: Group B
     pitch: Lansdowne Road
   9:

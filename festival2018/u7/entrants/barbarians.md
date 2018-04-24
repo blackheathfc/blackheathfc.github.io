@@ -1,29 +1,29 @@
 ---
-title: U7 - King's College Hospital RFC
+title: U7 - Barbarians
 style: entrant_schedule
 breadcrumbs:
   u7: U7
   entrants: clubs
 items:
-  KCH Pirates:
+  Barbarians:
     2:
       time: 2018-04-29 10:15
-      home: KCH Pirates
-      away: Old Colfeians 3
-      group: Group D
-      pitch: Stadio Olimpico
-    4:
-      time: 2018-04-29 10:45
-      home: Blackheath 7
-      away: KCH Pirates
-      group: Group D
-      pitch: Stadio Olimpico
-    6:
-      time: 2018-04-29 11:15
       home: Canterbury 2
-      away: KCH Pirates
+      away: Barbarians
       group: Group D
       pitch: Murrayfield
+    4:
+      time: 2018-04-29 10:45
+      home: Old Colfeians 3
+      away: Barbarians
+      group: Group D
+      pitch: Parc des Princes
+    6:
+      time: 2018-04-29 11:15
+      home: Blackheath 3
+      away: Barbarians
+      group: Group D
+      pitch: Parc des Princes
     8:
       time: 2018-04-29 11:45
       home: KCH Pirates
@@ -32,10 +32,10 @@ items:
       pitch: Parc des Princes
     10:
       time: 2018-04-29 12:15
-      home: Blackheath 3
-      away: KCH Pirates
+      home: Blackheath 7
+      away: Barbarians
       group: Group D
-      pitch: Parc des Princes
+      pitch: Stadio Olimpico
 ---
 
 {% include schedule_entrant.html %}

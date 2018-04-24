@@ -12,7 +12,7 @@ items:
       group: Group A
       pitch: Twickenham
     - time: 2018-04-29 10:50
-      home: " Ashford"
+      home: Ashford
       away: Sidcup 1
       group: Group A
       pitch: Twickenham
@@ -43,17 +43,17 @@ items:
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 11:40
-      home: " Ashford"
+      home: Ashford
       away: Bromley
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 12:30
-      home: " Ashford"
+      home: Ashford
       away: Old Colfeians
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 13:20
-      home: " Ashford"
+      home: Ashford
       away: Hackney Bulls
       group: Group A
       pitch: Lansdowne Road

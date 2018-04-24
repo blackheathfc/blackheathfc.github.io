@@ -14,7 +14,7 @@ items:
       pitch: Twickenham
     15:
       time: 2018-04-29 11:40
-      home: " Ashford"
+      home: Ashford
       away: Bromley
       group: Group A
       pitch: Lansdowne Road

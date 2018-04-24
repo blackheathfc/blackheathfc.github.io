@@ -14,24 +14,24 @@ items:
   2:
     time: 2018-04-29 10:20
     home: Blackheath 1
-    away: Old Dunstonians
+    away: Sevenoaks 1
     group: Group B
     pitch: Twickenham
   3:
     time: 2018-04-29 10:40
     home: Blackheath 3
-    away: Sevenoaks 2
+    away: Sidcup 1
     group: Group A
     pitch: Twickenham
   4:
     time: 2018-04-29 11:00
     home: Old Alleynians
-    away: Old Dunstonians
+    away: Sevenoaks 1
     group: Group B
     pitch: Twickenham
   5:
     time: 2018-04-29 11:20
-    home: " Ashford"
+    home: Ashford
     away: Blackheath 3
     group: Group A
     pitch: Twickenham
@@ -50,19 +50,19 @@ items:
   8:
     time: 2018-04-29 12:20
     home: Old Alleynians
-    away: Sidcup 1
+    away: Sidcup 2
     group: Group B
     pitch: Twickenham
   9:
     time: 2018-04-29 12:40
     home: Old Colfeians 2
-    away: Sevenoaks 2
+    away: Sidcup 1
     group: Group A
     pitch: Twickenham
   10:
     time: 2018-04-29 13:00
     home: Blackheath 1
-    away: Sidcup 1
+    away: Sidcup 2
     group: Group B
     pitch: Twickenham
 ---

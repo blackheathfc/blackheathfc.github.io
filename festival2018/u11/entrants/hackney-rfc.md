@@ -26,7 +26,7 @@ items:
       pitch: Twickenham
     19:
       time: 2018-04-29 13:20
-      home: " Ashford"
+      home: Ashford
       away: Hackney Bulls
       group: Group A
       pitch: Lansdowne Road

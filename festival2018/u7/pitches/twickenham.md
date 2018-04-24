@@ -5,65 +5,65 @@ breadcrumbs:
   u7: U7
   pitches: pitches
 items:
-  11:
+  1:
     time: 2018-04-29 10:00
-    home: KCH Pirates
-    away: Westcombe Park
-    group: Group A
-    pitch: Twickenham
-  12:
-    time: 2018-04-29 10:20
-    home: Blackheath 7
+    home: Blackheath 4
     away: Eton Manor 1
-    group: Group C
-    pitch: Twickenham
-  13:
-    time: 2018-04-29 10:40
-    home: " Ashford"
-    away: Canterbury 1
     group: Group A
     pitch: Twickenham
-  14:
+  2:
+    time: 2018-04-29 10:15
+    home: Blackheath 5
+    away: Eton Manor 2
+    group: Group B
+    pitch: Twickenham
+  3:
+    time: 2018-04-29 10:30
+    home: Blackheath 4
+    away: Old Alleynians
+    group: Group A
+    pitch: Twickenham
+  4:
+    time: 2018-04-29 10:45
+    home: Eton Manor 2
+    away: Old Colfeians 5
+    group: Group B
+    pitch: Twickenham
+  5:
     time: 2018-04-29 11:00
-    home: Eton Manor 1
-    away: Old Colfeians 1
-    group: Group C
-    pitch: Twickenham
-  15:
-    time: 2018-04-29 11:20
-    home: " Ashford"
-    away: Westcombe Park
+    home: Ashford
+    away: Blackheath 4
     group: Group A
     pitch: Twickenham
-  16:
-    time: 2018-04-29 11:40
-    home: Blackheath 2
+  6:
+    time: 2018-04-29 11:15
+    home: Bromley
+    away: Eton Manor 2
+    group: Group B
+    pitch: Twickenham
+  7:
+    time: 2018-04-29 11:30
+    home: Ashford
     away: Eton Manor 1
-    group: Group C
+    group: Group A
     pitch: Twickenham
-  17:
+  8:
+    time: 2018-04-29 11:45
+    home: Blackheath 5
+    away: Bromley
+    group: Group B
+    pitch: Twickenham
+  9:
     time: 2018-04-29 12:00
-    home: Canterbury 1
-    away: Westcombe Park
+    home: Ashford
+    away: Old Alleynians
     group: Group A
     pitch: Twickenham
-  18:
-    time: 2018-04-29 12:20
-    home: Eton Manor 1
-    away: Sevenoaks 2
-    group: Group C
-    pitch: Twickenham
-  19:
-    time: 2018-04-29 12:40
-    home: Old Colfeians 4
-    away: Westcombe Park
-    group: Group A
-    pitch: Twickenham
-  20:
-    time: 2018-04-29 13:00
-    home: Blackheath 2
-    away: Sevenoaks 2
-    group: Group C
+  10:
+    time: 2018-04-29 12:15
+    home: Eton Manor 2
+    away: Old Colfeians 1
+    group: Group B
     pitch: Twickenham
 ---
 

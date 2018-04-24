@@ -13,11 +13,11 @@ items:
       pitch: Twickenham
     - time: 2018-04-29 10:40
       home: Blackheath 3
-      away: Sevenoaks 2
+      away: Sidcup 1
       group: Group A
       pitch: Twickenham
     - time: 2018-04-29 11:20
-      home: " Ashford"
+      home: Ashford
       away: Blackheath 3
       group: Group A
       pitch: Twickenham
@@ -28,28 +28,28 @@ items:
       pitch: Twickenham
     - time: 2018-04-29 12:40
       home: Old Colfeians 2
-      away: Sevenoaks 2
+      away: Sidcup 1
       group: Group A
       pitch: Twickenham
     Lansdowne Road:
     - time: 2018-04-29 10:00
-      home: " Ashford"
+      home: Ashford
       away: Old Colfeians 2
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 10:40
-      home: " Ashford"
+      home: Ashford
       away: KCH Pirates
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 11:20
       home: Eton Manor 1
-      away: Sevenoaks 2
+      away: Sidcup 1
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 12:00
-      home: " Ashford"
-      away: Sevenoaks 2
+      home: Ashford
+      away: Sidcup 1
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 12:40
@@ -60,7 +60,7 @@ items:
     Cardiff Arms Park:
     - time: 2018-04-29 10:00
       home: KCH Pirates
-      away: Sevenoaks 2
+      away: Sidcup 1
       group: Group A
       pitch: Cardiff Arms Park
     - time: 2018-04-29 10:40
@@ -79,7 +79,7 @@ items:
       group: Group A
       pitch: Cardiff Arms Park
     - time: 2018-04-29 12:40
-      home: " Ashford"
+      home: Ashford
       away: Eton Manor 1
       group: Group A
       pitch: Cardiff Arms Park
@@ -87,12 +87,12 @@ items:
     Twickenham:
     - time: 2018-04-29 10:20
       home: Blackheath 1
-      away: Old Dunstonians
+      away: Sevenoaks 1
       group: Group B
       pitch: Twickenham
     - time: 2018-04-29 11:00
       home: Old Alleynians
-      away: Old Dunstonians
+      away: Sevenoaks 1
       group: Group B
       pitch: Twickenham
     - time: 2018-04-29 11:40
@@ -102,12 +102,12 @@ items:
       pitch: Twickenham
     - time: 2018-04-29 12:20
       home: Old Alleynians
-      away: Sidcup 1
+      away: Sidcup 2
       group: Group B
       pitch: Twickenham
     - time: 2018-04-29 13:00
       home: Blackheath 1
-      away: Sidcup 1
+      away: Sidcup 2
       group: Group B
       pitch: Twickenham
     Lansdowne Road:
@@ -128,7 +128,7 @@ items:
       pitch: Lansdowne Road
     - time: 2018-04-29 12:20
       home: Eton Manor 2
-      away: Old Dunstonians
+      away: Sevenoaks 1
       group: Group B
       pitch: Lansdowne Road
     - time: 2018-04-29 13:00
@@ -139,17 +139,17 @@ items:
     Cardiff Arms Park:
     - time: 2018-04-29 10:20
       home: Eton Manor 2
-      away: Sidcup 1
+      away: Sidcup 2
       group: Group B
       pitch: Cardiff Arms Park
     - time: 2018-04-29 11:00
       home: Blackheath 4
-      away: Sidcup 1
+      away: Sidcup 2
       group: Group B
       pitch: Cardiff Arms Park
     - time: 2018-04-29 11:40
-      home: Old Dunstonians
-      away: Sidcup 1
+      home: Sevenoaks 1
+      away: Sidcup 2
       group: Group B
       pitch: Cardiff Arms Park
     - time: 2018-04-29 12:20
@@ -159,24 +159,24 @@ items:
       pitch: Cardiff Arms Park
     - time: 2018-04-29 13:00
       home: Blackheath 4
-      away: Old Dunstonians
+      away: Sevenoaks 1
       group: Group B
       pitch: Cardiff Arms Park
   Group C:
     Murrayfield:
     - time: 2018-04-29 10:00
       home: Hackney Bulls
-      away: Sidcup 2
+      away: Barbarians
       group: Group C
       pitch: Murrayfield
     - time: 2018-04-29 10:40
       home: Old Colfeians 1
-      away: Sidcup 2
+      away: Barbarians
       group: Group C
       pitch: Murrayfield
     - time: 2018-04-29 11:20
       home: Bromley
-      away: Sidcup 2
+      away: Barbarians
       group: Group C
       pitch: Murrayfield
     - time: 2018-04-29 12:00
@@ -192,7 +192,7 @@ items:
     Parc des Princes:
     - time: 2018-04-29 10:00
       home: Old Colfeians 1
-      away: Sevenoaks 1
+      away: Sevenoaks 2
       group: Group C
       pitch: Parc des Princes
     - time: 2018-04-29 10:40
@@ -207,7 +207,7 @@ items:
       pitch: Parc des Princes
     - time: 2018-04-29 12:00
       home: Blackheath 2
-      away: Sidcup 2
+      away: Barbarians
       group: Group C
       pitch: Parc des Princes
     - time: 2018-04-29 12:40
@@ -223,22 +223,22 @@ items:
       pitch: Stadio Olimpico
     - time: 2018-04-29 10:40
       home: Bromley
-      away: Sevenoaks 1
+      away: Sevenoaks 2
       group: Group C
       pitch: Stadio Olimpico
     - time: 2018-04-29 11:20
       home: Blackheath 2
-      away: Sevenoaks 1
+      away: Sevenoaks 2
       group: Group C
       pitch: Stadio Olimpico
     - time: 2018-04-29 12:00
       home: Hackney Bulls
-      away: Sevenoaks 1
+      away: Sevenoaks 2
       group: Group C
       pitch: Stadio Olimpico
     - time: 2018-04-29 12:40
-      home: Sevenoaks 1
-      away: Sidcup 2
+      home: Sevenoaks 2
+      away: Barbarians
       group: Group C
       pitch: Stadio Olimpico
 ---

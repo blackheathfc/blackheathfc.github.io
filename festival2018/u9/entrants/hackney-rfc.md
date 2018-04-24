@@ -9,7 +9,7 @@ items:
     1:
       time: 2018-04-29 10:00
       home: Hackney Bulls
-      away: Sidcup 2
+      away: Barbarians
       group: Group C
       pitch: Murrayfield
     3:
@@ -27,7 +27,7 @@ items:
     7:
       time: 2018-04-29 12:00
       home: Hackney Bulls
-      away: Sevenoaks 1
+      away: Sevenoaks 2
       group: Group C
       pitch: Stadio Olimpico
     9:

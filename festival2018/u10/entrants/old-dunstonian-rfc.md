@@ -6,30 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Dunstonians:
-    13:
+    1:
+      time: 2018-04-29 10:00
+      home: Ashford
+      away: Old Dunstonians
+      group: Group A
+      pitch: Lansdowne Road
+    3:
       time: 2018-04-29 10:40
-      home: Old Dunstonians
-      away: Sidcup 1
+      home: Eton Manor 2
+      away: Old Dunstonians
       group: Group A
-      pitch: Lansdowne Road
-    15:
+      pitch: Cardiff Arms Park
+    5:
       time: 2018-04-29 11:20
-      home: Bishop's Stortford 1
+      home: KCH Pirates
       away: Old Dunstonians
       group: Group A
-      pitch: Lansdowne Road
-    17:
+      pitch: Cardiff Arms Park
+    7:
       time: 2018-04-29 12:00
-      home: Cambridge 1
+      home: Blackheath 3
       away: Old Dunstonians
+      group: Group A
+      pitch: Cardiff Arms Park
+    9:
+      time: 2018-04-29 12:40
+      home: Old Dunstonians
+      away: Sevenoaks 2
       group: Group A
       pitch: Twickenham
-    19:
-      time: 2018-04-29 12:40
-      home: Medway
-      away: Old Dunstonians
-      group: Group A
-      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

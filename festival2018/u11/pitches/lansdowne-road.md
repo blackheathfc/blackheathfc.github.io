@@ -31,7 +31,7 @@ items:
     pitch: Lansdowne Road
   15:
     time: 2018-04-29 11:40
-    home: " Ashford"
+    home: Ashford
     away: Bromley
     group: Group A
     pitch: Lansdowne Road
@@ -43,7 +43,7 @@ items:
     pitch: Lansdowne Road
   17:
     time: 2018-04-29 12:30
-    home: " Ashford"
+    home: Ashford
     away: Old Colfeians
     group: Group A
     pitch: Lansdowne Road
@@ -55,7 +55,7 @@ items:
     pitch: Lansdowne Road
   19:
     time: 2018-04-29 13:20
-    home: " Ashford"
+    home: Ashford
     away: Hackney Bulls
     group: Group A
     pitch: Lansdowne Road

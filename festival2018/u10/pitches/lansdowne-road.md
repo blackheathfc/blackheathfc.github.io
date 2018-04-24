@@ -5,40 +5,64 @@ breadcrumbs:
   u10: U10
   pitches: pitches
 items:
-  21:
+  1:
     time: 2018-04-29 10:00
-    home: " Ashford"
-    away: Sevenoaks 1
+    home: Ashford
+    away: Old Dunstonians
     group: Group A
     pitch: Lansdowne Road
-  22:
-    time: 2018-04-29 10:25
-    home: Hackney Bulls 1
-    away: Sevenoaks 2
+  2:
+    time: 2018-04-29 10:20
+    home: Bromley
+    away: Old Alleynians
     group: Group B
     pitch: Lansdowne Road
-  23:
-    time: 2018-04-29 10:50
-    home: Old Alleynians
-    away: Sevenoaks 1
+  3:
+    time: 2018-04-29 10:40
+    home: Ashford
+    away: KCH Pirates
     group: Group A
     pitch: Lansdowne Road
-  24:
-    time: 2018-04-29 11:15
+  4:
+    time: 2018-04-29 11:00
     home: Blackheath 1
     away: Hackney Bulls 1
     group: Group B
     pitch: Lansdowne Road
-  25:
-    time: 2018-04-29 11:40
-    home: Bromley
-    away: Sevenoaks 1
+  5:
+    time: 2018-04-29 11:20
+    home: Eton Manor 2
+    away: Sevenoaks 2
     group: Group A
     pitch: Lansdowne Road
-  26:
-    time: 2018-04-29 12:05
-    home: Blackheath 1
+  6:
+    time: 2018-04-29 11:40
+    home: Bromley
+    away: Hackney Bulls 1
+    group: Group B
+    pitch: Lansdowne Road
+  7:
+    time: 2018-04-29 12:00
+    home: Ashford
     away: Sevenoaks 2
+    group: Group A
+    pitch: Lansdowne Road
+  8:
+    time: 2018-04-29 12:20
+    home: Hackney Bulls 1
+    away: Old Elthamians
+    group: Group B
+    pitch: Lansdowne Road
+  9:
+    time: 2018-04-29 12:40
+    home: Blackheath 3
+    away: KCH Pirates
+    group: Group A
+    pitch: Lansdowne Road
+  10:
+    time: 2018-04-29 13:00
+    home: Hackney Bulls 1
+    away: Old Alleynians
     group: Group B
     pitch: Lansdowne Road
 ---

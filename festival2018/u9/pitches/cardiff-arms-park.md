@@ -8,13 +8,13 @@ items:
   1:
     time: 2018-04-29 10:00
     home: KCH Pirates
-    away: Sevenoaks 2
+    away: Sidcup 1
     group: Group A
     pitch: Cardiff Arms Park
   2:
     time: 2018-04-29 10:20
     home: Eton Manor 2
-    away: Sidcup 1
+    away: Sidcup 2
     group: Group B
     pitch: Cardiff Arms Park
   3:
@@ -26,7 +26,7 @@ items:
   4:
     time: 2018-04-29 11:00
     home: Blackheath 4
-    away: Sidcup 1
+    away: Sidcup 2
     group: Group B
     pitch: Cardiff Arms Park
   5:
@@ -37,8 +37,8 @@ items:
     pitch: Cardiff Arms Park
   6:
     time: 2018-04-29 11:40
-    home: Old Dunstonians
-    away: Sidcup 1
+    home: Sevenoaks 1
+    away: Sidcup 2
     group: Group B
     pitch: Cardiff Arms Park
   7:
@@ -55,14 +55,14 @@ items:
     pitch: Cardiff Arms Park
   9:
     time: 2018-04-29 12:40
-    home: " Ashford"
+    home: Ashford
     away: Eton Manor 1
     group: Group A
     pitch: Cardiff Arms Park
   10:
     time: 2018-04-29 13:00
     home: Blackheath 4
-    away: Old Dunstonians
+    away: Sevenoaks 1
     group: Group B
     pitch: Cardiff Arms Park
 ---

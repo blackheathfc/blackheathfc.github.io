@@ -5,6 +5,7 @@ breadcrumbs:
   u7: U7
 items:
 - Ashford RFC
+- Barbarians
 - Blackheath FC
 - Bromley RFC
 - Canterbury RFC
@@ -13,8 +14,6 @@ items:
 - King's College Hospital RFC
 - Old Alleynian FC
 - Old Colfeians RFC
-- Sevenoaks RFC
-- Sidcup RFC
 - Westcombe Park RFC
 ---
 

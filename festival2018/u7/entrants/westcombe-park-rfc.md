@@ -6,36 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Westcombe Park:
-    11:
+    1:
       time: 2018-04-29 10:00
-      home: KCH Pirates
-      away: Westcombe Park
-      group: Group A
-      pitch: Twickenham
-    13:
-      time: 2018-04-29 10:40
-      home: Blackheath 5
-      away: Westcombe Park
-      group: Group A
-      pitch: Lansdowne Road
-    15:
-      time: 2018-04-29 11:20
-      home: " Ashford"
-      away: Westcombe Park
-      group: Group A
-      pitch: Twickenham
-    17:
-      time: 2018-04-29 12:00
       home: Canterbury 1
       away: Westcombe Park
-      group: Group A
-      pitch: Twickenham
-    19:
-      time: 2018-04-29 12:40
-      home: Old Colfeians 4
+      group: Group C
+      pitch: Stadio Olimpico
+    3:
+      time: 2018-04-29 10:30
+      home: Hackney Bulls
       away: Westcombe Park
-      group: Group A
-      pitch: Twickenham
+      group: Group C
+      pitch: Stadio Olimpico
+    5:
+      time: 2018-04-29 11:00
+      home: Blackheath 6
+      away: Westcombe Park
+      group: Group C
+      pitch: Stadio Olimpico
+    7:
+      time: 2018-04-29 11:30
+      home: Blackheath 2
+      away: Westcombe Park
+      group: Group C
+      pitch: Parc des Princes
+    9:
+      time: 2018-04-29 12:00
+      home: Old Colfeians 2
+      away: Westcombe Park
+      group: Group C
+      pitch: Parc des Princes
 ---
 
 {% include schedule_entrant.html %}

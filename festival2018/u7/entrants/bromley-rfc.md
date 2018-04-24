@@ -6,30 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Bromley:
-    12:
-      time: 2018-04-29 10:20
-      home: Blackheath 4
-      away: Bromley
-      group: Group E
+    2:
+      time: 2018-04-29 10:15
+      home: Bromley
+      away: Old Colfeians 5
+      group: Group B
+      pitch: Lansdowne Road
+    4:
+      time: 2018-04-29 10:45
+      home: Bromley
+      away: Old Colfeians 1
+      group: Group B
       pitch: Cardiff Arms Park
-    14:
-      time: 2018-04-29 11:00
+    6:
+      time: 2018-04-29 11:15
       home: Bromley
-      away: Sidcup 2
-      group: Group E
-      pitch: Stadio Olimpico
-    18:
-      time: 2018-04-29 12:20
-      home: Bromley
-      away: Old Colfeians 3
-      group: Group E
-      pitch: Stadio Olimpico
-    20:
-      time: 2018-04-29 13:00
-      home: Bromley
-      away: Hackney Bulls
-      group: Group E
-      pitch: Stadio Olimpico
+      away: Eton Manor 2
+      group: Group B
+      pitch: Twickenham
+    8:
+      time: 2018-04-29 11:45
+      home: Blackheath 5
+      away: Bromley
+      group: Group B
+      pitch: Twickenham
+    10:
+      time: 2018-04-29 12:15
+      home: Blackheath 1
+      away: Bromley
+      group: Group B
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

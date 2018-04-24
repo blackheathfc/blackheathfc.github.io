@@ -20,7 +20,7 @@ items:
       pitch: Lansdowne Road
     17:
       time: 2018-04-29 12:30
-      home: " Ashford"
+      home: Ashford
       away: Old Colfeians
       group: Group A
       pitch: Lansdowne Road

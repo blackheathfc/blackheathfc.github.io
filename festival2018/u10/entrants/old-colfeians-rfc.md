@@ -5,63 +5,37 @@ breadcrumbs:
   u10: U10
   entrants: clubs
 items:
-  Old Colfeians 1:
-    22:
-      time: 2018-04-29 10:25
-      home: Blackheath 1
-      away: Old Colfeians 1
-      group: Group B
-      pitch: Twickenham
-    24:
-      time: 2018-04-29 11:15
-      home: Old Colfeians 1
-      away: Sevenoaks 2
-      group: Group B
-      pitch: Twickenham
-    26:
-      time: 2018-04-29 12:05
-      home: Hackney Bulls 1
-      away: Old Colfeians 1
-      group: Group B
-      pitch: Twickenham
-  Old Colfeians 2:
-    21:
+  Old Colfeians:
+    1:
       time: 2018-04-29 10:00
-      home: Old Colfeians 2
-      away: Sidcup 1
+      home: Old Colfeians
+      away: Sevenoaks 1
       group: Group C
-      pitch: Cardiff Arms Park
-    23:
-      time: 2018-04-29 10:50
-      home: Blackheath 2
-      away: Old Colfeians 2
-      group: Group C
-      pitch: Cardiff Arms Park
-    25:
-      time: 2018-04-29 11:40
-      home: Hackney Bulls 2
-      away: Old Colfeians 2
-      group: Group C
-      pitch: Murrayfield
-  Old Colfeians 3:
-    22:
-      time: 2018-04-29 10:25
-      home: Blackheath 3
-      away: Old Colfeians 3
-      group: Group D
-      pitch: Cardiff Arms Park
-    24:
-      time: 2018-04-29 11:15
-      home: Old Colfeians 3
+      pitch: Parc des Princes
+    3:
+      time: 2018-04-29 10:40
+      home: Old Colfeians
       away: Sidcup 2
-      group: Group D
-      pitch: Cardiff Arms Park
-    26:
-      time: 2018-04-29 12:05
-      home: KCH Pirates
-      away: Old Colfeians 3
-      group: Group D
+      group: Group C
       pitch: Murrayfield
+    5:
+      time: 2018-04-29 11:20
+      home: Hackney Bulls 2
+      away: Old Colfeians
+      group: Group C
+      pitch: Parc des Princes
+    7:
+      time: 2018-04-29 12:00
+      home: Eton Manor 1
+      away: Old Colfeians
+      group: Group C
+      pitch: Murrayfield
+    9:
+      time: 2018-04-29 12:40
+      home: Blackheath 2
+      away: Old Colfeians
+      group: Group C
+      pitch: Parc des Princes
 ---
 
 {% include schedule_entrant.html %}

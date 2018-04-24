@@ -19,7 +19,7 @@ items:
     pitch: Twickenham
   13:
     time: 2018-04-29 10:50
-    home: " Ashford"
+    home: Ashford
     away: Sidcup 1
     group: Group A
     pitch: Twickenham
