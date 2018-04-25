@@ -1,15 +1,13 @@
 ---
 title: Registration form
 ---
-## {{ page.title }}
+**{{ page.title }}** - please submit one form for each team entered.
 
-| Club |  |  |  |  | Age group |
-| - | - | - |- | - | - |
-|   |   |   |  |   |   |
+| Age group | Club & team (e.g. Blackheath 2) |  |  |  |
+| - | - | - |- | - | 
+|   |   |   |  |   | 
 
-### Players
-
-Any parent or guardian who does not wish their player to be photographed should **sign** next to their player's name. We will ask the pitch marshals to avoid photographs being taken of that player, but the festival is in a public park so no guarantees can be given.
+Any parent or guardian who prefers that their player not be photographed should **sign** next to their player's name.
 
 | # | Player's name |  |  | DoB | RFU player no. | No photos |
 | - | - | - | - | - | - | - |
@@ -25,12 +23,6 @@ Any parent or guardian who does not wish their player to be photographed should 
 | 10. |  |  |  |  |
 | 11. |  |  |  |  |
 | 12. |  |  |  |  |
-| 13. |  |  |  |  |
-| 14. |  |  |  |  |
-| 15. |  |  |  |  |
-| 16. |  |  |  |  |
-| 17. |  |  |  |  |
-| 18. |  |  |  |  |
 
 I hereby confirm that all players listed may play in this age group under the terms of [RFU Regulation 15](http://www.englandrugby.com/governance/regulations/).
 
@@ -39,7 +31,3 @@ I hereby confirm that all players listed may play in this age group under the te
 |   |   |
 
 *You can use your browser's print button to print this form*
-
-*Please print and present the completed form at festival registration.*
-
-*Team size for each age group, and suggested maximum squad sizes can be found [here](../format)*
