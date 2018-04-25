@@ -12,6 +12,7 @@
 
   section {
     border: none;
+    width: unset;
   }
 
   .groups {
@@ -22,9 +23,5 @@
   .group {
     font-size: 14pt;
     page-break-inside: avoid;
-  }
-
-  header, footer, h1 {
-    display: none;
   }
 }

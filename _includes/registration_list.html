@@ -1,0 +1,23 @@
+{% include breadcrumb.html %}
+<article>
+<h1 id="{{ page.title | slugify }}">{{ page.title }} teams</h1>
+<hr>
+<table>
+  <thead>
+    <tr>
+      <th>Team</th>
+      <th>Registered?</th>
+      <th>Received envelope?</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for entrant in page.items %}
+    <tr>
+      <td>{{ entrant }}</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
+</article>

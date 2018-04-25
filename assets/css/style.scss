@@ -13,6 +13,10 @@ section {
   width: 540px;
 }
 
+.group {
+  padding: 0 0 2em;
+}
+
 .breadcrumb {
   margin: 0 0 2em;
   padding: 0;
@@ -86,4 +90,8 @@ section {
       }
     }
   }
+}
+
+@media print {
+  .category, .breadcrumb, footer  { display: none; }
 }
