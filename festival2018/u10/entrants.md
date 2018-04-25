@@ -5,6 +5,7 @@ breadcrumbs:
   u10: U10
 items:
 - Ashford RFC
+- Barbarians
 - Blackheath FC
 - Bromley RFC
 - Eton Manor RFC

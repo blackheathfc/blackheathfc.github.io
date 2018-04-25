@@ -5,65 +5,65 @@ breadcrumbs:
   u10: U10
   pitches: pitches
 items:
-  1:
+  11:
     time: 2018-04-29 10:00
-    home: KCH Pirates
-    away: Sevenoaks 2
-    group: Group A
-    pitch: Cardiff Arms Park
-  2:
-    time: 2018-04-29 10:20
-    home: Hackney Bulls 1
-    away: Sidcup 1
-    group: Group B
-    pitch: Cardiff Arms Park
-  3:
-    time: 2018-04-29 10:40
     home: Eton Manor 2
-    away: Old Dunstonians
-    group: Group A
+    away: Old Elthamians 2
+    group: Group C
     pitch: Cardiff Arms Park
-  4:
-    time: 2018-04-29 11:00
-    home: Bromley
-    away: Sidcup 1
-    group: Group B
-    pitch: Cardiff Arms Park
-  5:
-    time: 2018-04-29 11:20
-    home: KCH Pirates
-    away: Old Dunstonians
-    group: Group A
-    pitch: Cardiff Arms Park
-  6:
-    time: 2018-04-29 11:40
-    home: Old Elthamians
-    away: Sidcup 1
-    group: Group B
-    pitch: Cardiff Arms Park
-  7:
-    time: 2018-04-29 12:00
+  12:
+    time: 2018-04-29 10:20
     home: Blackheath 3
-    away: Old Dunstonians
-    group: Group A
+    away: Barbarians
+    group: Group D
     pitch: Cardiff Arms Park
-  8:
+  13:
+    time: 2018-04-29 10:40
+    home: Old Elthamians 2
+    away: Sidcup 2
+    group: Group C
+    pitch: Cardiff Arms Park
+  14:
+    time: 2018-04-29 11:00
+    home: Sevenoaks 1
+    away: Barbarians
+    group: Group D
+    pitch: Cardiff Arms Park
+  15:
+    time: 2018-04-29 11:20
+    home: Eton Manor 2
+    away: Sidcup 2
+    group: Group C
+    pitch: Cardiff Arms Park
+  16:
+    time: 2018-04-29 11:40
+    home: Old Colfeians
+    away: Barbarians
+    group: Group D
+    pitch: Cardiff Arms Park
+  17:
+    time: 2018-04-29 12:00
+    home: Old Alleynians
+    away: Old Elthamians 2
+    group: Group C
+    pitch: Cardiff Arms Park
+  18:
     time: 2018-04-29 12:20
-    home: Blackheath 1
-    away: Bromley
-    group: Group B
+    home: Hackney Bulls 1
+    away: Barbarians
+    group: Group D
     pitch: Cardiff Arms Park
-  9:
+  19:
     time: 2018-04-29 12:40
-    home: Ashford
-    away: Eton Manor 2
-    group: Group A
+    home: Old Alleynians
+    away: Sidcup 2
+    group: Group C
     pitch: Cardiff Arms Park
-  10:
+  20:
     time: 2018-04-29 13:00
-    home: Bromley
-    away: Old Elthamians
-    group: Group B
+    home: Hackney Bulls 1
+    away: Sevenoaks 1
+    group: Group D
     pitch: Cardiff Arms Park
 ---
 
