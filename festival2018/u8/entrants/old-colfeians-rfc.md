@@ -69,4 +69,4 @@ items:
       pitch: Stadio Olimpico
 ---
 
-{% include schedule_entrant %}
+{% include schedule_entrant.html %}

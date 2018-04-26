@@ -126,4 +126,4 @@ items:
       pitch: Cardiff Arms Park
 ---
 
-{% include schedule_entrant %}
+{% include schedule_entrant.html %}

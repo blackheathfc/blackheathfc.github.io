@@ -25,4 +25,4 @@ items:
     pitch: Murrayfield
 ---
 
-{% include schedule_pitch %}
+{% include schedule_pitch.html %}

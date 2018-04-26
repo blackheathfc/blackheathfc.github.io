@@ -37,4 +37,4 @@ items:
     pitch: Stadio Olimpico
 ---
 
-{% include schedule_pitch %}
+{% include schedule_pitch.html %}

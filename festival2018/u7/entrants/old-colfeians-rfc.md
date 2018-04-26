@@ -140,4 +140,4 @@ items:
       pitch: Twickenham
 ---
 
-{% include schedule_entrant %}
+{% include schedule_entrant.html %}

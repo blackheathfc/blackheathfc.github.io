@@ -67,4 +67,4 @@ items:
     pitch: Twickenham
 ---
 
-{% include schedule_pitch %}
+{% include schedule_pitch.html %}

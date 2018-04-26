@@ -69,4 +69,4 @@ items:
       pitch: Lansdowne Road
 ---
 
-{% include schedule_entrant %}
+{% include schedule_entrant.html %}
