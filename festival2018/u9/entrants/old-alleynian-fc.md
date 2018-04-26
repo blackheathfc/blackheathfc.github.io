@@ -13,25 +13,25 @@ items:
       group: Group A
       pitch: Twickenham
     23:
-      time: 2018-04-29 10:50
+      time: 2018-04-29 10:40
       home: Old Alleynians
       away: Sevenoaks 1
       group: Group A
       pitch: Cardiff Arms Park
     25:
-      time: 2018-04-29 11:40
+      time: 2018-04-29 11:20
       home: Eton Manor 2
       away: Old Alleynians
       group: Group A
       pitch: Twickenham
     27:
-      time: 2018-04-29 12:30
+      time: 2018-04-29 12:00
       home: Old Alleynians
       away: Sidcup 2
       group: Group A
       pitch: Twickenham
     29:
-      time: 2018-04-29 13:20
+      time: 2018-04-29 12:40
       home: Blackheath 3
       away: Old Alleynians
       group: Group A

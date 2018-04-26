@@ -12,55 +12,55 @@ items:
     group: Group A
     pitch: Lansdowne Road
   22:
-    time: 2018-04-29 10:25
+    time: 2018-04-29 10:20
     home: Old Colfeians 1
     away: Barbarians
     group: Group B
     pitch: Lansdowne Road
   23:
-    time: 2018-04-29 10:50
+    time: 2018-04-29 10:40
     home: Ashford
     away: Sidcup 2
     group: Group A
     pitch: Lansdowne Road
   24:
-    time: 2018-04-29 11:15
+    time: 2018-04-29 11:00
     home: Blackheath 1
     away: Sevenoaks 2
     group: Group B
     pitch: Lansdowne Road
   25:
-    time: 2018-04-29 11:40
+    time: 2018-04-29 11:20
     home: Sevenoaks 1
     away: Sidcup 2
     group: Group A
     pitch: Lansdowne Road
   26:
-    time: 2018-04-29 12:05
+    time: 2018-04-29 11:40
     home: Blackheath 4
     away: Old Colfeians 1
     group: Group B
     pitch: Lansdowne Road
   27:
-    time: 2018-04-29 12:30
+    time: 2018-04-29 12:00
     home: Ashford
     away: Eton Manor 2
     group: Group A
     pitch: Lansdowne Road
   28:
-    time: 2018-04-29 12:55
+    time: 2018-04-29 12:20
     home: Hackney Bulls
     away: Barbarians
     group: Group B
     pitch: Lansdowne Road
   29:
-    time: 2018-04-29 13:20
+    time: 2018-04-29 12:40
     home: Blackheath 3
     away: Old Alleynians
     group: Group A
     pitch: Lansdowne Road
   30:
-    time: 2018-04-29 13:45
+    time: 2018-04-29 13:00
     home: Sevenoaks 2
     away: Barbarians
     group: Group B

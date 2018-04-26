@@ -38,25 +38,25 @@ items:
       group: Group A
       pitch: Lansdowne Road
     23:
-      time: 2018-04-29 10:50
+      time: 2018-04-29 10:40
       home: Ashford
       away: Sidcup 2
       group: Group A
       pitch: Lansdowne Road
     25:
-      time: 2018-04-29 11:40
+      time: 2018-04-29 11:20
       home: Sevenoaks 1
       away: Sidcup 2
       group: Group A
       pitch: Lansdowne Road
     27:
-      time: 2018-04-29 12:30
+      time: 2018-04-29 12:00
       home: Old Alleynians
       away: Sidcup 2
       group: Group A
       pitch: Twickenham
     29:
-      time: 2018-04-29 13:20
+      time: 2018-04-29 12:40
       home: Eton Manor 2
       away: Sidcup 2
       group: Group A
