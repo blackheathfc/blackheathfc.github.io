@@ -6,34 +6,34 @@ breadcrumbs:
   entrants: clubs
 items:
   Ashford:
-    11:
+    1:
       time: 2018-04-29 10:00
+      home: Ashford
+      away: Old Colfeians 1
+      group: Group A
+      pitch: Lansdowne Road
+    3:
+      time: 2018-04-29 10:30
       home: Ashford
       away: Hackney Bulls
       group: Group A
-      pitch: Twickenham
-    13:
-      time: 2018-04-29 10:40
+      pitch: Lansdowne Road
+    5:
+      time: 2018-04-29 11:00
       home: Ashford
-      away: Blackheath 8
+      away: Blackheath 3
+      group: Group A
+      pitch: Twickenham
+    7:
+      time: 2018-04-29 11:30
+      home: Ashford
+      away: Old Colfeians 4
       group: Group A
       pitch: Lansdowne Road
-    15:
-      time: 2018-04-29 11:20
-      home: Ashford
-      away: Blackheath 4
-      group: Group A
-      pitch: Cardiff Arms Park
-    17:
+    9:
       time: 2018-04-29 12:00
       home: Ashford
-      away: Westcombe Park
-      group: Group A
-      pitch: Cardiff Arms Park
-    19:
-      time: 2018-04-29 12:40
-      home: Ashford
-      away: Old Colfeians 2
+      away: Bromley
       group: Group A
       pitch: Cardiff Arms Park
 ---

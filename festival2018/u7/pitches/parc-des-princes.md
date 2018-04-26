@@ -5,65 +5,35 @@ breadcrumbs:
   u7: U7
   pitches: pitches
 items:
-  11:
+  1:
     time: 2018-04-29 10:00
-    home: Blackheath 6
-    away: Old Alleynians
+    home: Old Alleynians
+    away: Old Colfeians 3
     group: Group C
     pitch: Parc des Princes
-  12:
-    time: 2018-04-29 10:20
-    home: Blackheath 3
-    away: Old Colfeians 5
-    group: Group D
-    pitch: Parc des Princes
-  13:
-    time: 2018-04-29 10:40
+  3:
+    time: 2018-04-29 10:30
     home: Blackheath 2
-    away: Old Alleynians
+    away: Eton Manor 2
     group: Group C
     pitch: Parc des Princes
-  14:
+  5:
     time: 2018-04-29 11:00
     home: Eton Manor 2
-    away: Old Colfeians 5
-    group: Group D
-    pitch: Parc des Princes
-  15:
-    time: 2018-04-29 11:20
-    home: Blackheath 2
-    away: Blackheath 6
+    away: Old Alleynians
     group: Group C
     pitch: Parc des Princes
-  16:
-    time: 2018-04-29 11:40
-    home: Blackheath 7
-    away: Eton Manor 2
-    group: Group D
+  7:
+    time: 2018-04-29 11:30
+    home: Blackheath 2
+    away: Westcombe Park
+    group: Group C
     pitch: Parc des Princes
-  17:
+  9:
     time: 2018-04-29 12:00
     home: Blackheath 2
-    away: Eton Manor 1
+    away: Old Alleynians
     group: Group C
-    pitch: Parc des Princes
-  18:
-    time: 2018-04-29 12:20
-    home: Blackheath 3
-    away: Eton Manor 2
-    group: Group D
-    pitch: Parc des Princes
-  19:
-    time: 2018-04-29 12:40
-    home: Blackheath 6
-    away: Eton Manor 1
-    group: Group C
-    pitch: Parc des Princes
-  20:
-    time: 2018-04-29 13:00
-    home: Eton Manor 2
-    away: Old Colfeians 1
-    group: Group D
     pitch: Parc des Princes
 ---
 

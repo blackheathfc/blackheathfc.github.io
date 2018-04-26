@@ -73,9 +73,9 @@ The festival is held on public land. Please ensure belongings are kept safe. Bla
 
 ## Presentations
 
-Presentations of trophies for fair play, along with badges, will take place at the presentation area with our sponsors Stephen James BMW and former Blackheath and England international Mickey Skinner.
+Former Blackheath and England international Mickey Skinner is available to make presentations to the players.
 
-This will be located within each age group pitch marshal’s tent immediately following the relevant final match. Further details will be provided by the pitch marshals. So please don’t shoot off and miss the ceremony!
+See the Blackheath head coach for your age group for details.
 
 ## Lost Property
 

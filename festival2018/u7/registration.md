@@ -10,9 +10,6 @@ items:
 - Blackheath 3
 - Blackheath 4
 - Blackheath 5
-- Blackheath 6
-- Blackheath 7
-- Blackheath 8
 - Bromley
 - Eton Manor 1
 - Eton Manor 2

@@ -48,9 +48,9 @@ Referees' briefings will be held at __09.30__ near your age group control tents
 
 First match starts at __10:00__ sharp
 
-Last match should finish by 13:30 (earlier for some age groups)
+Last match should finish by __13:30__ (earlier for some age groups)
 
-Fair Play trophy and badge presentations: as soon as your age group has finished its matches.
+Fair Play trophy and badge presentations: as soon as your age group has finished its matches. Micky Skinner will be at the festival to make presentations.
 
 ## Cancellation
 

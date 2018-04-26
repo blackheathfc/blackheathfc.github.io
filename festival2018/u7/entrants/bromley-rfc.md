@@ -6,30 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Bromley:
-    14:
+    1:
+      time: 2018-04-29 10:00
+      home: Blackheath 3
+      away: Bromley
+      group: Group A
+      pitch: Twickenham
+    3:
+      time: 2018-04-29 10:30
+      home: Bromley
+      away: Old Colfeians 1
+      group: Group A
+      pitch: Cardiff Arms Park
+    5:
       time: 2018-04-29 11:00
-      home: Blackheath 5
-      away: Bromley
-      group: Group B
-      pitch: Twickenham
-    16:
-      time: 2018-04-29 11:40
       home: Bromley
-      away: KCH Pirates
-      group: Group B
-      pitch: Twickenham
-    18:
-      time: 2018-04-29 12:20
+      away: Old Colfeians 4
+      group: Group A
+      pitch: Lansdowne Road
+    7:
+      time: 2018-04-29 11:30
       home: Bromley
-      away: Old Colfeians 3
-      group: Group B
+      away: Hackney Bulls
+      group: Group A
       pitch: Twickenham
-    20:
-      time: 2018-04-29 13:00
-      home: Blackheath 1
+    9:
+      time: 2018-04-29 12:00
+      home: Ashford
       away: Bromley
-      group: Group B
-      pitch: Twickenham
+      group: Group A
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

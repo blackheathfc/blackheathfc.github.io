@@ -51,16 +51,18 @@ We will not be separating the festival into streams, either by ability or experi
 
 No score for any match will be recorded by the festival organisers. The players know perfectly well who's won any given game :-)
 
-**6. Format (U7-U10)**
+**6. Refereeing**
 
-The exact format will be finalised when we have all the entries confirmed. Here is a guide to how we'll do it.
+Each game will be refereed by one of the coaches involved in the match. No neutral referee will be allocated to the match. The coaches should agree beforehand which of them will referee the match - they may choose to do half each.
 
-Each age group will be divided into groups of 5 or 6 teams depending on how many teams enter. Every group will play a round robin: each team will play all the others in the group.
+**7. Format (U7-U10)**
 
-The duration of each match will be the number of games divided by the maximum playing time (e.g. U7 teams in a 6-team group will play 5 matches of 10 minutes). We'll play the games straight through without a half time to ensure the festival keeps to schedule.
+Each age group is divided into groups of 5 or 6 teams. Every group will play a round robin: each team will play all the others in the group.
 
-You'll be given an exact schedule for your group on arrival. Please ensure your team is pitch side in plenty of time for the scheduled start of the match.
+The duration of each match will be the number of games divided by the maximum playing time (e.g. U7 teams in a 6-team group will play 5 matches of 10 minutes). 
 
-The **U11** competition may involved smaller groups and longer matches with a half time. You'll be given full details on the day.
+It's up to each age group whether they have a half time or play straight through. If it's hot, a half time might be needed for a drinks break.
+
+The **U11** competition may involved smaller groups and longer matches. You'll be given full details on the day.
 
 We hope you'll enjoy your day at the Blackheath Festival.

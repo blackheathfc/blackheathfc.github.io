@@ -6,30 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Alleynians:
-    11:
+    1:
       time: 2018-04-29 10:00
-      home: Blackheath 6
+      home: Old Alleynians
+      away: Old Colfeians 3
+      group: Group C
+      pitch: Parc des Princes
+    3:
+      time: 2018-04-29 10:30
+      home: Old Alleynians
+      away: Westcombe Park
+      group: Group C
+      pitch: Murrayfield
+    5:
+      time: 2018-04-29 11:00
+      home: Eton Manor 2
       away: Old Alleynians
       group: Group C
       pitch: Parc des Princes
-    13:
-      time: 2018-04-29 10:40
+    7:
+      time: 2018-04-29 11:30
+      home: Blackheath 5
+      away: Old Alleynians
+      group: Group C
+      pitch: Murrayfield
+    9:
+      time: 2018-04-29 12:00
       home: Blackheath 2
       away: Old Alleynians
       group: Group C
       pitch: Parc des Princes
-    15:
-      time: 2018-04-29 11:20
-      home: Eton Manor 1
-      away: Old Alleynians
-      group: Group C
-      pitch: Murrayfield
-    19:
-      time: 2018-04-29 12:40
-      home: Old Alleynians
-      away: Old Colfeians 4
-      group: Group C
-      pitch: Murrayfield
 ---
 
 {% include schedule_entrant.html %}
