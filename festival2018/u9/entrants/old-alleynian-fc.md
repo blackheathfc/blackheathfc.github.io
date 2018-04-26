@@ -6,23 +6,29 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Alleynians:
-    22:
-      time: 2018-04-29 10:20
-      home: Blackheath 1
-      away: Old Alleynians
-      group: Group B
-      pitch: Twickenham
-    24:
-      time: 2018-04-29 11:00
+    11:
+      time: 2018-04-29 10:00
       home: Old Alleynians
-      away: Sidcup 1
-      group: Group B
-      pitch: Twickenham
-    26:
-      time: 2018-04-29 11:40
-      home: Eton Manor 1
+      away: Sevenoaks
+      group: Group A
+      pitch: Lansdowne Road
+    13:
+      time: 2018-04-29 10:40
+      home: Eton Manor 2
       away: Old Alleynians
-      group: Group B
+      group: Group A
+      pitch: Lansdowne Road
+    17:
+      time: 2018-04-29 12:00
+      home: Ashford
+      away: Old Alleynians
+      group: Group A
+      pitch: Lansdowne Road
+    19:
+      time: 2018-04-29 12:40
+      home: Blackheath 3
+      away: Old Alleynians
+      group: Group A
       pitch: Twickenham
 ---
 

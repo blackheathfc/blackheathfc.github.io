@@ -5,7 +5,6 @@ breadcrumbs:
   u9: U9
 items:
 - Ashford RFC
-- Barbarians
 - Blackheath FC
 - Eton Manor RFC
 - Hackney RFC

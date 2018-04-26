@@ -5,7 +5,6 @@ breadcrumbs:
   u9: U9
 items:
 - Ashford
-- Barbarians
 - Blackheath 1
 - Blackheath 2
 - Blackheath 3

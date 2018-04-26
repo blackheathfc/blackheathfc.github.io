@@ -5,40 +5,64 @@ breadcrumbs:
   u9: U9
   pitches: pitches
 items:
-  21:
+  11:
     time: 2018-04-29 10:00
-    home: Ashford
+    home: Old Alleynians
     away: Sevenoaks
     group: Group A
     pitch: Lansdowne Road
-  22:
+  12:
     time: 2018-04-29 10:20
-    home: Eton Manor 1
+    home: Blackheath 4
     away: Sidcup 1
     group: Group B
     pitch: Lansdowne Road
-  23:
+  13:
     time: 2018-04-29 10:40
-    home: KCH Pirates
-    away: Sevenoaks
+    home: Eton Manor 2
+    away: Old Alleynians
     group: Group A
     pitch: Lansdowne Road
-  24:
+  14:
     time: 2018-04-29 11:00
     home: Blackheath 1
-    away: Eton Manor 1
+    away: Hackney Bulls
     group: Group B
     pitch: Lansdowne Road
-  25:
+  15:
     time: 2018-04-29 11:20
-    home: Blackheath 4
-    away: Sevenoaks
+    home: Ashford
+    away: Blackheath 3
     group: Group A
     pitch: Lansdowne Road
-  26:
+  16:
     time: 2018-04-29 11:40
-    home: Blackheath 1
+    home: Hackney Bulls
     away: Sidcup 1
+    group: Group B
+    pitch: Lansdowne Road
+  17:
+    time: 2018-04-29 12:00
+    home: Ashford
+    away: Old Alleynians
+    group: Group A
+    pitch: Lansdowne Road
+  18:
+    time: 2018-04-29 12:20
+    home: Hackney Bulls
+    away: Old Colfeians 1
+    group: Group B
+    pitch: Lansdowne Road
+  19:
+    time: 2018-04-29 12:40
+    home: Ashford
+    away: Eton Manor 2
+    group: Group A
+    pitch: Lansdowne Road
+  20:
+    time: 2018-04-29 13:00
+    home: Blackheath 4
+    away: Hackney Bulls
     group: Group B
     pitch: Lansdowne Road
 ---

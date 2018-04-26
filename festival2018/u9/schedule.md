@@ -7,134 +7,161 @@ items:
   Group A:
     Twickenham:
     - time: 2018-04-29 10:00
-      home: Blackheath 4
-      away: KCH Pirates
+      home: Blackheath 3
+      away: Eton Manor 2
       group: Group A
       pitch: Twickenham
     - time: 2018-04-29 10:40
       home: Ashford
-      away: Blackheath 4
+      away: Sevenoaks
       group: Group A
       pitch: Twickenham
     - time: 2018-04-29 11:20
-      home: Ashford
-      away: KCH Pirates
+      home: Eton Manor 2
+      away: Sevenoaks
+      group: Group A
+      pitch: Twickenham
+    - time: 2018-04-29 12:00
+      home: Blackheath 3
+      away: Sevenoaks
+      group: Group A
+      pitch: Twickenham
+    - time: 2018-04-29 12:40
+      home: Blackheath 3
+      away: Old Alleynians
       group: Group A
       pitch: Twickenham
     Lansdowne Road:
     - time: 2018-04-29 10:00
-      home: Ashford
+      home: Old Alleynians
       away: Sevenoaks
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 10:40
-      home: KCH Pirates
-      away: Sevenoaks
+      home: Eton Manor 2
+      away: Old Alleynians
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 11:20
-      home: Blackheath 4
-      away: Sevenoaks
+      home: Ashford
+      away: Blackheath 3
+      group: Group A
+      pitch: Lansdowne Road
+    - time: 2018-04-29 12:00
+      home: Ashford
+      away: Old Alleynians
+      group: Group A
+      pitch: Lansdowne Road
+    - time: 2018-04-29 12:40
+      home: Ashford
+      away: Eton Manor 2
       group: Group A
       pitch: Lansdowne Road
   Group B:
     Twickenham:
     - time: 2018-04-29 10:20
       home: Blackheath 1
-      away: Old Alleynians
+      away: Old Colfeians 1
       group: Group B
       pitch: Twickenham
     - time: 2018-04-29 11:00
-      home: Old Alleynians
+      home: Old Colfeians 1
       away: Sidcup 1
       group: Group B
       pitch: Twickenham
     - time: 2018-04-29 11:40
-      home: Eton Manor 1
-      away: Old Alleynians
+      home: Blackheath 4
+      away: Old Colfeians 1
+      group: Group B
+      pitch: Twickenham
+    - time: 2018-04-29 12:20
+      home: Blackheath 1
+      away: Blackheath 4
+      group: Group B
+      pitch: Twickenham
+    - time: 2018-04-29 13:00
+      home: Blackheath 1
+      away: Sidcup 1
       group: Group B
       pitch: Twickenham
     Lansdowne Road:
     - time: 2018-04-29 10:20
-      home: Eton Manor 1
+      home: Blackheath 4
       away: Sidcup 1
       group: Group B
       pitch: Lansdowne Road
     - time: 2018-04-29 11:00
       home: Blackheath 1
-      away: Eton Manor 1
+      away: Hackney Bulls
       group: Group B
       pitch: Lansdowne Road
     - time: 2018-04-29 11:40
-      home: Blackheath 1
+      home: Hackney Bulls
       away: Sidcup 1
+      group: Group B
+      pitch: Lansdowne Road
+    - time: 2018-04-29 12:20
+      home: Hackney Bulls
+      away: Old Colfeians 1
+      group: Group B
+      pitch: Lansdowne Road
+    - time: 2018-04-29 13:00
+      home: Blackheath 4
+      away: Hackney Bulls
       group: Group B
       pitch: Lansdowne Road
   Group C:
     Cardiff Arms Park:
     - time: 2018-04-29 10:00
-      home: Old Colfeians 1
-      away: Sidcup 2
+      home: Eton Manor 1
+      away: KCH Pirates
       group: Group C
       pitch: Cardiff Arms Park
     - time: 2018-04-29 10:40
-      home: Blackheath 2
-      away: Old Colfeians 1
+      home: Eton Manor 1
+      away: Old Colfeians 2
       group: Group C
       pitch: Cardiff Arms Park
     - time: 2018-04-29 11:20
       home: Blackheath 2
+      away: KCH Pirates
+      group: Group C
+      pitch: Cardiff Arms Park
+    - time: 2018-04-29 12:00
+      home: Blackheath 2
+      away: Eton Manor 1
+      group: Group C
+      pitch: Cardiff Arms Park
+    - time: 2018-04-29 12:40
+      home: Eton Manor 1
       away: Sidcup 2
       group: Group C
       pitch: Cardiff Arms Park
     Murrayfield:
     - time: 2018-04-29 10:00
       home: Blackheath 2
-      away: Eton Manor 2
+      away: Sidcup 2
       group: Group C
       pitch: Murrayfield
     - time: 2018-04-29 10:40
-      home: Eton Manor 2
+      home: KCH Pirates
       away: Sidcup 2
       group: Group C
       pitch: Murrayfield
     - time: 2018-04-29 11:20
-      home: Eton Manor 2
-      away: Old Colfeians 1
+      home: Old Colfeians 2
+      away: Sidcup 2
       group: Group C
       pitch: Murrayfield
-  Group D:
-    Cardiff Arms Park:
-    - time: 2018-04-29 10:20
-      home: Blackheath 3
+    - time: 2018-04-29 12:00
+      home: KCH Pirates
       away: Old Colfeians 2
-      group: Group D
-      pitch: Cardiff Arms Park
-    - time: 2018-04-29 11:00
-      home: Old Colfeians 2
-      away: Barbarians
-      group: Group D
-      pitch: Cardiff Arms Park
-    - time: 2018-04-29 11:40
-      home: Blackheath 3
-      away: Barbarians
-      group: Group D
-      pitch: Cardiff Arms Park
-    Murrayfield:
-    - time: 2018-04-29 10:20
-      home: Hackney Bulls
-      away: Barbarians
-      group: Group D
+      group: Group C
       pitch: Murrayfield
-    - time: 2018-04-29 11:00
-      home: Blackheath 3
-      away: Hackney Bulls
-      group: Group D
-      pitch: Murrayfield
-    - time: 2018-04-29 11:40
-      home: Hackney Bulls
+    - time: 2018-04-29 12:40
+      home: Blackheath 2
       away: Old Colfeians 2
-      group: Group D
+      group: Group C
       pitch: Murrayfield
 ---
 
