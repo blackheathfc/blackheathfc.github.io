@@ -5,67 +5,24 @@ breadcrumbs:
   u9: U9
   entrants: clubs
 items:
-  Sevenoaks 1:
+  Sevenoaks:
     21:
       time: 2018-04-29 10:00
-      home: Eton Manor 2
-      away: Sevenoaks 1
+      home: Ashford
+      away: Sevenoaks
       group: Group A
-      pitch: Cardiff Arms Park
+      pitch: Lansdowne Road
     23:
       time: 2018-04-29 10:40
-      home: Old Alleynians
-      away: Sevenoaks 1
+      home: KCH Pirates
+      away: Sevenoaks
       group: Group A
-      pitch: Cardiff Arms Park
+      pitch: Lansdowne Road
     25:
       time: 2018-04-29 11:20
-      home: Sevenoaks 1
-      away: Sidcup 2
-      group: Group A
-      pitch: Lansdowne Road
-    27:
-      time: 2018-04-29 12:00
-      home: Blackheath 3
-      away: Sevenoaks 1
-      group: Group A
-      pitch: Cardiff Arms Park
-    29:
-      time: 2018-04-29 12:40
-      home: Ashford
-      away: Sevenoaks 1
-      group: Group A
-      pitch: Cardiff Arms Park
-  Sevenoaks 2:
-    22:
-      time: 2018-04-29 10:20
       home: Blackheath 4
-      away: Sevenoaks 2
-      group: Group B
-      pitch: Cardiff Arms Park
-    24:
-      time: 2018-04-29 11:00
-      home: Blackheath 1
-      away: Sevenoaks 2
-      group: Group B
-      pitch: Lansdowne Road
-    26:
-      time: 2018-04-29 11:40
-      home: Hackney Bulls
-      away: Sevenoaks 2
-      group: Group B
-      pitch: Twickenham
-    28:
-      time: 2018-04-29 12:20
-      home: Old Colfeians 1
-      away: Sevenoaks 2
-      group: Group B
-      pitch: Cardiff Arms Park
-    30:
-      time: 2018-04-29 13:00
-      home: Sevenoaks 2
-      away: Barbarians
-      group: Group B
+      away: Sevenoaks
+      group: Group A
       pitch: Lansdowne Road
 ---
 

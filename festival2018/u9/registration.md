@@ -17,8 +17,7 @@ items:
 - Old Alleynians
 - Old Colfeians 1
 - Old Colfeians 2
-- Sevenoaks 1
-- Sevenoaks 2
+- Sevenoaks
 - Sidcup 1
 - Sidcup 2
 ---
