@@ -5,12 +5,10 @@ breadcrumbs:
   u8: U8
 items:
 - Ashford
-- Barbarians
 - Blackheath 1
 - Blackheath 2
 - Blackheath 3
 - Blackheath 4
-- Bromley
 - Canterbury 1
 - Canterbury 2
 - Eton Manor 1

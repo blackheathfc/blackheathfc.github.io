@@ -10,7 +10,6 @@ items:
 - Blackheath 3
 - Blackheath 4
 - Blackheath 5
-- Bromley
 - Eton Manor 1
 - Eton Manor 2
 - Hackney Bulls

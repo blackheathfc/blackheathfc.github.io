@@ -6,67 +6,61 @@ breadcrumbs:
   entrants: clubs
 items:
   Eton Manor 1:
-    1:
+    11:
       time: 2018-04-29 10:00
-      home: Blackheath 3
-      away: Eton Manor 1
-      group: Group A
-      pitch: Twickenham
-    3:
-      time: 2018-04-29 10:40
-      home: Eton Manor 1
-      away: Old Colfeians 2
-      group: Group A
-      pitch: Cardiff Arms Park
-    5:
-      time: 2018-04-29 11:20
-      home: Eton Manor 1
-      away: Sidcup 1
-      group: Group A
-      pitch: Lansdowne Road
-    7:
-      time: 2018-04-29 12:00
       home: Eton Manor 1
       away: KCH Pirates
-      group: Group A
-      pitch: Twickenham
-    9:
-      time: 2018-04-29 12:40
-      home: Ashford
+      group: Group C
+      pitch: Murrayfield
+    13:
+      time: 2018-04-29 10:40
+      home: Eton Manor 1
+      away: Sidcup 1
+      group: Group C
+      pitch: Murrayfield
+    15:
+      time: 2018-04-29 11:20
+      home: Blackheath 2
       away: Eton Manor 1
-      group: Group A
-      pitch: Cardiff Arms Park
+      group: Group C
+      pitch: Murrayfield
+    17:
+      time: 2018-04-29 12:00
+      home: Eton Manor 1
+      away: Old Colfeians 2
+      group: Group C
+      pitch: Murrayfield
   Eton Manor 2:
-    2:
-      time: 2018-04-29 10:20
-      home: Eton Manor 2
-      away: Sidcup 2
-      group: Group B
-      pitch: Cardiff Arms Park
-    4:
-      time: 2018-04-29 11:00
-      home: Blackheath 1
-      away: Eton Manor 2
-      group: Group B
-      pitch: Lansdowne Road
-    6:
-      time: 2018-04-29 11:40
-      home: Blackheath 4
-      away: Eton Manor 2
-      group: Group B
-      pitch: Lansdowne Road
-    8:
-      time: 2018-04-29 12:20
+    21:
+      time: 2018-04-29 10:00
       home: Eton Manor 2
       away: Sevenoaks 1
-      group: Group B
-      pitch: Lansdowne Road
-    10:
-      time: 2018-04-29 13:00
+      group: Group A
+      pitch: Cardiff Arms Park
+    23:
+      time: 2018-04-29 10:50
+      home: Blackheath 3
+      away: Eton Manor 2
+      group: Group A
+      pitch: Twickenham
+    25:
+      time: 2018-04-29 11:40
       home: Eton Manor 2
       away: Old Alleynians
-      group: Group B
+      group: Group A
+      pitch: Twickenham
+    27:
+      time: 2018-04-29 12:30
+      home: Ashford
+      away: Eton Manor 2
+      group: Group A
       pitch: Lansdowne Road
+    29:
+      time: 2018-04-29 13:20
+      home: Eton Manor 2
+      away: Sidcup 2
+      group: Group A
+      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}

@@ -6,29 +6,29 @@ breadcrumbs:
   entrants: clubs
 items:
   KCH Pirates:
-    14:
-      time: 2018-04-29 11:15
-      home: Blackheath 1
-      away: KCH Pirates
-      group: Group B
-      pitch: Lansdowne Road
-    16:
-      time: 2018-04-29 12:05
-      home: KCH Pirates
-      away: Sidcup 2
-      group: Group B
-      pitch: Lansdowne Road
-    18:
-      time: 2018-04-29 12:55
+    11:
+      time: 2018-04-29 10:00
       home: KCH Pirates
       away: Sevenoaks 1
-      group: Group B
-      pitch: Lansdowne Road
-    20:
-      time: 2018-04-29 13:45
+      group: Group A
+      pitch: Twickenham
+    13:
+      time: 2018-04-29 10:50
+      home: KCH Pirates
+      away: Sidcup 2
+      group: Group A
+      pitch: Twickenham
+    15:
+      time: 2018-04-29 11:40
+      home: Ashford
+      away: KCH Pirates
+      group: Group A
+      pitch: Twickenham
+    19:
+      time: 2018-04-29 13:20
       home: Eton Manor 1
       away: KCH Pirates
-      group: Group B
+      group: Group A
       pitch: Lansdowne Road
 ---
 

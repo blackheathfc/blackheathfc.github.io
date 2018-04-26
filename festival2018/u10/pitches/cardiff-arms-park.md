@@ -5,65 +5,65 @@ breadcrumbs:
   u10: U10
   pitches: pitches
 items:
-  11:
+  1:
     time: 2018-04-29 10:00
-    home: Eton Manor 2
-    away: Old Elthamians 2
-    group: Group C
+    home: Old Alleynians
+    away: Sevenoaks 2
+    group: Group A
     pitch: Cardiff Arms Park
-  12:
+  2:
     time: 2018-04-29 10:20
-    home: Blackheath 3
-    away: Barbarians
-    group: Group D
+    home: Hackney Bulls 2
+    away: Sidcup 1
+    group: Group B
     pitch: Cardiff Arms Park
-  13:
+  3:
     time: 2018-04-29 10:40
-    home: Old Elthamians 2
-    away: Sidcup 2
-    group: Group C
+    home: Hackney Bulls 1
+    away: Old Elthamians 1
+    group: Group A
     pitch: Cardiff Arms Park
-  14:
+  4:
     time: 2018-04-29 11:00
-    home: Sevenoaks 1
-    away: Barbarians
-    group: Group D
+    home: Eton Manor 1
+    away: Sidcup 1
+    group: Group B
     pitch: Cardiff Arms Park
-  15:
+  5:
     time: 2018-04-29 11:20
-    home: Eton Manor 2
-    away: Sidcup 2
-    group: Group C
+    home: Old Alleynians
+    away: Old Elthamians 1
+    group: Group A
     pitch: Cardiff Arms Park
-  16:
+  6:
     time: 2018-04-29 11:40
-    home: Old Colfeians
-    away: Barbarians
-    group: Group D
+    home: Old Elthamians 2
+    away: Sidcup 1
+    group: Group B
     pitch: Cardiff Arms Park
-  17:
+  7:
     time: 2018-04-29 12:00
-    home: Old Alleynians
-    away: Old Elthamians 2
-    group: Group C
+    home: Blackheath 3
+    away: Old Elthamians 1
+    group: Group A
     pitch: Cardiff Arms Park
-  18:
+  8:
     time: 2018-04-29 12:20
-    home: Hackney Bulls 1
-    away: Barbarians
-    group: Group D
+    home: Blackheath 1
+    away: Eton Manor 1
+    group: Group B
     pitch: Cardiff Arms Park
-  19:
+  9:
     time: 2018-04-29 12:40
-    home: Old Alleynians
-    away: Sidcup 2
-    group: Group C
+    home: Ashford
+    away: Hackney Bulls 1
+    group: Group A
     pitch: Cardiff Arms Park
-  20:
+  10:
     time: 2018-04-29 13:00
-    home: Hackney Bulls 1
-    away: Sevenoaks 1
-    group: Group D
+    home: Eton Manor 1
+    away: Old Elthamians 2
+    group: Group B
     pitch: Cardiff Arms Park
 ---
 

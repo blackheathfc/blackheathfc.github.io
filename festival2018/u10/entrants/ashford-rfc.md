@@ -6,30 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Ashford:
-    11:
+    1:
       time: 2018-04-29 10:00
+      home: Ashford
+      away: Old Elthamians 1
+      group: Group A
+      pitch: Lansdowne Road
+    3:
+      time: 2018-04-29 10:40
+      home: Ashford
+      away: Old Alleynians
+      group: Group A
+      pitch: Lansdowne Road
+    5:
+      time: 2018-04-29 11:20
+      home: Ashford
+      away: Blackheath 3
+      group: Group A
+      pitch: Twickenham
+    7:
+      time: 2018-04-29 12:00
       home: Ashford
       away: Sevenoaks 2
       group: Group A
       pitch: Lansdowne Road
-    15:
-      time: 2018-04-29 11:20
-      home: Ashford
-      away: Bromley
-      group: Group A
-      pitch: Twickenham
-    17:
-      time: 2018-04-29 12:00
-      home: Ashford
-      away: Hackney Bulls 2
-      group: Group A
-      pitch: Twickenham
-    19:
+    9:
       time: 2018-04-29 12:40
       home: Ashford
-      away: Old Dunstonians
+      away: Hackney Bulls 1
       group: Group A
-      pitch: Twickenham
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

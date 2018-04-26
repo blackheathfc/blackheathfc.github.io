@@ -6,7 +6,6 @@ breadcrumbs:
 items:
 - Ashford RFC
 - Blackheath FC
-- Bromley RFC
 - Eton Manor RFC
 - Hackney RFC
 - King's College Hospital RFC

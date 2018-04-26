@@ -6,30 +6,24 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Colfeians:
-    11:
+    21:
       time: 2018-04-29 10:00
-      home: Old Colfeians
-      away: Sidcup 1
-      group: Group A
-      pitch: Lansdowne Road
-    13:
-      time: 2018-04-29 10:50
       home: Hackney Bulls
       away: Old Colfeians
-      group: Group A
-      pitch: Lansdowne Road
-    17:
-      time: 2018-04-29 12:30
-      home: Ashford
+      group: Group C
+      pitch: Cardiff Arms Park
+    23:
+      time: 2018-04-29 11:00
+      home: Blackheath 2
       away: Old Colfeians
-      group: Group A
-      pitch: Lansdowne Road
-    19:
-      time: 2018-04-29 13:20
-      home: Bromley
-      away: Old Colfeians
-      group: Group A
-      pitch: Twickenham
+      group: Group C
+      pitch: Murrayfield
+    25:
+      time: 2018-04-29 12:00
+      home: Old Colfeians
+      away: Sidcup 1
+      group: Group C
+      pitch: Murrayfield
 ---
 
 {% include schedule_entrant.html %}

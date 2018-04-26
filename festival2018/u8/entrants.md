@@ -5,9 +5,7 @@ breadcrumbs:
   u8: U8
 items:
 - Ashford RFC
-- Barbarians
 - Blackheath FC
-- Bromley RFC
 - Canterbury RFC
 - Eton Manor RFC
 - Hackney RFC

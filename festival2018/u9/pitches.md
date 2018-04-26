@@ -9,7 +9,6 @@ items:
 - Cardiff Arms Park
 - Murrayfield
 - Parc des Princes
-- Stadio Olimpico
 ---
 
 {% include pitch_list.html %}

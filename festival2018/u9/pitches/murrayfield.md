@@ -5,34 +5,34 @@ breadcrumbs:
   u9: U9
   pitches: pitches
 items:
-  1:
+  11:
     time: 2018-04-29 10:00
-    home: Hackney Bulls
-    away: Barbarians
+    home: Eton Manor 1
+    away: KCH Pirates
     group: Group C
     pitch: Murrayfield
-  3:
+  13:
     time: 2018-04-29 10:40
-    home: Old Colfeians 1
-    away: Barbarians
+    home: Eton Manor 1
+    away: Sidcup 1
     group: Group C
     pitch: Murrayfield
-  5:
+  15:
     time: 2018-04-29 11:20
-    home: Bromley
-    away: Barbarians
+    home: Blackheath 2
+    away: Eton Manor 1
     group: Group C
     pitch: Murrayfield
-  7:
+  17:
     time: 2018-04-29 12:00
-    home: Bromley
-    away: Old Colfeians 1
+    home: Eton Manor 1
+    away: Old Colfeians 2
     group: Group C
     pitch: Murrayfield
-  9:
+  19:
     time: 2018-04-29 12:40
-    home: Bromley
-    away: Hackney Bulls
+    home: Blackheath 2
+    away: KCH Pirates
     group: Group C
     pitch: Murrayfield
 ---

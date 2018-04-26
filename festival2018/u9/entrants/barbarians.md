@@ -6,36 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Barbarians:
-    1:
-      time: 2018-04-29 10:00
-      home: Hackney Bulls
-      away: Barbarians
-      group: Group C
-      pitch: Murrayfield
-    3:
-      time: 2018-04-29 10:40
+    22:
+      time: 2018-04-29 10:25
       home: Old Colfeians 1
       away: Barbarians
-      group: Group C
-      pitch: Murrayfield
-    5:
-      time: 2018-04-29 11:20
-      home: Bromley
+      group: Group B
+      pitch: Lansdowne Road
+    24:
+      time: 2018-04-29 11:15
+      home: Blackheath 4
       away: Barbarians
-      group: Group C
-      pitch: Murrayfield
-    7:
-      time: 2018-04-29 12:00
-      home: Blackheath 2
+      group: Group B
+      pitch: Cardiff Arms Park
+    26:
+      time: 2018-04-29 12:05
+      home: Blackheath 1
       away: Barbarians
-      group: Group C
-      pitch: Parc des Princes
-    9:
-      time: 2018-04-29 12:40
+      group: Group B
+      pitch: Cardiff Arms Park
+    28:
+      time: 2018-04-29 12:55
+      home: Hackney Bulls
+      away: Barbarians
+      group: Group B
+      pitch: Lansdowne Road
+    30:
+      time: 2018-04-29 13:45
       home: Sevenoaks 2
       away: Barbarians
-      group: Group C
-      pitch: Stadio Olimpico
+      group: Group B
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

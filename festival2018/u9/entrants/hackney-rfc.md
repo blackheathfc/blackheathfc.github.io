@@ -6,36 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Hackney Bulls:
-    1:
-      time: 2018-04-29 10:00
-      home: Hackney Bulls
-      away: Barbarians
-      group: Group C
-      pitch: Murrayfield
-    3:
-      time: 2018-04-29 10:40
-      home: Blackheath 2
+    22:
+      time: 2018-04-29 10:25
+      home: Blackheath 1
       away: Hackney Bulls
-      group: Group C
-      pitch: Parc des Princes
-    5:
-      time: 2018-04-29 11:20
+      group: Group B
+      pitch: Twickenham
+    24:
+      time: 2018-04-29 11:15
       home: Hackney Bulls
       away: Old Colfeians 1
-      group: Group C
-      pitch: Parc des Princes
-    7:
-      time: 2018-04-29 12:00
+      group: Group B
+      pitch: Twickenham
+    26:
+      time: 2018-04-29 12:05
       home: Hackney Bulls
       away: Sevenoaks 2
-      group: Group C
-      pitch: Stadio Olimpico
-    9:
-      time: 2018-04-29 12:40
-      home: Bromley
+      group: Group B
+      pitch: Twickenham
+    28:
+      time: 2018-04-29 12:55
+      home: Hackney Bulls
+      away: Barbarians
+      group: Group B
+      pitch: Lansdowne Road
+    30:
+      time: 2018-04-29 13:45
+      home: Blackheath 4
       away: Hackney Bulls
-      group: Group C
-      pitch: Murrayfield
+      group: Group B
+      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}

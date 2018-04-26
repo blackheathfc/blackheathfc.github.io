@@ -6,66 +6,60 @@ breadcrumbs:
   entrants: clubs
 items:
   Sidcup 1:
-    1:
-      time: 2018-04-29 10:00
-      home: KCH Pirates
-      away: Sidcup 1
-      group: Group A
-      pitch: Cardiff Arms Park
-    3:
+    13:
       time: 2018-04-29 10:40
-      home: Blackheath 3
-      away: Sidcup 1
-      group: Group A
-      pitch: Twickenham
-    5:
-      time: 2018-04-29 11:20
       home: Eton Manor 1
       away: Sidcup 1
-      group: Group A
-      pitch: Lansdowne Road
-    7:
-      time: 2018-04-29 12:00
-      home: Ashford
+      group: Group C
+      pitch: Murrayfield
+    15:
+      time: 2018-04-29 11:20
+      home: KCH Pirates
       away: Sidcup 1
-      group: Group A
-      pitch: Lansdowne Road
-    9:
+      group: Group C
+      pitch: Parc des Princes
+    17:
+      time: 2018-04-29 12:00
+      home: Blackheath 2
+      away: Sidcup 1
+      group: Group C
+      pitch: Parc des Princes
+    19:
       time: 2018-04-29 12:40
       home: Old Colfeians 2
       away: Sidcup 1
-      group: Group A
-      pitch: Twickenham
+      group: Group C
+      pitch: Parc des Princes
   Sidcup 2:
-    2:
-      time: 2018-04-29 10:20
-      home: Eton Manor 2
+    21:
+      time: 2018-04-29 10:00
+      home: Blackheath 3
       away: Sidcup 2
-      group: Group B
-      pitch: Cardiff Arms Park
-    4:
-      time: 2018-04-29 11:00
-      home: Blackheath 4
+      group: Group A
+      pitch: Lansdowne Road
+    23:
+      time: 2018-04-29 10:50
+      home: Ashford
       away: Sidcup 2
-      group: Group B
-      pitch: Cardiff Arms Park
-    6:
+      group: Group A
+      pitch: Lansdowne Road
+    25:
       time: 2018-04-29 11:40
       home: Sevenoaks 1
       away: Sidcup 2
-      group: Group B
-      pitch: Cardiff Arms Park
-    8:
-      time: 2018-04-29 12:20
+      group: Group A
+      pitch: Lansdowne Road
+    27:
+      time: 2018-04-29 12:30
       home: Old Alleynians
       away: Sidcup 2
-      group: Group B
+      group: Group A
       pitch: Twickenham
-    10:
-      time: 2018-04-29 13:00
-      home: Blackheath 1
+    29:
+      time: 2018-04-29 13:20
+      home: Eton Manor 2
       away: Sidcup 2
-      group: Group B
+      group: Group A
       pitch: Twickenham
 ---
 

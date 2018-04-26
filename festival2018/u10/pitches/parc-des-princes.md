@@ -7,20 +7,20 @@ breadcrumbs:
 items:
   1:
     time: 2018-04-29 10:00
-    home: Old Colfeians
+    home: Old Dunstonians
     away: Sevenoaks 1
     group: Group C
     pitch: Parc des Princes
   3:
     time: 2018-04-29 10:40
     home: Blackheath 2
-    away: Hackney Bulls 2
+    away: KCH Pirates
     group: Group C
     pitch: Parc des Princes
   5:
     time: 2018-04-29 11:20
-    home: Hackney Bulls 2
-    away: Old Colfeians
+    home: KCH Pirates
+    away: Old Dunstonians
     group: Group C
     pitch: Parc des Princes
   7:
@@ -32,7 +32,7 @@ items:
   9:
     time: 2018-04-29 12:40
     home: Blackheath 2
-    away: Old Colfeians
+    away: Old Dunstonians
     group: Group C
     pitch: Parc des Princes
 ---

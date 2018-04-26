@@ -6,30 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   KCH Pirates:
-    12:
-      time: 2018-04-29 10:20
+    1:
+      time: 2018-04-29 10:00
       home: KCH Pirates
-      away: Old Elthamians 1
-      group: Group B
-      pitch: Twickenham
-    14:
-      time: 2018-04-29 11:00
-      home: Blackheath 1
+      away: Sidcup 2
+      group: Group C
+      pitch: Murrayfield
+    3:
+      time: 2018-04-29 10:40
+      home: Blackheath 2
       away: KCH Pirates
-      group: Group B
-      pitch: Twickenham
-    18:
-      time: 2018-04-29 12:20
-      home: Eton Manor 1
-      away: KCH Pirates
-      group: Group B
-      pitch: Lansdowne Road
-    20:
-      time: 2018-04-29 13:00
+      group: Group C
+      pitch: Parc des Princes
+    5:
+      time: 2018-04-29 11:20
       home: KCH Pirates
-      away: Sidcup 1
-      group: Group B
-      pitch: Lansdowne Road
+      away: Old Dunstonians
+      group: Group C
+      pitch: Parc des Princes
+    7:
+      time: 2018-04-29 12:00
+      home: KCH Pirates
+      away: Sevenoaks 1
+      group: Group C
+      pitch: Stadio Olimpico
+    9:
+      time: 2018-04-29 12:40
+      home: Eton Manor 2
+      away: KCH Pirates
+      group: Group C
+      pitch: Murrayfield
 ---
 
 {% include schedule_entrant.html %}

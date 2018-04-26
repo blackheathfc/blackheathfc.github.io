@@ -5,64 +5,64 @@ breadcrumbs:
   u7: U7
   pitches: pitches
 items:
-  1:
+  21:
     time: 2018-04-29 10:00
-    home: Ashford
-    away: Old Colfeians 1
-    group: Group A
-    pitch: Lansdowne Road
-  2:
-    time: 2018-04-29 10:15
-    home: Blackheath 4
-    away: KCH Pirates
-    group: Group B
-    pitch: Lansdowne Road
-  3:
-    time: 2018-04-29 10:30
-    home: Ashford
-    away: Hackney Bulls
-    group: Group A
-    pitch: Lansdowne Road
-  4:
-    time: 2018-04-29 10:45
-    home: Blackheath 1
-    away: Eton Manor 1
-    group: Group B
-    pitch: Lansdowne Road
-  5:
-    time: 2018-04-29 11:00
-    home: Bromley
-    away: Old Colfeians 4
-    group: Group A
-    pitch: Lansdowne Road
-  6:
-    time: 2018-04-29 11:15
-    home: Blackheath 4
-    away: Eton Manor 1
-    group: Group B
-    pitch: Lansdowne Road
-  7:
-    time: 2018-04-29 11:30
-    home: Ashford
-    away: Old Colfeians 4
-    group: Group A
-    pitch: Lansdowne Road
-  8:
-    time: 2018-04-29 11:45
-    home: Eton Manor 1
-    away: Old Colfeians 2
-    group: Group B
-    pitch: Lansdowne Road
-  9:
-    time: 2018-04-29 12:00
     home: Blackheath 3
-    away: Hackney Bulls
+    away: Old Colfeians 5
     group: Group A
     pitch: Lansdowne Road
-  10:
-    time: 2018-04-29 12:15
-    home: Eton Manor 1
+  22:
+    time: 2018-04-29 10:25
+    home: Old Alleynians
+    away: Westcombe Park
+    group: Group B
+    pitch: Lansdowne Road
+  23:
+    time: 2018-04-29 10:50
+    home: Ashford
+    away: Old Colfeians 5
+    group: Group A
+    pitch: Lansdowne Road
+  24:
+    time: 2018-04-29 11:15
+    home: Blackheath 1
+    away: Old Colfeians 3
+    group: Group B
+    pitch: Lansdowne Road
+  25:
+    time: 2018-04-29 11:40
+    home: Old Colfeians 2
+    away: Old Colfeians 5
+    group: Group A
+    pitch: Lansdowne Road
+  26:
+    time: 2018-04-29 12:05
+    home: Blackheath 4
+    away: Old Alleynians
+    group: Group B
+    pitch: Lansdowne Road
+  27:
+    time: 2018-04-29 12:30
+    home: Ashford
+    away: Eton Manor 1
+    group: Group A
+    pitch: Lansdowne Road
+  28:
+    time: 2018-04-29 12:55
+    home: Eton Manor 2
+    away: Westcombe Park
+    group: Group B
+    pitch: Lansdowne Road
+  29:
+    time: 2018-04-29 13:20
+    home: Blackheath 3
     away: KCH Pirates
+    group: Group A
+    pitch: Lansdowne Road
+  30:
+    time: 2018-04-29 13:45
+    home: Old Colfeians 3
+    away: Westcombe Park
     group: Group B
     pitch: Lansdowne Road
 ---

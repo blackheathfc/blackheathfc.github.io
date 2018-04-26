@@ -6,30 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Alleynians:
-    11:
+    1:
       time: 2018-04-29 10:00
-      home: Blackheath 2
-      away: Old Alleynians
-      group: Group C
-      pitch: Murrayfield
-    13:
+      home: Old Alleynians
+      away: Sevenoaks 2
+      group: Group A
+      pitch: Cardiff Arms Park
+    3:
       time: 2018-04-29 10:40
-      home: Eton Manor 2
+      home: Ashford
       away: Old Alleynians
-      group: Group C
-      pitch: Murrayfield
-    17:
+      group: Group A
+      pitch: Lansdowne Road
+    5:
+      time: 2018-04-29 11:20
+      home: Old Alleynians
+      away: Old Elthamians 1
+      group: Group A
+      pitch: Cardiff Arms Park
+    7:
       time: 2018-04-29 12:00
-      home: Old Alleynians
-      away: Old Elthamians 2
-      group: Group C
-      pitch: Cardiff Arms Park
-    19:
+      home: Hackney Bulls 1
+      away: Old Alleynians
+      group: Group A
+      pitch: Twickenham
+    9:
       time: 2018-04-29 12:40
-      home: Old Alleynians
-      away: Sidcup 2
-      group: Group C
-      pitch: Cardiff Arms Park
+      home: Blackheath 3
+      away: Old Alleynians
+      group: Group A
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

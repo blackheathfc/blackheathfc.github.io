@@ -5,11 +5,9 @@ breadcrumbs:
   u10: U10
 items:
 - Ashford
-- Barbarians
 - Blackheath 1
 - Blackheath 2
 - Blackheath 3
-- Bromley
 - Eton Manor 1
 - Eton Manor 2
 - Hackney Bulls 1

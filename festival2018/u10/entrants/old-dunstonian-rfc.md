@@ -6,30 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Dunstonians:
-    13:
-      time: 2018-04-29 10:40
-      home: Bromley
-      away: Old Dunstonians
-      group: Group A
-      pitch: Lansdowne Road
-    15:
-      time: 2018-04-29 11:20
-      home: Hackney Bulls 2
-      away: Old Dunstonians
-      group: Group A
-      pitch: Lansdowne Road
-    17:
-      time: 2018-04-29 12:00
+    1:
+      time: 2018-04-29 10:00
       home: Old Dunstonians
-      away: Sevenoaks 2
-      group: Group A
-      pitch: Lansdowne Road
-    19:
-      time: 2018-04-29 12:40
-      home: Ashford
+      away: Sevenoaks 1
+      group: Group C
+      pitch: Parc des Princes
+    3:
+      time: 2018-04-29 10:40
+      home: Old Dunstonians
+      away: Sidcup 2
+      group: Group C
+      pitch: Murrayfield
+    5:
+      time: 2018-04-29 11:20
+      home: KCH Pirates
       away: Old Dunstonians
-      group: Group A
-      pitch: Twickenham
+      group: Group C
+      pitch: Parc des Princes
+    7:
+      time: 2018-04-29 12:00
+      home: Eton Manor 2
+      away: Old Dunstonians
+      group: Group C
+      pitch: Murrayfield
+    9:
+      time: 2018-04-29 12:40
+      home: Blackheath 2
+      away: Old Dunstonians
+      group: Group C
+      pitch: Parc des Princes
 ---
 
 {% include schedule_entrant.html %}

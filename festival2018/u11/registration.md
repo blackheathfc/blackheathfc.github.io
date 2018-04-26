@@ -7,7 +7,6 @@ items:
 - Ashford
 - Blackheath 1
 - Blackheath 2
-- Bromley
 - Eton Manor 1
 - Eton Manor 2
 - Hackney Bulls

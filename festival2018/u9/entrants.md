@@ -7,7 +7,6 @@ items:
 - Ashford RFC
 - Barbarians
 - Blackheath FC
-- Bromley RFC
 - Eton Manor RFC
 - Hackney RFC
 - King's College Hospital RFC

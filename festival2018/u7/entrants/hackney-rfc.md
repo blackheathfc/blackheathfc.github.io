@@ -6,36 +6,30 @@ breadcrumbs:
   entrants: clubs
 items:
   Hackney Bulls:
-    1:
+    11:
       time: 2018-04-29 10:00
-      home: Hackney Bulls
-      away: Old Colfeians 4
-      group: Group A
-      pitch: Cardiff Arms Park
-    3:
-      time: 2018-04-29 10:30
-      home: Ashford
+      home: Blackheath 5
       away: Hackney Bulls
-      group: Group A
-      pitch: Lansdowne Road
-    5:
-      time: 2018-04-29 11:00
+      group: Group C
+      pitch: Murrayfield
+    13:
+      time: 2018-04-29 10:40
       home: Hackney Bulls
       away: Old Colfeians 1
-      group: Group A
-      pitch: Cardiff Arms Park
-    7:
-      time: 2018-04-29 11:30
-      home: Bromley
+      group: Group C
+      pitch: Parc des Princes
+    15:
+      time: 2018-04-29 11:20
+      home: Hackney Bulls
+      away: Old Colfeians 4
+      group: Group C
+      pitch: Parc des Princes
+    19:
+      time: 2018-04-29 12:40
+      home: Blackheath 2
       away: Hackney Bulls
-      group: Group A
-      pitch: Twickenham
-    9:
-      time: 2018-04-29 12:00
-      home: Blackheath 3
-      away: Hackney Bulls
-      group: Group A
-      pitch: Lansdowne Road
+      group: Group C
+      pitch: Murrayfield
 ---
 
 {% include schedule_entrant.html %}
