@@ -38,4 +38,4 @@ items:
       pitch: Twickenham
 ---
 
-{% include schedule_entrant.html %}
+{% include schedule_entrant %}

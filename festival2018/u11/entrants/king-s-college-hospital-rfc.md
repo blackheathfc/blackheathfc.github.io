@@ -32,4 +32,4 @@ items:
       pitch: Lansdowne Road
 ---
 
-{% include schedule_entrant.html %}
+{% include schedule_entrant %}

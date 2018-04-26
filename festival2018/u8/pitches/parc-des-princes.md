@@ -37,4 +37,4 @@ items:
     pitch: Parc des Princes
 ---
 
-{% include schedule_pitch.html %}
+{% include schedule_pitch %}

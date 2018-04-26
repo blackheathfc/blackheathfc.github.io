@@ -25,4 +25,4 @@ items:
     pitch: Cardiff Arms Park
 ---
 
-{% include schedule_pitch.html %}
+{% include schedule_pitch %}
