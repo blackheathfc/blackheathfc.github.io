@@ -5,35 +5,41 @@ breadcrumbs:
   u9: U9
   pitches: pitches
 items:
-  11:
+  21:
     time: 2018-04-29 10:00
-    home: Eton Manor 1
-    away: KCH Pirates
+    home: Old Albanians
+    away: Sidcup 1
     group: Group C
     pitch: Cardiff Arms Park
-  13:
+  22:
+    time: 2018-04-29 10:20
+    home: Blackheath 3
+    away: Old Colfeians 1
+    group: Group D
+    pitch: Cardiff Arms Park
+  23:
     time: 2018-04-29 10:40
-    home: Eton Manor 1
-    away: Old Colfeians 2
+    home: Blackheath 2
+    away: Old Albanians
     group: Group C
     pitch: Cardiff Arms Park
-  15:
+  24:
+    time: 2018-04-29 11:00
+    home: Old Colfeians 1
+    away: Sidcup 2
+    group: Group D
+    pitch: Cardiff Arms Park
+  25:
     time: 2018-04-29 11:20
     home: Blackheath 2
-    away: KCH Pirates
+    away: Sidcup 1
     group: Group C
     pitch: Cardiff Arms Park
-  17:
-    time: 2018-04-29 12:00
-    home: Blackheath 2
-    away: Eton Manor 1
-    group: Group C
-    pitch: Cardiff Arms Park
-  19:
-    time: 2018-04-29 12:40
-    home: Eton Manor 1
+  26:
+    time: 2018-04-29 11:40
+    home: Blackheath 3
     away: Sidcup 2
-    group: Group C
+    group: Group D
     pitch: Cardiff Arms Park
 ---
 

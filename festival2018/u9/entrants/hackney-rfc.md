@@ -6,30 +6,24 @@ breadcrumbs:
   entrants: clubs
 items:
   Hackney Bulls:
-    14:
+    22:
+      time: 2018-04-29 10:20
+      home: Hackney Bulls
+      away: Sidcup 2
+      group: Group D
+      pitch: Murrayfield
+    24:
       time: 2018-04-29 11:00
-      home: Blackheath 1
+      home: Blackheath 3
       away: Hackney Bulls
-      group: Group B
-      pitch: Lansdowne Road
-    16:
+      group: Group D
+      pitch: Murrayfield
+    26:
       time: 2018-04-29 11:40
       home: Hackney Bulls
-      away: Sidcup 1
-      group: Group B
-      pitch: Lansdowne Road
-    18:
-      time: 2018-04-29 12:20
-      home: Hackney Bulls
       away: Old Colfeians 1
-      group: Group B
-      pitch: Lansdowne Road
-    20:
-      time: 2018-04-29 13:00
-      home: Blackheath 4
-      away: Hackney Bulls
-      group: Group B
-      pitch: Lansdowne Road
+      group: Group D
+      pitch: Murrayfield
 ---
 
 {% include schedule_entrant.html %}

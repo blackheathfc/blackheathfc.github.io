@@ -5,35 +5,41 @@ breadcrumbs:
   u9: U9
   pitches: pitches
 items:
-  11:
+  21:
     time: 2018-04-29 10:00
     home: Blackheath 2
-    away: Sidcup 2
+    away: Eton Manor 2
     group: Group C
     pitch: Murrayfield
-  13:
+  22:
+    time: 2018-04-29 10:20
+    home: Hackney Bulls
+    away: Sidcup 2
+    group: Group D
+    pitch: Murrayfield
+  23:
     time: 2018-04-29 10:40
-    home: KCH Pirates
-    away: Sidcup 2
+    home: Eton Manor 2
+    away: Sidcup 1
     group: Group C
     pitch: Murrayfield
-  15:
+  24:
+    time: 2018-04-29 11:00
+    home: Blackheath 3
+    away: Hackney Bulls
+    group: Group D
+    pitch: Murrayfield
+  25:
     time: 2018-04-29 11:20
-    home: Old Colfeians 2
-    away: Sidcup 2
+    home: Eton Manor 2
+    away: Old Albanians
     group: Group C
     pitch: Murrayfield
-  17:
-    time: 2018-04-29 12:00
-    home: KCH Pirates
-    away: Old Colfeians 2
-    group: Group C
-    pitch: Murrayfield
-  19:
-    time: 2018-04-29 12:40
-    home: Blackheath 2
-    away: Old Colfeians 2
-    group: Group C
+  26:
+    time: 2018-04-29 11:40
+    home: Hackney Bulls
+    away: Old Colfeians 1
+    group: Group D
     pitch: Murrayfield
 ---
 

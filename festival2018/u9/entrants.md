@@ -9,6 +9,7 @@ items:
 - Eton Manor RFC
 - Hackney RFC
 - King's College Hospital RFC
+- Old Albanian RFC
 - Old Alleynian FC
 - Old Colfeians RFC
 - Sevenoaks RFC
