@@ -13,7 +13,8 @@ items:
 - Eton Manor 2
 - Hackney Bulls
 - KCH Pirates
-- Old Albanians
+- Old Albanians 1
+- Old Albanians 2
 - Old Alleynians
 - Old Colfeians 1
 - Old Colfeians 2

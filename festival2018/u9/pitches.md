@@ -8,6 +8,7 @@ items:
 - Lansdowne Road
 - Cardiff Arms Park
 - Murrayfield
+- Parc des Princes
 ---
 
 {% include pitch_list.html %}
