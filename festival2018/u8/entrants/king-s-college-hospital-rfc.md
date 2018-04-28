@@ -32,7 +32,7 @@ items:
       pitch: Murrayfield
     9:
       time: 2018-04-29 12:00
-      home: Blackheath 2
+      home: Blackheath 3
       away: KCH Pirates
       group: Group C
       pitch: Parc des Princes

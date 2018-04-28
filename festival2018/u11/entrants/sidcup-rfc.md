@@ -6,49 +6,43 @@ breadcrumbs:
   entrants: clubs
 items:
   Sidcup 1:
-    21:
-      time: 2018-04-29 10:00
+    12:
+      time: 2018-04-29 10:25
+      home: Old Colfeians
+      away: Sidcup 1
+      group: Group B
+      pitch: Twickenham
+    14:
+      time: 2018-04-29 11:15
       home: Blackheath 2
       away: Sidcup 1
-      group: Group C
-      pitch: Murrayfield
-    23:
-      time: 2018-04-29 11:00
+      group: Group B
+      pitch: Lansdowne Road
+    16:
+      time: 2018-04-29 12:05
       home: Hackney Bulls
       away: Sidcup 1
+      group: Group B
+      pitch: Twickenham
+  Sidcup 2:
+    21:
+      time: 2018-04-29 10:00
+      home: KCH Pirates
+      away: Sidcup 2
+      group: Group C
+      pitch: Cardiff Arms Park
+    23:
+      time: 2018-04-29 11:00
+      home: Eton Manor 1
+      away: Sidcup 2
       group: Group C
       pitch: Cardiff Arms Park
     25:
       time: 2018-04-29 12:00
-      home: Old Colfeians
-      away: Sidcup 1
-      group: Group C
-      pitch: Murrayfield
-  Sidcup 2:
-    11:
-      time: 2018-04-29 10:00
-      home: Ashford
-      away: Sidcup 2
-      group: Group A
-      pitch: Lansdowne Road
-    13:
-      time: 2018-04-29 10:50
-      home: KCH Pirates
-      away: Sidcup 2
-      group: Group A
-      pitch: Twickenham
-    15:
-      time: 2018-04-29 11:40
-      home: Eton Manor 1
-      away: Sidcup 2
-      group: Group A
-      pitch: Lansdowne Road
-    17:
-      time: 2018-04-29 12:30
       home: Sevenoaks 1
       away: Sidcup 2
-      group: Group A
-      pitch: Lansdowne Road
+      group: Group C
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

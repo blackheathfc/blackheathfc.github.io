@@ -4,12 +4,10 @@ style: registration_list
 breadcrumbs:
   u10: U10
 items:
-- Ashford
 - Blackheath 1
 - Blackheath 2
 - Blackheath 3
-- Eton Manor 1
-- Eton Manor 2
+- Eton Manor
 - Hackney Bulls 1
 - Hackney Bulls 2
 - KCH Pirates

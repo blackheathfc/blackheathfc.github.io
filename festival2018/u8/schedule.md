@@ -7,18 +7,18 @@ items:
   Group A:
     Twickenham:
     - time: 2018-04-29 10:00
-      home: Blackheath 3
+      home: Blackheath 4
       away: Canterbury 2
       group: Group A
       pitch: Twickenham
     - time: 2018-04-29 10:30
-      home: Blackheath 3
+      home: Blackheath 4
       away: Sidcup 1
       group: Group A
       pitch: Twickenham
     - time: 2018-04-29 11:00
-      home: Ashford
-      away: Blackheath 3
+      home: Blackheath 1
+      away: Blackheath 4
       group: Group A
       pitch: Twickenham
     - time: 2018-04-29 11:30
@@ -33,12 +33,12 @@ items:
       pitch: Twickenham
     Lansdowne Road:
     - time: 2018-04-29 10:00
-      home: Ashford
+      home: Blackheath 1
       away: Old Alleynians
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 10:30
-      home: Ashford
+      home: Blackheath 1
       away: Hackney Bulls 1
       group: Group A
       pitch: Lansdowne Road
@@ -48,12 +48,12 @@ items:
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 11:30
-      home: Ashford
+      home: Blackheath 1
       away: Sidcup 1
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-04-29 12:00
-      home: Blackheath 3
+      home: Blackheath 4
       away: Hackney Bulls 1
       group: Group A
       pitch: Lansdowne Road
@@ -74,19 +74,19 @@ items:
       group: Group A
       pitch: Cardiff Arms Park
     - time: 2018-04-29 11:30
-      home: Blackheath 3
+      home: Blackheath 4
       away: Old Alleynians
       group: Group A
       pitch: Cardiff Arms Park
     - time: 2018-04-29 12:00
-      home: Ashford
+      home: Blackheath 1
       away: Canterbury 2
       group: Group A
       pitch: Cardiff Arms Park
   Group B:
     Twickenham:
     - time: 2018-04-29 10:15
-      home: Blackheath 1
+      home: Blackheath 2
       away: Old Colfeians 1
       group: Group B
       pitch: Twickenham
@@ -96,7 +96,7 @@ items:
       group: Group B
       pitch: Twickenham
     - time: 2018-04-29 11:15
-      home: Blackheath 1
+      home: Blackheath 2
       away: Hackney Bulls 2
       group: Group B
       pitch: Twickenham
@@ -106,23 +106,23 @@ items:
       group: Group B
       pitch: Twickenham
     - time: 2018-04-29 12:15
-      home: Blackheath 1
+      home: Blackheath 2
       away: Sidcup 2
       group: Group B
       pitch: Twickenham
     Lansdowne Road:
     - time: 2018-04-29 10:15
-      home: Blackheath 4
+      home: Blackheath 5
       away: Hackney Bulls 2
       group: Group B
       pitch: Lansdowne Road
     - time: 2018-04-29 10:45
-      home: Blackheath 1
+      home: Blackheath 2
       away: Eton Manor 1
       group: Group B
       pitch: Lansdowne Road
     - time: 2018-04-29 11:15
-      home: Blackheath 4
+      home: Blackheath 5
       away: Eton Manor 1
       group: Group B
       pitch: Lansdowne Road
@@ -143,7 +143,7 @@ items:
       group: Group B
       pitch: Cardiff Arms Park
     - time: 2018-04-29 10:45
-      home: Blackheath 4
+      home: Blackheath 5
       away: Sidcup 2
       group: Group B
       pitch: Cardiff Arms Park
@@ -153,12 +153,12 @@ items:
       group: Group B
       pitch: Cardiff Arms Park
     - time: 2018-04-29 11:45
-      home: Blackheath 1
-      away: Blackheath 4
+      home: Blackheath 2
+      away: Blackheath 5
       group: Group B
       pitch: Cardiff Arms Park
     - time: 2018-04-29 12:15
-      home: Blackheath 4
+      home: Blackheath 5
       away: Old Colfeians 1
       group: Group B
       pitch: Cardiff Arms Park
@@ -196,7 +196,7 @@ items:
       group: Group C
       pitch: Parc des Princes
     - time: 2018-04-29 10:30
-      home: Blackheath 2
+      home: Blackheath 3
       away: Eton Manor 2
       group: Group C
       pitch: Parc des Princes
@@ -206,18 +206,18 @@ items:
       group: Group C
       pitch: Parc des Princes
     - time: 2018-04-29 11:30
-      home: Blackheath 2
+      home: Blackheath 3
       away: Sidcup 3
       group: Group C
       pitch: Parc des Princes
     - time: 2018-04-29 12:00
-      home: Blackheath 2
+      home: Blackheath 3
       away: KCH Pirates
       group: Group C
       pitch: Parc des Princes
     Stadio Olimpico:
     - time: 2018-04-29 10:00
-      home: Blackheath 2
+      home: Blackheath 3
       away: Canterbury 1
       group: Group C
       pitch: Stadio Olimpico
@@ -227,7 +227,7 @@ items:
       group: Group C
       pitch: Stadio Olimpico
     - time: 2018-04-29 11:00
-      home: Blackheath 2
+      home: Blackheath 3
       away: Old Colfeians 2
       group: Group C
       pitch: Stadio Olimpico

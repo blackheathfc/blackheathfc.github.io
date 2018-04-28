@@ -8,34 +8,22 @@ items:
   Old Alleynians:
     22:
       time: 2018-04-29 10:15
-      home: Old Alleynians
-      away: Westcombe Park
+      home: Blackheath 2
+      away: Old Alleynians
       group: Group B
-      pitch: Lansdowne Road
+      pitch: Twickenham
     24:
       time: 2018-04-29 10:45
-      home: Eton Manor 2
-      away: Old Alleynians
+      home: Old Alleynians
+      away: Old Colfeians 4
       group: Group B
       pitch: Twickenham
     26:
       time: 2018-04-29 11:15
-      home: Blackheath 4
+      home: Eton Manor 1
       away: Old Alleynians
       group: Group B
-      pitch: Lansdowne Road
-    28:
-      time: 2018-04-29 11:45
-      home: Old Alleynians
-      away: Old Colfeians 3
-      group: Group B
-      pitch: Cardiff Arms Park
-    30:
-      time: 2018-04-29 12:15
-      home: Blackheath 1
-      away: Old Alleynians
-      group: Group B
-      pitch: Cardiff Arms Park
+      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}

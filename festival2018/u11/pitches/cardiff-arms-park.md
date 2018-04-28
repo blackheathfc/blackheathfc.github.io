@@ -7,20 +7,20 @@ breadcrumbs:
 items:
   21:
     time: 2018-04-29 10:00
-    home: Hackney Bulls
-    away: Old Colfeians
+    home: KCH Pirates
+    away: Sidcup 2
     group: Group C
     pitch: Cardiff Arms Park
   23:
     time: 2018-04-29 11:00
-    home: Hackney Bulls
-    away: Sidcup 1
+    home: Eton Manor 1
+    away: Sidcup 2
     group: Group C
     pitch: Cardiff Arms Park
   25:
     time: 2018-04-29 12:00
-    home: Blackheath 2
-    away: Hackney Bulls
+    home: Sevenoaks 1
+    away: Sidcup 2
     group: Group C
     pitch: Cardiff Arms Park
 ---

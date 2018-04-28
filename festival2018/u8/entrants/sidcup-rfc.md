@@ -14,7 +14,7 @@ items:
       pitch: Cardiff Arms Park
     3:
       time: 2018-04-29 10:30
-      home: Blackheath 3
+      home: Blackheath 4
       away: Sidcup 1
       group: Group A
       pitch: Twickenham
@@ -26,7 +26,7 @@ items:
       pitch: Lansdowne Road
     7:
       time: 2018-04-29 11:30
-      home: Ashford
+      home: Blackheath 1
       away: Sidcup 1
       group: Group A
       pitch: Lansdowne Road
@@ -45,7 +45,7 @@ items:
       pitch: Cardiff Arms Park
     4:
       time: 2018-04-29 10:45
-      home: Blackheath 4
+      home: Blackheath 5
       away: Sidcup 2
       group: Group B
       pitch: Cardiff Arms Park
@@ -63,7 +63,7 @@ items:
       pitch: Twickenham
     10:
       time: 2018-04-29 12:15
-      home: Blackheath 1
+      home: Blackheath 2
       away: Sidcup 2
       group: Group B
       pitch: Twickenham
@@ -88,7 +88,7 @@ items:
       pitch: Murrayfield
     7:
       time: 2018-04-29 11:30
-      home: Blackheath 2
+      home: Blackheath 3
       away: Sidcup 3
       group: Group C
       pitch: Parc des Princes

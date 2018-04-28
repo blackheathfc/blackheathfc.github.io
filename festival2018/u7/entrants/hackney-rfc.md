@@ -6,29 +6,23 @@ breadcrumbs:
   entrants: clubs
 items:
   Hackney Bulls:
-    11:
-      time: 2018-04-29 10:00
-      home: Blackheath 5
-      away: Hackney Bulls
-      group: Group C
+    22:
+      time: 2018-04-29 10:15
+      home: Hackney Bulls
+      away: Westcombe Park
+      group: Group D
       pitch: Murrayfield
-    13:
-      time: 2018-04-29 10:40
-      home: Hackney Bulls
-      away: Old Colfeians 1
-      group: Group C
-      pitch: Parc des Princes
-    15:
-      time: 2018-04-29 11:20
-      home: Hackney Bulls
-      away: Old Colfeians 4
-      group: Group C
-      pitch: Parc des Princes
-    19:
-      time: 2018-04-29 12:40
-      home: Blackheath 2
+    24:
+      time: 2018-04-29 10:45
+      home: Blackheath 4
       away: Hackney Bulls
-      group: Group C
+      group: Group D
+      pitch: Murrayfield
+    26:
+      time: 2018-04-29 11:15
+      home: Hackney Bulls
+      away: Old Colfeians 2
+      group: Group D
       pitch: Murrayfield
 ---
 

@@ -5,68 +5,25 @@ breadcrumbs:
   u10: U10
   entrants: clubs
 items:
-  Eton Manor 1:
-    2:
-      time: 2018-04-29 10:20
-      home: Eton Manor 1
-      away: Old Colfeians
-      group: Group B
-      pitch: Lansdowne Road
-    4:
-      time: 2018-04-29 11:00
-      home: Eton Manor 1
-      away: Sidcup 1
-      group: Group B
-      pitch: Cardiff Arms Park
-    6:
-      time: 2018-04-29 11:40
-      home: Eton Manor 1
-      away: Hackney Bulls 2
-      group: Group B
-      pitch: Lansdowne Road
-    8:
-      time: 2018-04-29 12:20
-      home: Blackheath 1
-      away: Eton Manor 1
-      group: Group B
-      pitch: Cardiff Arms Park
-    10:
-      time: 2018-04-29 13:00
-      home: Eton Manor 1
+  Eton Manor:
+    22:
+      time: 2018-04-29 10:25
+      home: Eton Manor
       away: Old Elthamians 2
-      group: Group B
+      group: Group D
       pitch: Cardiff Arms Park
-  Eton Manor 2:
-    1:
-      time: 2018-04-29 10:00
-      home: Blackheath 2
-      away: Eton Manor 2
-      group: Group C
-      pitch: Stadio Olimpico
-    3:
-      time: 2018-04-29 10:40
-      home: Eton Manor 2
-      away: Sevenoaks 1
-      group: Group C
-      pitch: Stadio Olimpico
-    5:
-      time: 2018-04-29 11:20
-      home: Eton Manor 2
+    24:
+      time: 2018-04-29 11:15
+      home: Eton Manor
+      away: Old Alleynians
+      group: Group D
+      pitch: Murrayfield
+    26:
+      time: 2018-04-29 12:05
+      home: Eton Manor
       away: Sidcup 2
-      group: Group C
-      pitch: Murrayfield
-    7:
-      time: 2018-04-29 12:00
-      home: Eton Manor 2
-      away: Old Dunstonians
-      group: Group C
-      pitch: Murrayfield
-    9:
-      time: 2018-04-29 12:40
-      home: Eton Manor 2
-      away: KCH Pirates
-      group: Group C
-      pitch: Murrayfield
+      group: Group D
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

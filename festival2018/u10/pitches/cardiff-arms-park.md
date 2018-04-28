@@ -5,65 +5,41 @@ breadcrumbs:
   u10: U10
   pitches: pitches
 items:
-  1:
+  21:
     time: 2018-04-29 10:00
-    home: Old Alleynians
-    away: Sevenoaks 2
-    group: Group A
-    pitch: Cardiff Arms Park
-  2:
-    time: 2018-04-29 10:20
-    home: Hackney Bulls 2
+    home: Old Elthamians 1
     away: Sidcup 1
-    group: Group B
+    group: Group C
     pitch: Cardiff Arms Park
-  3:
-    time: 2018-04-29 10:40
-    home: Hackney Bulls 1
-    away: Old Elthamians 1
-    group: Group A
+  22:
+    time: 2018-04-29 10:25
+    home: Eton Manor
+    away: Old Elthamians 2
+    group: Group D
     pitch: Cardiff Arms Park
-  4:
-    time: 2018-04-29 11:00
-    home: Eton Manor 1
-    away: Sidcup 1
-    group: Group B
-    pitch: Cardiff Arms Park
-  5:
-    time: 2018-04-29 11:20
-    home: Old Alleynians
-    away: Old Elthamians 1
-    group: Group A
-    pitch: Cardiff Arms Park
-  6:
-    time: 2018-04-29 11:40
-    home: Old Elthamians 2
-    away: Sidcup 1
-    group: Group B
-    pitch: Cardiff Arms Park
-  7:
-    time: 2018-04-29 12:00
+  23:
+    time: 2018-04-29 10:50
     home: Blackheath 3
     away: Old Elthamians 1
-    group: Group A
+    group: Group C
     pitch: Cardiff Arms Park
-  8:
-    time: 2018-04-29 12:20
-    home: Blackheath 1
-    away: Eton Manor 1
-    group: Group B
+  24:
+    time: 2018-04-29 11:15
+    home: Old Elthamians 2
+    away: Sidcup 2
+    group: Group D
     pitch: Cardiff Arms Park
-  9:
-    time: 2018-04-29 12:40
-    home: Ashford
-    away: Hackney Bulls 1
-    group: Group A
+  25:
+    time: 2018-04-29 11:40
+    home: Blackheath 3
+    away: Sidcup 1
+    group: Group C
     pitch: Cardiff Arms Park
-  10:
-    time: 2018-04-29 13:00
-    home: Eton Manor 1
-    away: Old Elthamians 2
-    group: Group B
+  26:
+    time: 2018-04-29 12:05
+    home: Eton Manor
+    away: Sidcup 2
+    group: Group D
     pitch: Cardiff Arms Park
 ---
 

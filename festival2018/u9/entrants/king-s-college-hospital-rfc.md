@@ -6,29 +6,23 @@ breadcrumbs:
   entrants: clubs
 items:
   KCH Pirates:
-    11:
-      time: 2018-04-29 10:00
-      home: Eton Manor 1
-      away: KCH Pirates
-      group: Group C
+    22:
+      time: 2018-04-29 10:20
+      home: KCH Pirates
+      away: Sidcup 2
+      group: Group D
       pitch: Murrayfield
-    13:
-      time: 2018-04-29 10:40
-      home: KCH Pirates
-      away: Old Albanians 2
-      group: Group C
-      pitch: Parc des Princes
-    15:
-      time: 2018-04-29 11:20
-      home: KCH Pirates
-      away: Sevenoaks
-      group: Group C
-      pitch: Parc des Princes
-    19:
-      time: 2018-04-29 12:40
-      home: Blackheath 2
+    24:
+      time: 2018-04-29 11:00
+      home: Blackheath 4
       away: KCH Pirates
-      group: Group C
+      group: Group D
+      pitch: Murrayfield
+    26:
+      time: 2018-04-29 11:40
+      home: KCH Pirates
+      away: Old Colfeians 1
+      group: Group D
       pitch: Murrayfield
 ---
 

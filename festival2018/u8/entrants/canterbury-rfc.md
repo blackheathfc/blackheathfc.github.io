@@ -8,7 +8,7 @@ items:
   Canterbury 1:
     1:
       time: 2018-04-29 10:00
-      home: Blackheath 2
+      home: Blackheath 3
       away: Canterbury 1
       group: Group C
       pitch: Stadio Olimpico
@@ -39,7 +39,7 @@ items:
   Canterbury 2:
     1:
       time: 2018-04-29 10:00
-      home: Blackheath 3
+      home: Blackheath 4
       away: Canterbury 2
       group: Group A
       pitch: Twickenham
@@ -63,7 +63,7 @@ items:
       pitch: Twickenham
     9:
       time: 2018-04-29 12:00
-      home: Ashford
+      home: Blackheath 1
       away: Canterbury 2
       group: Group A
       pitch: Cardiff Arms Park

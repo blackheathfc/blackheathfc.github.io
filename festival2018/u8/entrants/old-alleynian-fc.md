@@ -8,7 +8,7 @@ items:
   Old Alleynians:
     1:
       time: 2018-04-29 10:00
-      home: Ashford
+      home: Blackheath 1
       away: Old Alleynians
       group: Group A
       pitch: Lansdowne Road
@@ -26,7 +26,7 @@ items:
       pitch: Cardiff Arms Park
     7:
       time: 2018-04-29 11:30
-      home: Blackheath 3
+      home: Blackheath 4
       away: Old Alleynians
       group: Group A
       pitch: Cardiff Arms Park

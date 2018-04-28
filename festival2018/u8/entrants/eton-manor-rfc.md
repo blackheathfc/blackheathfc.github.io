@@ -14,13 +14,13 @@ items:
       pitch: Cardiff Arms Park
     4:
       time: 2018-04-29 10:45
-      home: Blackheath 1
+      home: Blackheath 2
       away: Eton Manor 1
       group: Group B
       pitch: Lansdowne Road
     6:
       time: 2018-04-29 11:15
-      home: Blackheath 4
+      home: Blackheath 5
       away: Eton Manor 1
       group: Group B
       pitch: Lansdowne Road
@@ -45,7 +45,7 @@ items:
       pitch: Murrayfield
     3:
       time: 2018-04-29 10:30
-      home: Blackheath 2
+      home: Blackheath 3
       away: Eton Manor 2
       group: Group C
       pitch: Parc des Princes

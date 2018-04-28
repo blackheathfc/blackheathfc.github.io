@@ -4,7 +4,6 @@ style: registration_list
 breadcrumbs:
   u9: U9
 items:
-- Ashford
 - Blackheath 1
 - Blackheath 2
 - Blackheath 3

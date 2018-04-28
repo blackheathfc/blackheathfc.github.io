@@ -5,35 +5,41 @@ breadcrumbs:
   u10: U10
   pitches: pitches
 items:
-  1:
+  21:
     time: 2018-04-29 10:00
-    home: KCH Pirates
-    away: Sidcup 2
-    group: Group C
-    pitch: Murrayfield
-  3:
-    time: 2018-04-29 10:40
-    home: Old Dunstonians
-    away: Sidcup 2
-    group: Group C
-    pitch: Murrayfield
-  5:
-    time: 2018-04-29 11:20
-    home: Eton Manor 2
-    away: Sidcup 2
-    group: Group C
-    pitch: Murrayfield
-  7:
-    time: 2018-04-29 12:00
-    home: Eton Manor 2
-    away: Old Dunstonians
-    group: Group C
-    pitch: Murrayfield
-  9:
-    time: 2018-04-29 12:40
-    home: Eton Manor 2
+    home: Blackheath 3
     away: KCH Pirates
     group: Group C
+    pitch: Murrayfield
+  22:
+    time: 2018-04-29 10:25
+    home: Old Alleynians
+    away: Sidcup 2
+    group: Group D
+    pitch: Murrayfield
+  23:
+    time: 2018-04-29 10:50
+    home: KCH Pirates
+    away: Sidcup 1
+    group: Group C
+    pitch: Murrayfield
+  24:
+    time: 2018-04-29 11:15
+    home: Eton Manor
+    away: Old Alleynians
+    group: Group D
+    pitch: Murrayfield
+  25:
+    time: 2018-04-29 11:40
+    home: KCH Pirates
+    away: Old Elthamians 1
+    group: Group C
+    pitch: Murrayfield
+  26:
+    time: 2018-04-29 12:05
+    home: Old Alleynians
+    away: Old Elthamians 2
+    group: Group D
     pitch: Murrayfield
 ---
 

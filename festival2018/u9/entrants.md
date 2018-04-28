@@ -4,7 +4,6 @@ style: entrant_list
 breadcrumbs:
   u9: U9
 items:
-- Ashford RFC
 - Blackheath FC
 - Eton Manor RFC
 - Hackney RFC

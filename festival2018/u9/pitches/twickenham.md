@@ -7,62 +7,38 @@ breadcrumbs:
 items:
   21:
     time: 2018-04-29 10:00
-    home: Ashford
+    home: Eton Manor 1
     away: Old Alleynians
     group: Group A
     pitch: Twickenham
   22:
     time: 2018-04-29 10:20
-    home: Blackheath 1
-    away: Hackney Bulls
+    home: Blackheath 2
+    away: Old Albanians 1
     group: Group B
     pitch: Twickenham
   23:
     time: 2018-04-29 10:40
-    home: Blackheath 3
-    away: Eton Manor 2
+    home: Blackheath 1
+    away: Eton Manor 1
     group: Group A
     pitch: Twickenham
   24:
     time: 2018-04-29 11:00
-    home: Hackney Bulls
-    away: Old Albanians 1
+    home: Old Albanians 1
+    away: Sevenoaks
     group: Group B
     pitch: Twickenham
   25:
     time: 2018-04-29 11:20
-    home: Eton Manor 2
+    home: Blackheath 1
     away: Old Alleynians
     group: Group A
     pitch: Twickenham
   26:
     time: 2018-04-29 11:40
-    home: Hackney Bulls
-    away: Old Colfeians 2
-    group: Group B
-    pitch: Twickenham
-  27:
-    time: 2018-04-29 12:00
-    home: Old Alleynians
-    away: Sidcup 1
-    group: Group A
-    pitch: Twickenham
-  28:
-    time: 2018-04-29 12:20
-    home: Blackheath 1
-    away: Blackheath 4
-    group: Group B
-    pitch: Twickenham
-  29:
-    time: 2018-04-29 12:40
     home: Eton Manor 2
-    away: Sidcup 1
-    group: Group A
-    pitch: Twickenham
-  30:
-    time: 2018-04-29 13:00
-    home: Blackheath 4
-    away: Hackney Bulls
+    away: Old Albanians 1
     group: Group B
     pitch: Twickenham
 ---

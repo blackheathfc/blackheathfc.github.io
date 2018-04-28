@@ -14,7 +14,7 @@ items:
       pitch: Cardiff Arms Park
     3:
       time: 2018-04-29 10:30
-      home: Ashford
+      home: Blackheath 1
       away: Hackney Bulls 1
       group: Group A
       pitch: Lansdowne Road
@@ -32,14 +32,14 @@ items:
       pitch: Twickenham
     9:
       time: 2018-04-29 12:00
-      home: Blackheath 3
+      home: Blackheath 4
       away: Hackney Bulls 1
       group: Group A
       pitch: Lansdowne Road
   Hackney Bulls 2:
     2:
       time: 2018-04-29 10:15
-      home: Blackheath 4
+      home: Blackheath 5
       away: Hackney Bulls 2
       group: Group B
       pitch: Lansdowne Road
@@ -51,7 +51,7 @@ items:
       pitch: Twickenham
     6:
       time: 2018-04-29 11:15
-      home: Blackheath 1
+      home: Blackheath 2
       away: Hackney Bulls 2
       group: Group B
       pitch: Twickenham

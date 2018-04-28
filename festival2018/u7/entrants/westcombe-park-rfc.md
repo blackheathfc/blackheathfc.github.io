@@ -8,34 +8,22 @@ items:
   Westcombe Park:
     22:
       time: 2018-04-29 10:15
-      home: Old Alleynians
+      home: Hackney Bulls
       away: Westcombe Park
-      group: Group B
-      pitch: Lansdowne Road
+      group: Group D
+      pitch: Murrayfield
     24:
       time: 2018-04-29 10:45
-      home: Blackheath 4
+      home: Old Colfeians 2
       away: Westcombe Park
-      group: Group B
+      group: Group D
       pitch: Cardiff Arms Park
     26:
       time: 2018-04-29 11:15
-      home: Blackheath 1
+      home: Blackheath 4
       away: Westcombe Park
-      group: Group B
+      group: Group D
       pitch: Cardiff Arms Park
-    28:
-      time: 2018-04-29 11:45
-      home: Eton Manor 2
-      away: Westcombe Park
-      group: Group B
-      pitch: Lansdowne Road
-    30:
-      time: 2018-04-29 12:15
-      home: Old Colfeians 3
-      away: Westcombe Park
-      group: Group B
-      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

@@ -6,30 +6,24 @@ breadcrumbs:
   entrants: clubs
 items:
   Sevenoaks:
-    13:
-      time: 2018-04-29 10:40
-      home: Eton Manor 1
+    22:
+      time: 2018-04-29 10:20
+      home: Eton Manor 2
       away: Sevenoaks
-      group: Group C
-      pitch: Murrayfield
-    15:
-      time: 2018-04-29 11:20
-      home: KCH Pirates
+      group: Group B
+      pitch: Lansdowne Road
+    24:
+      time: 2018-04-29 11:00
+      home: Old Albanians 1
       away: Sevenoaks
-      group: Group C
-      pitch: Parc des Princes
-    17:
-      time: 2018-04-29 12:00
+      group: Group B
+      pitch: Twickenham
+    26:
+      time: 2018-04-29 11:40
       home: Blackheath 2
       away: Sevenoaks
-      group: Group C
-      pitch: Parc des Princes
-    19:
-      time: 2018-04-29 12:40
-      home: Old Albanians 2
-      away: Sevenoaks
-      group: Group C
-      pitch: Parc des Princes
+      group: Group B
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

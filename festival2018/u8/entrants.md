@@ -4,7 +4,6 @@ style: entrant_list
 breadcrumbs:
   u8: U8
 items:
-- Ashford RFC
 - Blackheath FC
 - Canterbury RFC
 - Eton Manor RFC

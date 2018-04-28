@@ -6,36 +6,24 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Colfeians:
-    2:
-      time: 2018-04-29 10:20
-      home: Eton Manor 1
+    21:
+      time: 2018-04-29 10:00
+      home: Hackney Bulls 1
       away: Old Colfeians
-      group: Group B
-      pitch: Lansdowne Road
-    4:
-      time: 2018-04-29 11:00
-      home: Old Colfeians
-      away: Old Elthamians 2
-      group: Group B
+      group: Group A
       pitch: Twickenham
-    6:
+    23:
+      time: 2018-04-29 10:50
+      home: Old Colfeians
+      away: Sevenoaks 1
+      group: Group A
+      pitch: Lansdowne Road
+    25:
       time: 2018-04-29 11:40
       home: Blackheath 1
       away: Old Colfeians
-      group: Group B
+      group: Group A
       pitch: Twickenham
-    8:
-      time: 2018-04-29 12:20
-      home: Old Colfeians
-      away: Sidcup 1
-      group: Group B
-      pitch: Twickenham
-    10:
-      time: 2018-04-29 13:00
-      home: Hackney Bulls 2
-      away: Old Colfeians
-      group: Group B
-      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

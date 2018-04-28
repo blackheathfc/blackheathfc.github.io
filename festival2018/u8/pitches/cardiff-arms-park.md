@@ -25,7 +25,7 @@ items:
     pitch: Cardiff Arms Park
   4:
     time: 2018-04-29 10:45
-    home: Blackheath 4
+    home: Blackheath 5
     away: Sidcup 2
     group: Group B
     pitch: Cardiff Arms Park
@@ -43,25 +43,25 @@ items:
     pitch: Cardiff Arms Park
   7:
     time: 2018-04-29 11:30
-    home: Blackheath 3
+    home: Blackheath 4
     away: Old Alleynians
     group: Group A
     pitch: Cardiff Arms Park
   8:
     time: 2018-04-29 11:45
-    home: Blackheath 1
-    away: Blackheath 4
+    home: Blackheath 2
+    away: Blackheath 5
     group: Group B
     pitch: Cardiff Arms Park
   9:
     time: 2018-04-29 12:00
-    home: Ashford
+    home: Blackheath 1
     away: Canterbury 2
     group: Group A
     pitch: Cardiff Arms Park
   10:
     time: 2018-04-29 12:15
-    home: Blackheath 4
+    home: Blackheath 5
     away: Old Colfeians 1
     group: Group B
     pitch: Cardiff Arms Park

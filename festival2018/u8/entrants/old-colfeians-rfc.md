@@ -8,7 +8,7 @@ items:
   Old Colfeians 1:
     2:
       time: 2018-04-29 10:15
-      home: Blackheath 1
+      home: Blackheath 2
       away: Old Colfeians 1
       group: Group B
       pitch: Twickenham
@@ -32,7 +32,7 @@ items:
       pitch: Lansdowne Road
     10:
       time: 2018-04-29 12:15
-      home: Blackheath 4
+      home: Blackheath 5
       away: Old Colfeians 1
       group: Group B
       pitch: Cardiff Arms Park
@@ -51,7 +51,7 @@ items:
       pitch: Stadio Olimpico
     5:
       time: 2018-04-29 11:00
-      home: Blackheath 2
+      home: Blackheath 3
       away: Old Colfeians 2
       group: Group C
       pitch: Stadio Olimpico
