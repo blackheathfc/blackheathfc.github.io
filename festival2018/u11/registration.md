@@ -4,6 +4,7 @@ style: registration_list
 breadcrumbs:
   u11: U11
 items:
+- Barbarians
 - Blackheath 1
 - Blackheath 2
 - Eton Manor 1

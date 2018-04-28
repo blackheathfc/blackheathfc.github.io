@@ -4,6 +4,7 @@ style: entrant_list
 breadcrumbs:
   u11: U11
 items:
+- Barbarians FC
 - Blackheath FC
 - Eton Manor RFC
 - Hackney RFC
