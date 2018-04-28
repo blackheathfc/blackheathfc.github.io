@@ -5,41 +5,65 @@ breadcrumbs:
   u7: U7
   pitches: pitches
 items:
-  21:
+  1:
     time: 2018-04-29 10:00
-    home: Blackheath 5
-    away: KCH Pirates
-    group: Group A
-    pitch: Twickenham
-  22:
-    time: 2018-04-29 10:15
-    home: Blackheath 2
-    away: Old Alleynians
-    group: Group B
-    pitch: Twickenham
-  23:
-    time: 2018-04-29 10:30
     home: Blackheath 1
-    away: Blackheath 5
+    away: Westcombe Park
     group: Group A
     pitch: Twickenham
-  24:
-    time: 2018-04-29 10:45
-    home: Old Alleynians
-    away: Old Colfeians 4
-    group: Group B
+  2:
+    time: 2018-04-29 10:15
+    home: Blackheath 5
+    away: Hackney Bulls
+    group: Group C
     pitch: Twickenham
-  25:
+  3:
+    time: 2018-04-29 10:30
+    home: Old Alleynians
+    away: Old Colfeians 3
+    group: Group A
+    pitch: Twickenham
+  4:
+    time: 2018-04-29 10:45
+    home: Blackheath 2
+    away: Blackheath 5
+    group: Group C
+    pitch: Twickenham
+  5:
     time: 2018-04-29 11:00
     home: Blackheath 1
-    away: KCH Pirates
+    away: Eton Manor 2
     group: Group A
     pitch: Twickenham
-  26:
+  6:
     time: 2018-04-29 11:15
-    home: Eton Manor 1
+    home: Blackheath 5
+    away: Old Colfeians 1
+    group: Group C
+    pitch: Twickenham
+  7:
+    time: 2018-04-29 11:30
+    home: Blackheath 1
+    away: Old Colfeians 3
+    group: Group A
+    pitch: Twickenham
+  8:
+    time: 2018-04-29 11:45
+    home: Blackheath 2
+    away: Old Colfeians 1
+    group: Group C
+    pitch: Twickenham
+  9:
+    time: 2018-04-29 12:00
+    home: Blackheath 1
     away: Old Alleynians
-    group: Group B
+    group: Group A
+    pitch: Twickenham
+  10:
+    time: 2018-04-29 12:15
+    home: Blackheath 2
+    away: Hackney Bulls
+    group: Group C
     pitch: Twickenham
 ---
 

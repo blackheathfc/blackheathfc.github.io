@@ -6,24 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Eton Manor:
-    22:
-      time: 2018-04-29 10:25
+    1:
+      time: 2018-04-29 10:00
       home: Eton Manor
-      away: Old Elthamians 2
-      group: Group D
+      away: Sevenoaks 1
+      group: Group A
+      pitch: Lansdowne Road
+    3:
+      time: 2018-04-29 10:40
+      home: Blackheath 1
+      away: Eton Manor
+      group: Group A
       pitch: Cardiff Arms Park
-    24:
-      time: 2018-04-29 11:15
+    5:
+      time: 2018-04-29 11:20
       home: Eton Manor
-      away: Old Alleynians
-      group: Group D
-      pitch: Murrayfield
-    26:
-      time: 2018-04-29 12:05
+      away: Old Dunstonians
+      group: Group A
+      pitch: Cardiff Arms Park
+    7:
+      time: 2018-04-29 12:00
+      home: Eton Manor
+      away: KCH Pirates
+      group: Group A
+      pitch: Lansdowne Road
+    9:
+      time: 2018-04-29 12:40
       home: Eton Manor
       away: Sidcup 2
-      group: Group D
-      pitch: Cardiff Arms Park
+      group: Group A
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

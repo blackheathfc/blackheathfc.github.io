@@ -8,14 +8,14 @@ items:
   Hackney Bulls:
     12:
       time: 2018-04-29 10:25
-      home: Blackheath 2
-      away: Hackney Bulls
-      group: Group B
-      pitch: Lansdowne Road
-    14:
-      time: 2018-04-29 11:15
       home: Hackney Bulls
       away: Old Colfeians
+      group: Group B
+      pitch: Twickenham
+    14:
+      time: 2018-04-29 11:15
+      home: Blackheath 2
+      away: Hackney Bulls
       group: Group B
       pitch: Twickenham
     16:
@@ -23,7 +23,7 @@ items:
       home: Hackney Bulls
       away: Sidcup 1
       group: Group B
-      pitch: Twickenham
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

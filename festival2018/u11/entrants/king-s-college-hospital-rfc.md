@@ -11,17 +11,17 @@ items:
       home: KCH Pirates
       away: Sidcup 2
       group: Group C
-      pitch: Cardiff Arms Park
+      pitch: Murrayfield
     23:
       time: 2018-04-29 11:00
-      home: KCH Pirates
-      away: Sevenoaks 1
-      group: Group C
-      pitch: Murrayfield
-    25:
-      time: 2018-04-29 12:00
       home: Eton Manor 1
       away: KCH Pirates
+      group: Group C
+      pitch: Cardiff Arms Park
+    25:
+      time: 2018-04-29 12:00
+      home: KCH Pirates
+      away: Sevenoaks 1
       group: Group C
       pitch: Murrayfield
 ---

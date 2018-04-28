@@ -7,19 +7,19 @@ breadcrumbs:
 items:
   21:
     time: 2018-04-29 10:00
-    home: KCH Pirates
-    away: Sidcup 2
+    home: Eton Manor 1
+    away: Sevenoaks 1
     group: Group C
     pitch: Cardiff Arms Park
   23:
     time: 2018-04-29 11:00
     home: Eton Manor 1
-    away: Sidcup 2
+    away: KCH Pirates
     group: Group C
     pitch: Cardiff Arms Park
   25:
     time: 2018-04-29 12:00
-    home: Sevenoaks 1
+    home: Eton Manor 1
     away: Sidcup 2
     group: Group C
     pitch: Cardiff Arms Park

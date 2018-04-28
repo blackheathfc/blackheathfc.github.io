@@ -6,23 +6,35 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Alleynians:
-    22:
-      time: 2018-04-29 10:15
-      home: Blackheath 2
+    1:
+      time: 2018-04-29 10:00
+      home: Eton Manor 2
       away: Old Alleynians
-      group: Group B
-      pitch: Twickenham
-    24:
-      time: 2018-04-29 10:45
+      group: Group A
+      pitch: Cardiff Arms Park
+    3:
+      time: 2018-04-29 10:30
       home: Old Alleynians
-      away: Old Colfeians 4
-      group: Group B
+      away: Old Colfeians 3
+      group: Group A
       pitch: Twickenham
-    26:
-      time: 2018-04-29 11:15
-      home: Eton Manor 1
+    5:
+      time: 2018-04-29 11:00
+      home: Blackheath 4
       away: Old Alleynians
-      group: Group B
+      group: Group A
+      pitch: Cardiff Arms Park
+    7:
+      time: 2018-04-29 11:30
+      home: Old Alleynians
+      away: Westcombe Park
+      group: Group A
+      pitch: Cardiff Arms Park
+    9:
+      time: 2018-04-29 12:00
+      home: Blackheath 1
+      away: Old Alleynians
+      group: Group A
       pitch: Twickenham
 ---
 

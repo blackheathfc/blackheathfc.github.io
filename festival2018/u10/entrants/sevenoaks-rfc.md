@@ -6,42 +6,60 @@ breadcrumbs:
   entrants: clubs
 items:
   Sevenoaks 1:
-    21:
+    1:
       time: 2018-04-29 10:00
+      home: Eton Manor
+      away: Sevenoaks 1
+      group: Group A
+      pitch: Lansdowne Road
+    3:
+      time: 2018-04-29 10:40
+      home: Old Dunstonians
+      away: Sevenoaks 1
+      group: Group A
+      pitch: Twickenham
+    5:
+      time: 2018-04-29 11:20
+      home: Sevenoaks 1
+      away: Sidcup 2
+      group: Group A
+      pitch: Lansdowne Road
+    7:
+      time: 2018-04-29 12:00
       home: Blackheath 1
       away: Sevenoaks 1
       group: Group A
-      pitch: Lansdowne Road
-    23:
-      time: 2018-04-29 10:50
-      home: Old Colfeians
-      away: Sevenoaks 1
-      group: Group A
-      pitch: Lansdowne Road
-    25:
-      time: 2018-04-29 11:40
-      home: Hackney Bulls 1
-      away: Sevenoaks 1
-      group: Group A
-      pitch: Lansdowne Road
-  Sevenoaks 2:
-    22:
-      time: 2018-04-29 10:25
-      home: Hackney Bulls 2
-      away: Sevenoaks 2
-      group: Group B
-      pitch: Lansdowne Road
-    24:
-      time: 2018-04-29 11:15
-      home: Old Dunstonians
-      away: Sevenoaks 2
-      group: Group B
       pitch: Twickenham
-    26:
-      time: 2018-04-29 12:05
+    9:
+      time: 2018-04-29 12:40
+      home: KCH Pirates
+      away: Sevenoaks 1
+      group: Group A
+      pitch: Cardiff Arms Park
+  Sevenoaks 2:
+    2:
+      time: 2018-04-29 10:20
       home: Blackheath 2
       away: Sevenoaks 2
-      group: Group B
+      group: Group C
+      pitch: Lansdowne Road
+    6:
+      time: 2018-04-29 11:40
+      home: Old Alleynians
+      away: Sevenoaks 2
+      group: Group C
+      pitch: Lansdowne Road
+    8:
+      time: 2018-04-29 12:20
+      home: Hackney Bulls 1
+      away: Sevenoaks 2
+      group: Group C
+      pitch: Lansdowne Road
+    10:
+      time: 2018-04-29 13:00
+      home: Old Elthamians 1
+      away: Sevenoaks 2
+      group: Group C
       pitch: Lansdowne Road
 ---
 

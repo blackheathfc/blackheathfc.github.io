@@ -6,24 +6,30 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Alleynians:
-    22:
-      time: 2018-04-29 10:25
-      home: Old Alleynians
-      away: Sidcup 2
-      group: Group D
-      pitch: Murrayfield
-    24:
-      time: 2018-04-29 11:15
-      home: Eton Manor
+    2:
+      time: 2018-04-29 10:20
+      home: Hackney Bulls 1
       away: Old Alleynians
-      group: Group D
-      pitch: Murrayfield
-    26:
-      time: 2018-04-29 12:05
+      group: Group C
+      pitch: Twickenham
+    4:
+      time: 2018-04-29 11:00
       home: Old Alleynians
-      away: Old Elthamians 2
-      group: Group D
-      pitch: Murrayfield
+      away: Old Elthamians 1
+      group: Group C
+      pitch: Lansdowne Road
+    6:
+      time: 2018-04-29 11:40
+      home: Old Alleynians
+      away: Sevenoaks 2
+      group: Group C
+      pitch: Lansdowne Road
+    10:
+      time: 2018-04-29 13:00
+      home: Blackheath 2
+      away: Old Alleynians
+      group: Group C
+      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}

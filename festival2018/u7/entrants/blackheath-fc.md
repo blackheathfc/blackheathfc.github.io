@@ -6,94 +6,131 @@ breadcrumbs:
   entrants: clubs
 items:
   Blackheath 1:
-    21:
+    1:
       time: 2018-04-29 10:00
+      home: Blackheath 1
+      away: Westcombe Park
+      group: Group A
+      pitch: Twickenham
+    3: &1
+      time: 2018-04-29 10:30
+      home: Blackheath 1
+      away: Blackheath 4
+      group: Group A
+      pitch: Cardiff Arms Park
+    5:
+      time: 2018-04-29 11:00
+      home: Blackheath 1
+      away: Eton Manor 2
+      group: Group A
+      pitch: Twickenham
+    7:
+      time: 2018-04-29 11:30
       home: Blackheath 1
       away: Old Colfeians 3
       group: Group A
-      pitch: Lansdowne Road
-    23: &1
-      time: 2018-04-29 10:30
-      home: Blackheath 1
-      away: Blackheath 5
-      group: Group A
       pitch: Twickenham
-    25:
-      time: 2018-04-29 11:00
+    9:
+      time: 2018-04-29 12:00
       home: Blackheath 1
-      away: KCH Pirates
+      away: Old Alleynians
       group: Group A
       pitch: Twickenham
   Blackheath 2:
-    22:
+    2:
       time: 2018-04-29 10:15
-      home: Blackheath 2
-      away: Old Alleynians
-      group: Group B
-      pitch: Twickenham
-    24:
-      time: 2018-04-29 10:45
-      home: Blackheath 2
-      away: Eton Manor 1
-      group: Group B
-      pitch: Lansdowne Road
-    26:
-      time: 2018-04-29 11:15
       home: Blackheath 2
       away: Old Colfeians 4
-      group: Group B
-      pitch: Lansdowne Road
-  Blackheath 3:
-    21:
-      time: 2018-04-29 10:00
-      home: Blackheath 3
-      away: Eton Manor 2
       group: Group C
-      pitch: Murrayfield
-    23:
-      time: 2018-04-29 10:30
-      home: Blackheath 3
+      pitch: Lansdowne Road
+    4: &2
+      time: 2018-04-29 10:45
+      home: Blackheath 2
+      away: Blackheath 5
+      group: Group C
+      pitch: Twickenham
+    8:
+      time: 2018-04-29 11:45
+      home: Blackheath 2
       away: Old Colfeians 1
       group: Group C
-      pitch: Cardiff Arms Park
-    25:
-      time: 2018-04-29 11:00
+      pitch: Twickenham
+    10:
+      time: 2018-04-29 12:15
+      home: Blackheath 2
+      away: Hackney Bulls
+      group: Group C
+      pitch: Twickenham
+  Blackheath 3:
+    4:
+      time: 2018-04-29 10:45
       home: Blackheath 3
       away: Old Colfeians 5
-      group: Group C
+      group: Group D
+      pitch: Murrayfield
+    6:
+      time: 2018-04-29 11:15
+      home: Blackheath 3
+      away: KCH Pirates
+      group: Group D
       pitch: Cardiff Arms Park
-  Blackheath 4:
-    22:
-      time: 2018-04-29 10:15
-      home: Blackheath 4
+    8:
+      time: 2018-04-29 11:45
+      home: Blackheath 3
       away: Old Colfeians 2
       group: Group D
       pitch: Cardiff Arms Park
-    24:
-      time: 2018-04-29 10:45
-      home: Blackheath 4
-      away: Hackney Bulls
+    10:
+      time: 2018-04-29 12:15
+      home: Blackheath 3
+      away: Eton Manor 1
       group: Group D
       pitch: Murrayfield
-    26:
-      time: 2018-04-29 11:15
-      home: Blackheath 4
-      away: Westcombe Park
-      group: Group D
-      pitch: Cardiff Arms Park
-  Blackheath 5:
-    21:
+  Blackheath 4:
+    1:
       time: 2018-04-29 10:00
-      home: Blackheath 5
-      away: KCH Pirates
-      group: Group A
-      pitch: Twickenham
-    23: *1
-    25:
-      time: 2018-04-29 11:00
-      home: Blackheath 5
+      home: Blackheath 4
       away: Old Colfeians 3
       group: Group A
+      pitch: Lansdowne Road
+    3: *1
+    5:
+      time: 2018-04-29 11:00
+      home: Blackheath 4
+      away: Old Alleynians
+      group: Group A
+      pitch: Cardiff Arms Park
+    7:
+      time: 2018-04-29 11:30
+      home: Blackheath 4
+      away: Eton Manor 2
+      group: Group A
+      pitch: Lansdowne Road
+    9:
+      time: 2018-04-29 12:00
+      home: Blackheath 4
+      away: Westcombe Park
+      group: Group A
+      pitch: Lansdowne Road
+  Blackheath 5:
+    2:
+      time: 2018-04-29 10:15
+      home: Blackheath 5
+      away: Hackney Bulls
+      group: Group C
+      pitch: Twickenham
+    4: *2
+    6:
+      time: 2018-04-29 11:15
+      home: Blackheath 5
+      away: Old Colfeians 1
+      group: Group C
+      pitch: Twickenham
+    8:
+      time: 2018-04-29 11:45
+      home: Blackheath 5
+      away: Old Colfeians 4
+      group: Group C
       pitch: Lansdowne Road
 ---
 

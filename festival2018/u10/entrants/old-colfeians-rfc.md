@@ -6,24 +6,30 @@ breadcrumbs:
   entrants: clubs
 items:
   Old Colfeians:
-    21:
-      time: 2018-04-29 10:00
-      home: Hackney Bulls 1
-      away: Old Colfeians
-      group: Group A
-      pitch: Twickenham
-    23:
-      time: 2018-04-29 10:50
+    2:
+      time: 2018-04-29 10:20
       home: Old Colfeians
-      away: Sevenoaks 1
-      group: Group A
-      pitch: Lansdowne Road
-    25:
-      time: 2018-04-29 11:40
-      home: Blackheath 1
+      away: Sidcup 1
+      group: Group D
+      pitch: Cardiff Arms Park
+    4:
+      time: 2018-04-29 11:00
+      home: Hackney Bulls 2
       away: Old Colfeians
-      group: Group A
-      pitch: Twickenham
+      group: Group D
+      pitch: Cardiff Arms Park
+    6:
+      time: 2018-04-29 11:40
+      home: Blackheath 3
+      away: Old Colfeians
+      group: Group D
+      pitch: Cardiff Arms Park
+    10:
+      time: 2018-04-29 13:00
+      home: Old Colfeians
+      away: Old Elthamians 2
+      group: Group D
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

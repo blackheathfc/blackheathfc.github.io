@@ -8,7 +8,7 @@ items:
   Thanet Wanderers:
     11:
       time: 2018-04-29 10:00
-      home: Blackheath 1
+      home: Old Alleynians
       away: Thanet Wanderers
       group: Group A
       pitch: Twickenham
@@ -20,13 +20,13 @@ items:
       pitch: Lansdowne Road
     15:
       time: 2018-04-29 11:40
-      home: Old Alleynians
+      home: Sevenoaks 2
       away: Thanet Wanderers
       group: Group A
-      pitch: Lansdowne Road
+      pitch: Twickenham
     17:
       time: 2018-04-29 12:30
-      home: Sevenoaks 2
+      home: Blackheath 1
       away: Thanet Wanderers
       group: Group A
       pitch: Lansdowne Road

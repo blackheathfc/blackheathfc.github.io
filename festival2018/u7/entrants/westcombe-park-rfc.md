@@ -6,24 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Westcombe Park:
-    22:
-      time: 2018-04-29 10:15
-      home: Hackney Bulls
+    1:
+      time: 2018-04-29 10:00
+      home: Blackheath 1
       away: Westcombe Park
-      group: Group D
-      pitch: Murrayfield
-    24:
-      time: 2018-04-29 10:45
-      home: Old Colfeians 2
+      group: Group A
+      pitch: Twickenham
+    3:
+      time: 2018-04-29 10:30
+      home: Eton Manor 2
       away: Westcombe Park
-      group: Group D
+      group: Group A
+      pitch: Lansdowne Road
+    5:
+      time: 2018-04-29 11:00
+      home: Old Colfeians 3
+      away: Westcombe Park
+      group: Group A
+      pitch: Lansdowne Road
+    7:
+      time: 2018-04-29 11:30
+      home: Old Alleynians
+      away: Westcombe Park
+      group: Group A
       pitch: Cardiff Arms Park
-    26:
-      time: 2018-04-29 11:15
+    9:
+      time: 2018-04-29 12:00
       home: Blackheath 4
       away: Westcombe Park
-      group: Group D
-      pitch: Cardiff Arms Park
+      group: Group A
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}
