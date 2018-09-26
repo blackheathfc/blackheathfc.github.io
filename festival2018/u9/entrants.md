@@ -1,8 +1,8 @@
 ---
-title: u9
+title: U9
 style: entrant_list
 breadcrumbs:
-  u9: u9
+  u9: U9
 items:
 - Barking RFC
 - Blackheath FC

@@ -1,8 +1,8 @@
 ---
-title: u9
+title: U9
 style: refereeing
 breadcrumbs:
-  u9: u9
+  u9: U9
 ---
 
 {% include referees_briefing.md %}

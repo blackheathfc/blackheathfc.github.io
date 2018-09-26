@@ -1,8 +1,8 @@
 ---
-title: u7 - VIGO RFC
+title: U7 - VIGO RFC
 style: entrant_schedule
 breadcrumbs:
-  u7: u7
+  u7: U7
   entrants: clubs
 items:
   VIGO 1:

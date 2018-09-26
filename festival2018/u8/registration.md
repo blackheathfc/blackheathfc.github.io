@@ -1,8 +1,8 @@
 ---
-title: u8
+title: U8
 style: registration_list
 breadcrumbs:
-  u8: u8
+  u8: U8
 items:
 - Blackheath 1
 - Blackheath 2

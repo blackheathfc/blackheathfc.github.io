@@ -1,8 +1,8 @@
 ---
-title: u9 - Hackney RFC
+title: U9 - Hackney RFC
 style: entrant_schedule
 breadcrumbs:
-  u9: u9
+  u9: U9
   entrants: clubs
 items:
   Hackney Bulls 1:

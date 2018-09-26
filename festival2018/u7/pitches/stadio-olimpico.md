@@ -1,8 +1,8 @@
 ---
-title: u7 - Stadio Olimpico
+title: U7 - Stadio Olimpico
 style: pitch_schedule
 breadcrumbs:
-  u7: u7
+  u7: U7
   pitches: pitches
 items:
   1:

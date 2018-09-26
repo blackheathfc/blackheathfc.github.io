@@ -1,8 +1,8 @@
 ---
-title: u9 - Old Cooperians RFC
+title: U9 - Old Cooperians RFC
 style: entrant_schedule
 breadcrumbs:
-  u9: u9
+  u9: U9
   entrants: clubs
 items:
   Old Cooperians 1:

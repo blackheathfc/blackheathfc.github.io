@@ -1,8 +1,8 @@
 ---
-title: u10 - Sevenoaks RFC
+title: U10 - Sevenoaks RFC
 style: entrant_schedule
 breadcrumbs:
-  u10: u10
+  u10: U10
   entrants: clubs
 items:
   Sevenoaks 1:

@@ -1,8 +1,8 @@
 ---
-title: u8 - Upminster RFC
+title: U8 - Upminster RFC
 style: entrant_schedule
 breadcrumbs:
-  u8: u8
+  u8: U8
   entrants: clubs
 items:
   Upminster:

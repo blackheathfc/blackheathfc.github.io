@@ -1,8 +1,8 @@
 ---
-title: u7 - Gravesend RFC
+title: U7 - Gravesend RFC
 style: entrant_schedule
 breadcrumbs:
-  u7: u7
+  u7: U7
   entrants: clubs
 items:
   Gravesend 1:

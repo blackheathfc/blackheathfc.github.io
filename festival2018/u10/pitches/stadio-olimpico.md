@@ -1,8 +1,8 @@
 ---
-title: u10 - Stadio Olimpico
+title: U10 - Stadio Olimpico
 style: pitch_schedule
 breadcrumbs:
-  u10: u10
+  u10: U10
   pitches: pitches
 items:
   12:

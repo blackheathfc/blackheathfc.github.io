@@ -1,8 +1,8 @@
 ---
-title: u10 - Cardiff Arms Park
+title: U10 - Cardiff Arms Park
 style: pitch_schedule
 breadcrumbs:
-  u10: u10
+  u10: U10
   pitches: pitches
 items:
   11:

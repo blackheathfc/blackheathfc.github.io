@@ -1,8 +1,8 @@
 ---
-title: u10 - Lansdowne Road
+title: U10 - Lansdowne Road
 style: pitch_schedule
 breadcrumbs:
-  u10: u10
+  u10: U10
   pitches: pitches
 items:
   11:

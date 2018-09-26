@@ -1,8 +1,8 @@
 ---
-title: u8 - Tunbridge Wells RFC
+title: U8 - Tunbridge Wells RFC
 style: entrant_schedule
 breadcrumbs:
-  u8: u8
+  u8: U8
   entrants: clubs
 items:
   Tunbridge Wells 1:

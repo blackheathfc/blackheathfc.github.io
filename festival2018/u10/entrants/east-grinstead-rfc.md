@@ -1,8 +1,8 @@
 ---
-title: u10 - East Grinstead RFC
+title: U10 - East Grinstead RFC
 style: entrant_schedule
 breadcrumbs:
-  u10: u10
+  u10: U10
   entrants: clubs
 items:
   East Grinstead:

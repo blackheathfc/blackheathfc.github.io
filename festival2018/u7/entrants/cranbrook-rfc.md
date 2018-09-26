@@ -1,8 +1,8 @@
 ---
-title: u7 - Cranbrook RFC
+title: U7 - Cranbrook RFC
 style: entrant_schedule
 breadcrumbs:
-  u7: u7
+  u7: U7
   entrants: clubs
 items:
   Cranbrook 1:

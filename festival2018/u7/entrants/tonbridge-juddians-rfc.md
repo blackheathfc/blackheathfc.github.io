@@ -1,8 +1,8 @@
 ---
-title: u7 - Tonbridge Juddians RFC
+title: U7 - Tonbridge Juddians RFC
 style: entrant_schedule
 breadcrumbs:
-  u7: u7
+  u7: U7
   entrants: clubs
 items:
   Tonbridge Judds 1:

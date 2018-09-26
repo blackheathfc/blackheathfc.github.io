@@ -1,8 +1,8 @@
 ---
-title: u9 - Medway RFC
+title: U9 - Medway RFC
 style: entrant_schedule
 breadcrumbs:
-  u9: u9
+  u9: U9
   entrants: clubs
 items:
   Medway 1:

@@ -1,8 +1,8 @@
 ---
-title: u11 - Twickenham
+title: U11 - Twickenham
 style: pitch_schedule
 breadcrumbs:
-  u11: u11
+  u11: U11
   pitches: pitches
 items:
   1:

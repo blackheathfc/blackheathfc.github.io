@@ -1,8 +1,8 @@
 ---
-title: u8 - Old Alleynians RFC
+title: U8 - Old Alleynians RFC
 style: entrant_schedule
 breadcrumbs:
-  u8: u8
+  u8: U8
   entrants: clubs
 items:
   Old Alleynians 1:

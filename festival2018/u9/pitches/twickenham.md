@@ -1,8 +1,8 @@
 ---
-title: u9 - Twickenham
+title: U9 - Twickenham
 style: pitch_schedule
 breadcrumbs:
-  u9: u9
+  u9: U9
   pitches: pitches
 items:
   11:

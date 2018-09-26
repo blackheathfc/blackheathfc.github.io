@@ -1,8 +1,8 @@
 ---
-title: u7 - Hackney RFC
+title: U7 - Hackney RFC
 style: entrant_schedule
 breadcrumbs:
-  u7: u7
+  u7: U7
   entrants: clubs
 items:
   Hackney Bulls 1:

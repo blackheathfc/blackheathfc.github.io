@@ -1,8 +1,8 @@
 ---
-title: u10 - Old Colfians RFC
+title: U10 - Old Colfians RFC
 style: entrant_schedule
 breadcrumbs:
-  u10: u10
+  u10: U10
   entrants: clubs
 items:
   Old Colfians 1:

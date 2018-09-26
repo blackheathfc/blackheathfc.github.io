@@ -1,8 +1,8 @@
 ---
-title: u10 - Parc des Princes
+title: U10 - Parc des Princes
 style: pitch_schedule
 breadcrumbs:
-  u10: u10
+  u10: U10
   pitches: pitches
 items:
   11:

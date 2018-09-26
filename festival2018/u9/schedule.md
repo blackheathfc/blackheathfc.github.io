@@ -1,8 +1,8 @@
 ---
-title: u9
+title: U9
 style: match_schedule
 breadcrumbs:
-  u9: u9
+  u9: U9
 items:
   Group A:
     Twickenham:

@@ -1,8 +1,8 @@
 ---
-title: u9 - Murrayfield
+title: U9 - Murrayfield
 style: pitch_schedule
 breadcrumbs:
-  u9: u9
+  u9: U9
   pitches: pitches
 items:
   11:

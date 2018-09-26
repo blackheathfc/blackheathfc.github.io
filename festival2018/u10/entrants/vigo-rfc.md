@@ -1,8 +1,8 @@
 ---
-title: u10 - VIGO RFC
+title: U10 - VIGO RFC
 style: entrant_schedule
 breadcrumbs:
-  u10: u10
+  u10: U10
   entrants: clubs
 items:
   VIGO:

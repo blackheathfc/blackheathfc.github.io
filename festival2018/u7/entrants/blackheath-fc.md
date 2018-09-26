@@ -1,8 +1,8 @@
 ---
-title: u7 - Blackheath FC
+title: U7 - Blackheath FC
 style: entrant_schedule
 breadcrumbs:
-  u7: u7
+  u7: U7
   entrants: clubs
 items:
   Blackheath 1:

@@ -1,8 +1,8 @@
 ---
-title: u8 - Edenbridge RFC
+title: U8 - Edenbridge RFC
 style: entrant_schedule
 breadcrumbs:
-  u8: u8
+  u8: U8
   entrants: clubs
 items:
   Edenbridge 1:

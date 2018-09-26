@@ -1,8 +1,8 @@
 ---
-title: u7
+title: U7
 style: entrant_list
 breadcrumbs:
-  u7: u7
+  u7: U7
 items:
 - Blackheath FC
 - Cranbrook RFC

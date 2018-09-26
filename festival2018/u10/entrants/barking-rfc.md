@@ -1,8 +1,8 @@
 ---
-title: u10 - Barking RFC
+title: U10 - Barking RFC
 style: entrant_schedule
 breadcrumbs:
-  u10: u10
+  u10: U10
   entrants: clubs
 items:
   Barking:

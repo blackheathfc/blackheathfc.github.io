@@ -1,8 +1,8 @@
 ---
-title: u8 - Tonbridge Juddians RFC
+title: U8 - Tonbridge Juddians RFC
 style: entrant_schedule
 breadcrumbs:
-  u8: u8
+  u8: U8
   entrants: clubs
 items:
   Tonbridge Judds 1:
