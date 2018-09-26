@@ -1,137 +1,134 @@
 ---
-title: U7 - Blackheath FC
+title: u7 - Blackheath FC
 style: entrant_schedule
 breadcrumbs:
-  u7: U7
+  u7: u7
   entrants: clubs
 items:
   Blackheath 1:
     1:
       time: 2018-04-29 10:00
       home: Blackheath 1
-      away: Westcombe Park
+      away: Gravesend 1
       group: Group A
-      pitch: Twickenham
-    3: &1
+      pitch: Cardiff Arms Park
+    3:
       time: 2018-04-29 10:30
       home: Blackheath 1
-      away: Blackheath 4
+      away: Upminster 1
       group: Group A
       pitch: Cardiff Arms Park
     5:
       time: 2018-04-29 11:00
       home: Blackheath 1
-      away: Eton Manor 2
+      away: Cranbrook 1
       group: Group A
       pitch: Twickenham
     7:
       time: 2018-04-29 11:30
       home: Blackheath 1
-      away: Old Colfeians 3
+      away: Medway 1
       group: Group A
       pitch: Twickenham
     9:
       time: 2018-04-29 12:00
       home: Blackheath 1
-      away: Old Alleynians
+      away: Sevenoaks 1
       group: Group A
       pitch: Twickenham
   Blackheath 2:
     2:
       time: 2018-04-29 10:15
       home: Blackheath 2
-      away: Old Colfeians 4
-      group: Group C
-      pitch: Lansdowne Road
-    4: &2
-      time: 2018-04-29 10:45
-      home: Blackheath 2
-      away: Blackheath 5
-      group: Group C
-      pitch: Twickenham
-    8:
-      time: 2018-04-29 11:45
-      home: Blackheath 2
-      away: Old Colfeians 1
-      group: Group C
-      pitch: Twickenham
-    10:
-      time: 2018-04-29 12:15
-      home: Blackheath 2
-      away: Hackney Bulls
-      group: Group C
-      pitch: Twickenham
-  Blackheath 3:
+      away: Sevenoaks 2
+      group: Group B
+      pitch: Cardiff Arms Park
     4:
       time: 2018-04-29 10:45
-      home: Blackheath 3
-      away: Old Colfeians 5
-      group: Group D
-      pitch: Murrayfield
+      home: Blackheath 2
+      away: Cranbrook 2
+      group: Group B
+      pitch: Lansdowne Road
     6:
       time: 2018-04-29 11:15
-      home: Blackheath 3
-      away: KCH Pirates
-      group: Group D
+      home: Blackheath 2
+      away: Upminster 2
+      group: Group B
       pitch: Cardiff Arms Park
     8:
       time: 2018-04-29 11:45
-      home: Blackheath 3
-      away: Old Colfeians 2
-      group: Group D
-      pitch: Cardiff Arms Park
+      home: Blackheath 2
+      away: Medway 2
+      group: Group B
+      pitch: Lansdowne Road
     10:
       time: 2018-04-29 12:15
-      home: Blackheath 3
-      away: Eton Manor 1
-      group: Group D
-      pitch: Murrayfield
-  Blackheath 4:
+      home: Blackheath 2
+      away: Gravesend 2
+      group: Group B
+      pitch: Cardiff Arms Park
+  Blackheath 3:
     1:
       time: 2018-04-29 10:00
-      home: Blackheath 4
-      away: Old Colfeians 3
-      group: Group A
-      pitch: Lansdowne Road
-    3: *1
+      home: Blackheath 3
+      away: Old Alleynians 1
+      group: Group C
+      pitch: Parc des Princes
+    3:
+      time: 2018-04-29 10:30
+      home: Blackheath 3
+      away: Tonbridge Judds 1
+      group: Group C
+      pitch: Murrayfield
     5:
       time: 2018-04-29 11:00
-      home: Blackheath 4
-      away: Old Alleynians
-      group: Group A
-      pitch: Cardiff Arms Park
+      home: Blackheath 3
+      away: Hackney Bulls 1
+      group: Group C
+      pitch: Parc des Princes
     7:
       time: 2018-04-29 11:30
-      home: Blackheath 4
-      away: Eton Manor 2
-      group: Group A
-      pitch: Lansdowne Road
+      home: Blackheath 3
+      away: VIGO 1
+      group: Group C
+      pitch: Parc des Princes
     9:
       time: 2018-04-29 12:00
-      home: Blackheath 4
-      away: Westcombe Park
-      group: Group A
-      pitch: Lansdowne Road
-  Blackheath 5:
+      home: Blackheath 3
+      away: Edenbridge 1
+      group: Group C
+      pitch: Murrayfield
+  Blackheath 4:
     2:
       time: 2018-04-29 10:15
-      home: Blackheath 5
-      away: Hackney Bulls
-      group: Group C
-      pitch: Twickenham
-    4: *2
+      home: Blackheath 4
+      away: Edenbridge 2
+      group: Group D
+      pitch: Parc des Princes
+    4:
+      time: 2018-04-29 10:45
+      home: Blackheath 4
+      away: Hackney Bulls 2
+      group: Group D
+      pitch: Murrayfield
     6:
       time: 2018-04-29 11:15
-      home: Blackheath 5
-      away: Old Colfeians 1
-      group: Group C
-      pitch: Twickenham
+      home: Blackheath 4
+      away: VIGO 2
+      group: Group D
+      pitch: Parc des Princes
     8:
       time: 2018-04-29 11:45
-      home: Blackheath 5
-      away: Old Colfeians 4
-      group: Group C
-      pitch: Lansdowne Road
+      home: Blackheath 4
+      away: Tonbridge Judds 2
+      group: Group D
+      pitch: Murrayfield
+    10:
+      time: 2018-04-29 12:15
+      home: Blackheath 4
+      away: Old Alleynians 2
+      group: Group D
+      pitch: Parc des Princes
 ---
 
 {% include schedule_entrant.html %}

@@ -1,68 +1,68 @@
 ---
-title: U11 - Lansdowne Road
+title: u11 - Lansdowne Road
 style: pitch_schedule
 breadcrumbs:
-  u11: U11
+  u11: u11
   pitches: pitches
 items:
-  11:
+  1:
     time: 2018-04-29 10:00
-    home: Barbarians
-    away: Sidcup 2
+    home: Gravesend
+    away: Medway 2
     group: Group A
     pitch: Lansdowne Road
-  12:
-    time: 2018-04-29 10:25
-    home: Eton Manor 2
-    away: Sevenoaks 2
+  2:
+    time: 2018-04-29 10:20
+    home: Blackheath 2
+    away: Tonbridge Judds 1
     group: Group B
     pitch: Lansdowne Road
-  13:
-    time: 2018-04-29 10:50
-    home: Eton Manor 1
-    away: Sevenoaks 1
+  3:
+    time: 2018-04-29 10:40
+    home: Gravesend
+    away: Old Colfians 2
     group: Group A
     pitch: Lansdowne Road
-  14:
-    time: 2018-04-29 11:15
-    home: Blackheath 1
-    away: Old Alleynians
+  4:
+    time: 2018-04-29 11:00
+    home: Blackheath 2
+    away: Upminster
     group: Group B
     pitch: Lansdowne Road
-  15:
+  5:
+    time: 2018-04-29 11:20
+    home: Medway 2
+    away: Old Colfians 2
+    group: Group A
+    pitch: Lansdowne Road
+  6:
     time: 2018-04-29 11:40
-    home: Eton Manor 1
-    away: Sidcup 2
-    group: Group A
-    pitch: Lansdowne Road
-  16:
-    time: 2018-04-29 12:05
-    home: Sevenoaks 2
-    away: Thanet Wanderers
+    home: East Grinstead 1
+    away: Upminster
     group: Group B
     pitch: Lansdowne Road
-  17:
-    time: 2018-04-29 12:30
-    home: Sevenoaks 1
-    away: Sidcup 2
-    group: Group A
-    pitch: Lansdowne Road
-  18:
-    time: 2018-04-29 12:55
-    home: Old Alleynians
-    away: Sevenoaks 2
-    group: Group B
-    pitch: Lansdowne Road
-  19:
-    time: 2018-04-29 13:20
-    home: Eton Manor 1
-    away: KCH Pirates
-    group: Group A
-    pitch: Lansdowne Road
-  20:
-    time: 2018-04-29 13:45
+  7:
+    time: 2018-04-29 12:00
     home: Blackheath 1
-    away: Sevenoaks 2
+    away: Medway 2
+    group: Group A
+    pitch: Lansdowne Road
+  8:
+    time: 2018-04-29 12:20
+    home: East Grinstead 1
+    away: Tonbridge Judds 1
+    group: Group B
+    pitch: Lansdowne Road
+  9:
+    time: 2018-04-29 12:40
+    home: Cranbrook 2
+    away: Medway 2
+    group: Group A
+    pitch: Lansdowne Road
+  10:
+    time: 2018-04-29 13:00
+    home: Tonbridge Judds 1
+    away: Upminster
     group: Group B
     pitch: Lansdowne Road
 ---

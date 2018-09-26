@@ -1,91 +1,85 @@
 ---
-title: U10 - Blackheath FC
+title: u10 - Blackheath FC
 style: entrant_schedule
 breadcrumbs:
-  u10: U10
+  u10: u10
   entrants: clubs
 items:
   Blackheath 1:
-    1:
+    11:
       time: 2018-04-29 10:00
       home: Blackheath 1
-      away: Sidcup 2
-      group: Group A
-      pitch: Twickenham
-    3:
+      away: East Grinstead
+      group: Group B
+      pitch: Murrayfield
+    13:
       time: 2018-04-29 10:40
       home: Blackheath 1
-      away: Eton Manor
-      group: Group A
-      pitch: Cardiff Arms Park
-    5:
-      time: 2018-04-29 11:20
-      home: Blackheath 1
-      away: KCH Pirates
-      group: Group A
-      pitch: Twickenham
-    7:
+      away: Hackney Bulls
+      group: Group B
+      pitch: Murrayfield
+    17:
       time: 2018-04-29 12:00
       home: Blackheath 1
-      away: Sevenoaks 1
-      group: Group A
-      pitch: Twickenham
-    9:
+      away: Old Colfians 1
+      group: Group B
+      pitch: Parc des Princes
+    19:
       time: 2018-04-29 12:40
       home: Blackheath 1
-      away: Old Dunstonians
-      group: Group A
-      pitch: Twickenham
+      away: Tonbridge Judds 2
+      group: Group B
+      pitch: Parc des Princes
   Blackheath 2:
-    2:
-      time: 2018-04-29 10:20
-      home: Blackheath 2
-      away: Sevenoaks 2
-      group: Group C
-      pitch: Lansdowne Road
-    4:
+    14:
       time: 2018-04-29 11:00
       home: Blackheath 2
-      away: Hackney Bulls 1
+      away: Edenbridge
+      group: Group C
+      pitch: Murrayfield
+    16:
+      time: 2018-04-29 11:40
+      home: Blackheath 2
+      away: Medway 1
       group: Group C
       pitch: Twickenham
-    8:
+    18:
       time: 2018-04-29 12:20
       home: Blackheath 2
-      away: Old Elthamians 1
+      away: Old Colfians 2
       group: Group C
-      pitch: Twickenham
-    10:
+      pitch: Murrayfield
+    20:
       time: 2018-04-29 13:00
       home: Blackheath 2
-      away: Old Alleynians
+      away: Tunbridge Wells 1
       group: Group C
       pitch: Twickenham
   Blackheath 3:
-    4:
+    12:
+      time: 2018-04-29 10:20
+      home: Blackheath 3
+      away: Sevenoaks 1
+      group: Group D
+      pitch: Lansdowne Road
+    14:
       time: 2018-04-29 11:00
       home: Blackheath 3
-      away: Sidcup 1
+      away: Tunbridge Wells 2
       group: Group D
-      pitch: Murrayfield
-    6:
+      pitch: Lansdowne Road
+    16:
       time: 2018-04-29 11:40
       home: Blackheath 3
-      away: Old Colfeians
+      away: Medway 2
       group: Group D
-      pitch: Cardiff Arms Park
-    8:
-      time: 2018-04-29 12:20
-      home: Blackheath 3
-      away: Old Elthamians 2
-      group: Group D
-      pitch: Cardiff Arms Park
-    10:
+      pitch: Parc des Princes
+    20:
       time: 2018-04-29 13:00
       home: Blackheath 3
-      away: Hackney Bulls 2
+      away: Eton Manor
       group: Group D
-      pitch: Murrayfield
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

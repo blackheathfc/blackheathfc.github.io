@@ -1,27 +1,69 @@
 ---
-title: U11 - Murrayfield
+title: u11 - Murrayfield
 style: pitch_schedule
 breadcrumbs:
-  u11: U11
+  u11: u11
   pitches: pitches
 items:
-  21:
+  11:
     time: 2018-04-29 10:00
-    home: Blackheath 2
-    away: Sidcup 1
+    home: Blackheath 3
+    away: Tonbridge Judds 2
     group: Group C
     pitch: Murrayfield
-  23:
-    time: 2018-04-29 11:00
-    home: Blackheath 2
-    away: Old Colfeians
+  12:
+    time: 2018-04-29 10:25
+    home: Edenbridge
+    away: Old Colfians 1
+    group: Group D
+    pitch: Murrayfield
+  13:
+    time: 2018-04-29 10:50
+    home: Old Alleynians 2
+    away: Tonbridge Judds 2
     group: Group C
     pitch: Murrayfield
-  25:
-    time: 2018-04-29 12:00
-    home: Old Colfeians
-    away: Sidcup 1
+  14:
+    time: 2018-04-29 11:15
+    home: Cranbrook 1
+    away: Edenbridge
+    group: Group D
+    pitch: Murrayfield
+  15:
+    time: 2018-04-29 11:40
+    home: Hackney Bulls 2
+    away: Old Alleynians 2
     group: Group C
+    pitch: Murrayfield
+  16:
+    time: 2018-04-29 12:05
+    home: Cranbrook 1
+    away: Medway 1
+    group: Group D
+    pitch: Murrayfield
+  17:
+    time: 2018-04-29 12:30
+    home: East Grinstead 2
+    away: Old Alleynians 2
+    group: Group C
+    pitch: Murrayfield
+  18:
+    time: 2018-04-29 12:55
+    home: Cranbrook 1
+    away: Old Colfians 1
+    group: Group D
+    pitch: Murrayfield
+  19:
+    time: 2018-04-29 13:20
+    home: Blackheath 3
+    away: Old Alleynians 2
+    group: Group C
+    pitch: Murrayfield
+  20:
+    time: 2018-04-29 13:45
+    home: Cranbrook 1
+    away: Tunbridge Wells 1
+    group: Group D
     pitch: Murrayfield
 ---
 

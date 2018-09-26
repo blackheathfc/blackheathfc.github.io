@@ -1,19 +1,25 @@
 ---
-title: U10
+title: u10
 style: entrant_list
 breadcrumbs:
-  u10: U10
+  u10: u10
 items:
+- Barking RFC
 - Blackheath FC
+- Cranbrook RFC
+- East Grinstead RFC
+- Edenbridge RFC
 - Eton Manor RFC
+- Gravesend RFC
 - Hackney RFC
-- King's College Hospital RFC
-- Old Alleynian FC
-- Old Colfeians RFC
-- Old Dunstonian RFC
-- Old Elthamians RFC
+- Medway RFC
+- Old Alleynians RFC
+- Old Colfians RFC
 - Sevenoaks RFC
-- Sidcup RFC
+- Tonbridge Juddians RFC
+- Tunbridge Wells RFC
+- Upminster RFC
+- VIGO RFC
 ---
 
 {% include entrant_list.html %}

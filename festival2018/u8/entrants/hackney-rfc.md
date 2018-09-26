@@ -1,72 +1,66 @@
 ---
-title: U8 - Hackney RFC
+title: u8 - Hackney RFC
 style: entrant_schedule
 breadcrumbs:
-  u8: U8
+  u8: u8
   entrants: clubs
 items:
   Hackney Bulls 1:
-    1:
+    11:
       time: 2018-04-29 10:00
       home: Hackney Bulls 1
-      away: Sidcup 1
+      away: Tonbridge Judds 1
       group: Group A
       pitch: Cardiff Arms Park
-    3:
-      time: 2018-04-29 10:30
+    13:
+      time: 2018-04-29 10:40
       home: Blackheath 1
       away: Hackney Bulls 1
       group: Group A
       pitch: Lansdowne Road
-    5:
-      time: 2018-04-29 11:00
+    15:
+      time: 2018-04-29 11:20
       home: Hackney Bulls 1
-      away: Old Alleynians
+      away: Upminster
       group: Group A
-      pitch: Cardiff Arms Park
-    7:
-      time: 2018-04-29 11:30
-      home: Canterbury 2
-      away: Hackney Bulls 1
-      group: Group A
-      pitch: Twickenham
-    9:
+      pitch: Lansdowne Road
+    17:
       time: 2018-04-29 12:00
-      home: Blackheath 4
+      home: Hackney Bulls 1
+      away: Old Alleynians 1
+      group: Group A
+      pitch: Lansdowne Road
+    19:
+      time: 2018-04-29 12:40
+      home: Cranbrook 2
       away: Hackney Bulls 1
       group: Group A
       pitch: Lansdowne Road
   Hackney Bulls 2:
-    2:
-      time: 2018-04-29 10:15
-      home: Blackheath 5
+    14:
+      time: 2018-04-29 11:00
+      home: Edenbridge 1
       away: Hackney Bulls 2
       group: Group B
-      pitch: Lansdowne Road
-    4:
-      time: 2018-04-29 10:45
+      pitch: Twickenham
+    16:
+      time: 2018-04-29 11:40
       home: Hackney Bulls 2
-      away: Old Colfeians 1
+      away: Old Alleynians 2
       group: Group B
       pitch: Twickenham
-    6:
-      time: 2018-04-29 11:15
+    18:
+      time: 2018-04-29 12:20
+      home: Hackney Bulls 2
+      away: Tonbridge Judds 2
+      group: Group B
+      pitch: Twickenham
+    20:
+      time: 2018-04-29 13:00
       home: Blackheath 2
       away: Hackney Bulls 2
       group: Group B
       pitch: Twickenham
-    8:
-      time: 2018-04-29 11:45
-      home: Hackney Bulls 2
-      away: Sidcup 2
-      group: Group B
-      pitch: Twickenham
-    10:
-      time: 2018-04-29 12:15
-      home: Eton Manor 1
-      away: Hackney Bulls 2
-      group: Group B
-      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

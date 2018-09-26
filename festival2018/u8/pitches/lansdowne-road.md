@@ -1,68 +1,68 @@
 ---
-title: U8 - Lansdowne Road
+title: u8 - Lansdowne Road
 style: pitch_schedule
 breadcrumbs:
-  u8: U8
+  u8: u8
   pitches: pitches
 items:
-  1:
+  11:
     time: 2018-04-29 10:00
-    home: Blackheath 1
-    away: Old Alleynians
+    home: Cranbrook 2
+    away: Upminster
     group: Group A
     pitch: Lansdowne Road
-  2:
-    time: 2018-04-29 10:15
-    home: Blackheath 5
-    away: Hackney Bulls 2
-    group: Group B
-    pitch: Lansdowne Road
-  3:
-    time: 2018-04-29 10:30
-    home: Blackheath 1
-    away: Hackney Bulls 1
-    group: Group A
-    pitch: Lansdowne Road
-  4:
-    time: 2018-04-29 10:45
+  12:
+    time: 2018-04-29 10:20
     home: Blackheath 2
-    away: Eton Manor 1
+    away: Tonbridge Judds 2
     group: Group B
     pitch: Lansdowne Road
-  5:
-    time: 2018-04-29 11:00
-    home: Canterbury 2
-    away: Sidcup 1
-    group: Group A
-    pitch: Lansdowne Road
-  6:
-    time: 2018-04-29 11:15
-    home: Blackheath 5
-    away: Eton Manor 1
-    group: Group B
-    pitch: Lansdowne Road
-  7:
-    time: 2018-04-29 11:30
+  13:
+    time: 2018-04-29 10:40
     home: Blackheath 1
-    away: Sidcup 1
-    group: Group A
-    pitch: Lansdowne Road
-  8:
-    time: 2018-04-29 11:45
-    home: Eton Manor 1
-    away: Old Colfeians 1
-    group: Group B
-    pitch: Lansdowne Road
-  9:
-    time: 2018-04-29 12:00
-    home: Blackheath 4
     away: Hackney Bulls 1
     group: Group A
     pitch: Lansdowne Road
-  10:
-    time: 2018-04-29 12:15
-    home: Eton Manor 1
-    away: Hackney Bulls 2
+  14:
+    time: 2018-04-29 11:00
+    home: Old Alleynians 2
+    away: Tonbridge Judds 2
+    group: Group B
+    pitch: Lansdowne Road
+  15:
+    time: 2018-04-29 11:20
+    home: Hackney Bulls 1
+    away: Upminster
+    group: Group A
+    pitch: Lansdowne Road
+  16:
+    time: 2018-04-29 11:40
+    home: Blackheath 2
+    away: Edenbridge 1
+    group: Group B
+    pitch: Lansdowne Road
+  17:
+    time: 2018-04-29 12:00
+    home: Hackney Bulls 1
+    away: Old Alleynians 1
+    group: Group A
+    pitch: Lansdowne Road
+  18:
+    time: 2018-04-29 12:20
+    home: Blackheath 2
+    away: Old Alleynians 2
+    group: Group B
+    pitch: Lansdowne Road
+  19:
+    time: 2018-04-29 12:40
+    home: Cranbrook 2
+    away: Hackney Bulls 1
+    group: Group A
+    pitch: Lansdowne Road
+  20:
+    time: 2018-04-29 13:00
+    home: Edenbridge 1
+    away: Tonbridge Judds 2
     group: Group B
     pitch: Lansdowne Road
 ---

@@ -1,19 +1,21 @@
 ---
-title: U11
+title: u11
 style: entrant_list
 breadcrumbs:
-  u11: U11
+  u11: u11
 items:
-- Barbarians FC
 - Blackheath FC
-- Eton Manor RFC
+- Cranbrook RFC
+- East Grinstead RFC
+- Edenbridge RFC
+- Gravesend RFC
 - Hackney RFC
-- King's College Hospital RFC
-- Old Alleynian FC
-- Old Colfeians RFC
-- Sevenoaks RFC
-- Sidcup RFC
-- Thanet Wanderers RUFC
+- Medway RFC
+- Old Alleynians RFC
+- Old Colfians RFC
+- Tonbridge Juddians RFC
+- Tunbridge Wells RFC
+- Upminster RFC
 ---
 
 {% include entrant_list.html %}

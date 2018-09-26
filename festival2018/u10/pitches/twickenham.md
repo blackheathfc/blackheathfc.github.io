@@ -1,68 +1,68 @@
 ---
-title: U10 - Twickenham
+title: u10 - Twickenham
 style: pitch_schedule
 breadcrumbs:
-  u10: U10
+  u10: u10
   pitches: pitches
 items:
-  1:
+  11:
     time: 2018-04-29 10:00
-    home: Blackheath 1
-    away: Sidcup 2
+    home: Old Alleynians 2
+    away: VIGO
     group: Group A
     pitch: Twickenham
-  2:
+  12:
     time: 2018-04-29 10:20
-    home: Hackney Bulls 1
-    away: Old Alleynians
+    home: Edenbridge
+    away: Medway 1
     group: Group C
     pitch: Twickenham
-  3:
+  13:
     time: 2018-04-29 10:40
-    home: Old Dunstonians
-    away: Sevenoaks 1
+    home: Barking
+    away: Gravesend 2
     group: Group A
     pitch: Twickenham
-  4:
+  14:
     time: 2018-04-29 11:00
-    home: Blackheath 2
-    away: Hackney Bulls 1
+    home: Medway 1
+    away: Old Colfians 2
     group: Group C
     pitch: Twickenham
-  5:
+  15:
     time: 2018-04-29 11:20
-    home: Blackheath 1
-    away: KCH Pirates
+    home: Barking
+    away: VIGO
     group: Group A
     pitch: Twickenham
-  6:
+  16:
     time: 2018-04-29 11:40
-    home: Hackney Bulls 1
-    away: Old Elthamians 1
-    group: Group C
-    pitch: Twickenham
-  7:
-    time: 2018-04-29 12:00
-    home: Blackheath 1
-    away: Sevenoaks 1
-    group: Group A
-    pitch: Twickenham
-  8:
-    time: 2018-04-29 12:20
     home: Blackheath 2
-    away: Old Elthamians 1
+    away: Medway 1
     group: Group C
     pitch: Twickenham
-  9:
-    time: 2018-04-29 12:40
-    home: Blackheath 1
-    away: Old Dunstonians
+  17:
+    time: 2018-04-29 12:00
+    home: Gravesend 2
+    away: VIGO
     group: Group A
     pitch: Twickenham
-  10:
+  18:
+    time: 2018-04-29 12:20
+    home: Medway 1
+    away: Tunbridge Wells 1
+    group: Group C
+    pitch: Twickenham
+  19:
+    time: 2018-04-29 12:40
+    home: Tonbridge Judds 1
+    away: VIGO
+    group: Group A
+    pitch: Twickenham
+  20:
     time: 2018-04-29 13:00
     home: Blackheath 2
-    away: Old Alleynians
+    away: Tunbridge Wells 1
     group: Group C
     pitch: Twickenham
 ---

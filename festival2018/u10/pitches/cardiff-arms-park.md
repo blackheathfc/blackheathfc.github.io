@@ -1,69 +1,69 @@
 ---
-title: U10 - Cardiff Arms Park
+title: u10 - Cardiff Arms Park
 style: pitch_schedule
 breadcrumbs:
-  u10: U10
+  u10: u10
   pitches: pitches
 items:
-  1:
+  11:
     time: 2018-04-29 10:00
-    home: KCH Pirates
-    away: Old Dunstonians
+    home: Barking
+    away: Tonbridge Judds 1
     group: Group A
     pitch: Cardiff Arms Park
-  2:
+  12:
     time: 2018-04-29 10:20
-    home: Old Colfeians
-    away: Sidcup 1
-    group: Group D
+    home: Cranbrook 1
+    away: Gravesend 1
+    group: Group E
     pitch: Cardiff Arms Park
-  3:
+  13:
     time: 2018-04-29 10:40
-    home: Blackheath 1
-    away: Eton Manor
+    home: Old Alleynians 2
+    away: Tonbridge Judds 1
     group: Group A
     pitch: Cardiff Arms Park
-  4:
+  14:
     time: 2018-04-29 11:00
-    home: Hackney Bulls 2
-    away: Old Colfeians
-    group: Group D
+    home: Old Alleynians 1
+    away: Sevenoaks 2
+    group: Group E
     pitch: Cardiff Arms Park
-  5:
+  15:
     time: 2018-04-29 11:20
-    home: Eton Manor
-    away: Old Dunstonians
+    home: Cranbrook 2
+    away: Old Alleynians 2
     group: Group A
     pitch: Cardiff Arms Park
-  6:
+  16:
     time: 2018-04-29 11:40
-    home: Blackheath 3
-    away: Old Colfeians
-    group: Group D
+    home: Old Alleynians 1
+    away: Upminster
+    group: Group E
     pitch: Cardiff Arms Park
-  7:
+  17:
     time: 2018-04-29 12:00
-    home: Old Dunstonians
-    away: Sidcup 2
+    home: Cranbrook 2
+    away: Tonbridge Judds 1
     group: Group A
     pitch: Cardiff Arms Park
-  8:
+  18:
     time: 2018-04-29 12:20
-    home: Blackheath 3
-    away: Old Elthamians 2
-    group: Group D
+    home: Cranbrook 1
+    away: Old Alleynians 1
+    group: Group E
     pitch: Cardiff Arms Park
-  9:
+  19:
     time: 2018-04-29 12:40
-    home: KCH Pirates
-    away: Sevenoaks 1
+    home: Barking
+    away: Cranbrook 2
     group: Group A
     pitch: Cardiff Arms Park
-  10:
+  20:
     time: 2018-04-29 13:00
-    home: Old Colfeians
-    away: Old Elthamians 2
-    group: Group D
+    home: Cranbrook 1
+    away: Upminster
+    group: Group E
     pitch: Cardiff Arms Park
 ---
 

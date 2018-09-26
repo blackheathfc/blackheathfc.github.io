@@ -1,16 +1,20 @@
 ---
-title: U7
+title: u7
 style: entrant_list
 breadcrumbs:
-  u7: U7
+  u7: u7
 items:
 - Blackheath FC
-- Eton Manor RFC
+- Cranbrook RFC
+- Edenbridge RFC
+- Gravesend RFC
 - Hackney RFC
-- King's College Hospital RFC
-- Old Alleynian FC
-- Old Colfeians RFC
-- Westcombe Park RFC
+- Medway RFC
+- Old Alleynians RFC
+- Sevenoaks RFC
+- Tonbridge Juddians RFC
+- Upminster RFC
+- VIGO RFC
 ---
 
 {% include entrant_list.html %}

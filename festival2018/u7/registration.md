@@ -1,25 +1,33 @@
 ---
-title: U7
+title: u7
 style: registration_list
 breadcrumbs:
-  u7: U7
+  u7: u7
 items:
 - Blackheath 1
 - Blackheath 2
 - Blackheath 3
 - Blackheath 4
-- Blackheath 5
-- Eton Manor 1
-- Eton Manor 2
-- Hackney Bulls
-- KCH Pirates
-- Old Alleynians
-- Old Colfeians 1
-- Old Colfeians 2
-- Old Colfeians 3
-- Old Colfeians 4
-- Old Colfeians 5
-- Westcombe Park
+- Cranbrook 1
+- Cranbrook 2
+- Edenbridge 1
+- Edenbridge 2
+- Gravesend 1
+- Gravesend 2
+- Hackney Bulls 1
+- Hackney Bulls 2
+- Medway 1
+- Medway 2
+- Old Alleynians 1
+- Old Alleynians 2
+- Sevenoaks 1
+- Sevenoaks 2
+- Tonbridge Judds 1
+- Tonbridge Judds 2
+- Upminster 1
+- Upminster 2
+- VIGO 1
+- VIGO 2
 ---
 
 {% include registration_list.html %}

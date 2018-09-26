@@ -1,18 +1,21 @@
 ---
-title: U9
+title: u9
 style: entrant_list
 breadcrumbs:
-  u9: U9
+  u9: u9
 items:
+- Barking RFC
 - Blackheath FC
-- Eton Manor RFC
+- Cranbrook RFC
+- Edenbridge RFC
+- Gravesend RFC
 - Hackney RFC
-- King's College Hospital RFC
-- Old Albanian RFC
-- Old Alleynian FC
-- Old Colfeians RFC
+- Medway RFC
+- Old Cooperians RFC
 - Sevenoaks RFC
-- Sidcup RFC
+- Tonbridge Juddians RFC
+- Tunbridge Wells RFC
+- VIGO RFC
 ---
 
 {% include entrant_list.html %}

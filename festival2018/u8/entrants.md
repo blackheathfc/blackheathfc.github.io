@@ -1,17 +1,20 @@
 ---
-title: U8
+title: u8
 style: entrant_list
 breadcrumbs:
-  u8: U8
+  u8: u8
 items:
 - Blackheath FC
-- Canterbury RFC
-- Eton Manor RFC
+- Cranbrook RFC
+- Edenbridge RFC
+- Gravesend RFC
 - Hackney RFC
-- King's College Hospital RFC
-- Old Alleynian FC
-- Old Colfeians RFC
-- Sidcup RFC
+- Medway RFC
+- Old Alleynians RFC
+- Sevenoaks RFC
+- Tonbridge Juddians RFC
+- Tunbridge Wells RFC
+- Upminster RFC
 ---
 
 {% include entrant_list.html %}

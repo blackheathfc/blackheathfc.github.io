@@ -1,13 +1,14 @@
 ---
-title: U11
+title: u11
 style: pitch_list
 breadcrumbs:
-  u11: U11
+  u11: u11
 items:
 - Twickenham
 - Lansdowne Road
 - Cardiff Arms Park
 - Murrayfield
+- Parc des Princes
 ---
 
 {% include pitch_list.html %}

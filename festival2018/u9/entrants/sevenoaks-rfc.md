@@ -1,35 +1,41 @@
 ---
-title: U9 - Sevenoaks RFC
+title: u9 - Sevenoaks RFC
 style: entrant_schedule
 breadcrumbs:
-  u9: U9
+  u9: u9
   entrants: clubs
 items:
   Sevenoaks:
-    2:
-      time: 2018-04-29 10:20
-      home: Blackheath 2
+    11:
+      time: 2018-04-29 10:00
+      home: Gravesend 1
       away: Sevenoaks
-      group: Group C
-      pitch: Lansdowne Road
-    6:
-      time: 2018-04-29 11:40
-      home: KCH Pirates
+      group: Group A
+      pitch: Cardiff Arms Park
+    13:
+      time: 2018-04-29 10:40
+      home: Sevenoaks
+      away: VIGO
+      group: Group A
+      pitch: Cardiff Arms Park
+    15:
+      time: 2018-04-29 11:20
+      home: Medway 1
       away: Sevenoaks
-      group: Group C
-      pitch: Lansdowne Road
-    8:
-      time: 2018-04-29 12:20
-      home: Eton Manor 1
+      group: Group A
+      pitch: Twickenham
+    17:
+      time: 2018-04-29 12:00
+      home: Cranbrook 1
       away: Sevenoaks
-      group: Group C
-      pitch: Lansdowne Road
-    10:
-      time: 2018-04-29 13:00
-      home: Old Albanians 2
+      group: Group A
+      pitch: Twickenham
+    19:
+      time: 2018-04-29 12:40
+      home: Barking
       away: Sevenoaks
-      group: Group C
-      pitch: Lansdowne Road
+      group: Group A
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

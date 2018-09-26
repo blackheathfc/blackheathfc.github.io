@@ -1,23 +1,31 @@
 ---
-title: U11
+title: u11
 style: registration_list
 breadcrumbs:
-  u11: U11
+  u11: u11
 items:
-- Barbarians
 - Blackheath 1
 - Blackheath 2
-- Eton Manor 1
-- Eton Manor 2
-- Hackney Bulls
-- KCH Pirates
-- Old Alleynians
-- Old Colfeians
-- Sevenoaks 1
-- Sevenoaks 2
-- Sidcup 1
-- Sidcup 2
-- Thanet Wanderers
+- Blackheath 3
+- Cranbrook 1
+- Cranbrook 2
+- East Grinstead 1
+- East Grinstead 2
+- Edenbridge
+- Gravesend
+- Hackney Bulls 1
+- Hackney Bulls 2
+- Medway 1
+- Medway 2
+- Old Alleynians 1
+- Old Alleynians 2
+- Old Colfians 1
+- Old Colfians 2
+- Tonbridge Judds 1
+- Tonbridge Judds 2
+- Tunbridge Wells 1
+- Tunbridge Wells 2
+- Upminster
 ---
 
 {% include registration_list.html %}

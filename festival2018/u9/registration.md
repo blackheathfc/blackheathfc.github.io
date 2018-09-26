@@ -1,25 +1,30 @@
 ---
-title: U9
+title: u9
 style: registration_list
 breadcrumbs:
-  u9: U9
+  u9: u9
 items:
+- Barking
 - Blackheath 1
 - Blackheath 2
 - Blackheath 3
-- Blackheath 4
-- Eton Manor 1
-- Eton Manor 2
-- Hackney Bulls
-- KCH Pirates
-- Old Albanians 1
-- Old Albanians 2
-- Old Alleynians
-- Old Colfeians 1
-- Old Colfeians 2
+- Cranbrook 1
+- Cranbrook 2
+- Edenbridge 1
+- Edenbridge 2
+- Gravesend 1
+- Gravesend 2
+- Hackney Bulls 1
+- Hackney Bulls 2
+- Medway 1
+- Medway 2
+- Old Cooperians 1
+- Old Cooperians 2
 - Sevenoaks
-- Sidcup 1
-- Sidcup 2
+- Tonbridge Judds 1
+- Tonbridge Judds 2
+- Tunbridge Wells
+- VIGO
 ---
 
 {% include registration_list.html %}

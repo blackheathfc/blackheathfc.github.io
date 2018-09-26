@@ -1,40 +1,34 @@
 ---
-title: U10 - Eton Manor RFC
+title: u10 - Eton Manor RFC
 style: entrant_schedule
 breadcrumbs:
-  u10: U10
+  u10: u10
   entrants: clubs
 items:
   Eton Manor:
-    1:
-      time: 2018-04-29 10:00
+    12:
+      time: 2018-04-29 10:20
+      home: Eton Manor
+      away: Medway 2
+      group: Group D
+      pitch: Parc des Princes
+    16:
+      time: 2018-04-29 11:40
+      home: Eton Manor
+      away: Tunbridge Wells 2
+      group: Group D
+      pitch: Lansdowne Road
+    18:
+      time: 2018-04-29 12:20
       home: Eton Manor
       away: Sevenoaks 1
-      group: Group A
+      group: Group D
       pitch: Lansdowne Road
-    3:
-      time: 2018-04-29 10:40
-      home: Blackheath 1
+    20:
+      time: 2018-04-29 13:00
+      home: Blackheath 3
       away: Eton Manor
-      group: Group A
-      pitch: Cardiff Arms Park
-    5:
-      time: 2018-04-29 11:20
-      home: Eton Manor
-      away: Old Dunstonians
-      group: Group A
-      pitch: Cardiff Arms Park
-    7:
-      time: 2018-04-29 12:00
-      home: Eton Manor
-      away: KCH Pirates
-      group: Group A
-      pitch: Lansdowne Road
-    9:
-      time: 2018-04-29 12:40
-      home: Eton Manor
-      away: Sidcup 2
-      group: Group A
+      group: Group D
       pitch: Lansdowne Road
 ---
 
