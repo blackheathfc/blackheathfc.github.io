@@ -1,0 +1,60 @@
+---
+title: u9 - Edenbridge RFC
+style: entrant_schedule
+breadcrumbs:
+  u9: u9
+  entrants: clubs
+items:
+  Edenbridge 1:
+    11:
+      time: 2018-04-29 10:00
+      home: Edenbridge 1
+      away: Old Cooperians 1
+      group: Group C
+      pitch: Parc des Princes
+    15:
+      time: 2018-04-29 11:20
+      home: Blackheath 2
+      away: Edenbridge 1
+      group: Group C
+      pitch: Parc des Princes
+    17:
+      time: 2018-04-29 12:00
+      home: Edenbridge 1
+      away: Tonbridge Judds 2
+      group: Group C
+      pitch: Murrayfield
+    19:
+      time: 2018-04-29 12:40
+      home: Edenbridge 1
+      away: Hackney Bulls 1
+      group: Group C
+      pitch: Parc des Princes
+  Edenbridge 2:
+    12:
+      time: 2018-04-29 10:20
+      home: Edenbridge 2
+      away: Old Cooperians 2
+      group: Group D
+      pitch: Murrayfield
+    14:
+      time: 2018-04-29 11:00
+      home: Blackheath 3
+      away: Edenbridge 2
+      group: Group D
+      pitch: Murrayfield
+    16:
+      time: 2018-04-29 11:40
+      home: Edenbridge 2
+      away: Hackney Bulls 2
+      group: Group D
+      pitch: Parc des Princes
+    20:
+      time: 2018-04-29 13:00
+      home: Edenbridge 2
+      away: Tunbridge Wells
+      group: Group D
+      pitch: Murrayfield
+---
+
+{% include schedule_entrant.html %}
