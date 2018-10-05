@@ -6,55 +6,61 @@ breadcrumbs:
   entrants: clubs
 items:
   Hackney Bulls 1:
-    13:
-      time: 2018-04-29 10:40
+    12:
+      time: 2018-10-14 10:20
       home: Hackney Bulls 1
       away: Tonbridge Judds 2
-      group: Group C
-      pitch: Murrayfield
-    15:
-      time: 2018-04-29 11:20
+      group: Group D
+      pitch: Parc des Princes
+    14:
+      time: 2018-10-14 11:00
       home: Hackney Bulls 1
       away: Old Cooperians 1
-      group: Group C
-      pitch: Murrayfield
-    17:
-      time: 2018-04-29 12:00
-      home: Blackheath 2
-      away: Hackney Bulls 1
-      group: Group C
-      pitch: Parc des Princes
-    19:
-      time: 2018-04-29 12:40
-      home: Edenbridge 1
-      away: Hackney Bulls 1
-      group: Group C
-      pitch: Parc des Princes
-  Hackney Bulls 2:
-    14:
-      time: 2018-04-29 11:00
-      home: Hackney Bulls 2
-      away: Tunbridge Wells
       group: Group D
       pitch: Parc des Princes
     16:
-      time: 2018-04-29 11:40
+      time: 2018-10-14 11:40
+      home: Blackheath 3
+      away: Hackney Bulls 1
+      group: Group D
+      pitch: Murrayfield
+    20:
+      time: 2018-10-14 13:00
+      home: Edenbridge 1
+      away: Hackney Bulls 1
+      group: Group D
+      pitch: Parc des Princes
+  Hackney Bulls 2:
+    1:
+      time: 2018-10-14 10:00
       home: Edenbridge 2
       away: Hackney Bulls 2
-      group: Group D
-      pitch: Parc des Princes
-    18:
-      time: 2018-04-29 12:20
-      home: Blackheath 3
-      away: Hackney Bulls 2
-      group: Group D
-      pitch: Parc des Princes
-    20:
-      time: 2018-04-29 13:00
+      group: Group A
+      pitch: Lansdowne Road
+    3:
+      time: 2018-10-14 10:40
+      home: Hackney Bulls 2
+      away: Tunbridge Wells
+      group: Group A
+      pitch: Cardiff Arms Park
+    5:
+      time: 2018-10-14 11:20
       home: Hackney Bulls 2
       away: Old Cooperians 2
-      group: Group D
-      pitch: Parc des Princes
+      group: Group A
+      pitch: Lansdowne Road
+    7:
+      time: 2018-10-14 12:00
+      home: Barking
+      away: Hackney Bulls 2
+      group: Group A
+      pitch: Lansdowne Road
+    9:
+      time: 2018-10-14 12:40
+      home: Blackheath 4
+      away: Hackney Bulls 2
+      group: Group A
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

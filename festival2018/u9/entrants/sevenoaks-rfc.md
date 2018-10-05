@@ -6,36 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Sevenoaks:
-    11:
-      time: 2018-04-29 10:00
+    2:
+      time: 2018-10-14 10:20
+      home: Blackheath 1
+      away: Sevenoaks
+      group: Group B
+      pitch: Lansdowne Road
+    4:
+      time: 2018-10-14 11:00
       home: Gravesend 1
       away: Sevenoaks
-      group: Group A
+      group: Group B
       pitch: Cardiff Arms Park
-    13:
-      time: 2018-04-29 10:40
-      home: Sevenoaks
-      away: VIGO
-      group: Group A
-      pitch: Cardiff Arms Park
-    15:
-      time: 2018-04-29 11:20
+    6:
+      time: 2018-10-14 11:40
       home: Medway 1
       away: Sevenoaks
-      group: Group A
+      group: Group B
       pitch: Twickenham
-    17:
-      time: 2018-04-29 12:00
+    8:
+      time: 2018-10-14 12:20
       home: Cranbrook 1
       away: Sevenoaks
-      group: Group A
-      pitch: Twickenham
-    19:
-      time: 2018-04-29 12:40
-      home: Barking
-      away: Sevenoaks
-      group: Group A
-      pitch: Cardiff Arms Park
+      group: Group B
+      pitch: Lansdowne Road
+    10:
+      time: 2018-10-14 13:00
+      home: Sevenoaks
+      away: VIGO
+      group: Group B
+      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

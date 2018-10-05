@@ -6,30 +6,36 @@ breadcrumbs:
   entrants: clubs
 items:
   Tunbridge Wells:
-    12:
-      time: 2018-04-29 10:20
-      home: Blackheath 3
+    1:
+      time: 2018-10-14 10:00
+      home: Blackheath 4
       away: Tunbridge Wells
-      group: Group D
-      pitch: Parc des Princes
-    14:
-      time: 2018-04-29 11:00
+      group: Group A
+      pitch: Cardiff Arms Park
+    3:
+      time: 2018-10-14 10:40
       home: Hackney Bulls 2
       away: Tunbridge Wells
-      group: Group D
-      pitch: Parc des Princes
-    18:
-      time: 2018-04-29 12:20
-      home: Old Cooperians 2
+      group: Group A
+      pitch: Cardiff Arms Park
+    5:
+      time: 2018-10-14 11:20
+      home: Barking
       away: Tunbridge Wells
-      group: Group D
-      pitch: Murrayfield
-    20:
-      time: 2018-04-29 13:00
+      group: Group A
+      pitch: Twickenham
+    7:
+      time: 2018-10-14 12:00
       home: Edenbridge 2
       away: Tunbridge Wells
-      group: Group D
-      pitch: Murrayfield
+      group: Group A
+      pitch: Twickenham
+    9:
+      time: 2018-10-14 12:40
+      home: Old Cooperians 2
+      away: Tunbridge Wells
+      group: Group A
+      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}

@@ -6,34 +6,34 @@ breadcrumbs:
   entrants: clubs
 items:
   Barking:
-    11:
-      time: 2018-04-29 10:00
+    1:
+      time: 2018-10-14 10:00
       home: Barking
-      away: Medway 1
+      away: Old Cooperians 2
       group: Group A
       pitch: Twickenham
-    13:
-      time: 2018-04-29 10:40
+    3:
+      time: 2018-10-14 10:40
       home: Barking
-      away: Gravesend 1
+      away: Blackheath 4
+      group: Group A
+      pitch: Twickenham
+    5:
+      time: 2018-10-14 11:20
+      home: Barking
+      away: Tunbridge Wells
+      group: Group A
+      pitch: Twickenham
+    7:
+      time: 2018-10-14 12:00
+      home: Barking
+      away: Hackney Bulls 2
       group: Group A
       pitch: Lansdowne Road
-    15:
-      time: 2018-04-29 11:20
+    9:
+      time: 2018-10-14 12:40
       home: Barking
-      away: Cranbrook 1
-      group: Group A
-      pitch: Cardiff Arms Park
-    17:
-      time: 2018-04-29 12:00
-      home: Barking
-      away: VIGO
-      group: Group A
-      pitch: Cardiff Arms Park
-    19:
-      time: 2018-04-29 12:40
-      home: Barking
-      away: Sevenoaks
+      away: Edenbridge 2
       group: Group A
       pitch: Cardiff Arms Park
 ---
