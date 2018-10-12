@@ -7,25 +7,25 @@ breadcrumbs:
 items:
   Edenbridge:
     12:
-      time: 2018-10-14 10:25
+      time: 2018-10-14 10:20
       home: Blackheath 2
       away: Edenbridge
       group: Group B
       pitch: Lansdowne Road
     16:
-      time: 2018-10-14 12:05
+      time: 2018-10-14 11:40
       home: Edenbridge
       away: Tunbridge Wells 1
       group: Group B
       pitch: Lansdowne Road
     18:
-      time: 2018-10-14 12:55
+      time: 2018-10-14 12:20
       home: Edenbridge
       away: Medway 1
       group: Group B
       pitch: Lansdowne Road
     20:
-      time: 2018-10-14 13:45
+      time: 2018-10-14 13:00
       home: Edenbridge
       away: Old Colfeians 1
       group: Group B

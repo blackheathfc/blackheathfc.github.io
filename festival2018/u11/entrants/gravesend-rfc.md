@@ -13,19 +13,19 @@ items:
       group: Group C
       pitch: Cardiff Arms Park
     13:
-      time: 2018-10-14 10:50
+      time: 2018-10-14 10:40
       home: Gravesend
       away: Medway 2
       group: Group C
       pitch: Murrayfield
     15:
-      time: 2018-10-14 11:40
+      time: 2018-10-14 11:20
       home: Gravesend
       away: Tunbridge Wells 2
       group: Group C
       pitch: Cardiff Arms Park
     19:
-      time: 2018-10-14 13:20
+      time: 2018-10-14 12:40
       home: Blackheath 3
       away: Gravesend
       group: Group C

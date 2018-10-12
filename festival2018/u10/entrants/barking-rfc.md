@@ -21,7 +21,7 @@ items:
     15:
       time: 2018-10-14 11:20
       home: Barking
-      away: VIGO
+      away: Vigo
       group: Group A
       pitch: Twickenham
     17:

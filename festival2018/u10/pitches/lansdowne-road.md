@@ -20,7 +20,7 @@ items:
   13:
     time: 2018-10-14 10:40
     home: Cranbrook 1
-    away: VIGO
+    away: Vigo
     group: Group A
     pitch: Lansdowne Road
   14:

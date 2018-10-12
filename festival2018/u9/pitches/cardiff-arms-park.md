@@ -14,7 +14,7 @@ items:
   2:
     time: 2018-10-14 10:20
     home: Medway 1
-    away: VIGO
+    away: Vigo
     group: Group B
     pitch: Cardiff Arms Park
   3:
@@ -50,7 +50,7 @@ items:
   8:
     time: 2018-10-14 12:20
     home: Gravesend 1
-    away: VIGO
+    away: Vigo
     group: Group B
     pitch: Cardiff Arms Park
   9:

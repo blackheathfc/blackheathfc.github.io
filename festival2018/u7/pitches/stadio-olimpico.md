@@ -8,13 +8,13 @@ items:
   12:
     time: 2018-10-14 10:20
     home: Sevenoaks 2
-    away: VIGO 1
+    away: Vigo 1
     group: Group E
     pitch: Stadio Olimpico
   14:
     time: 2018-10-14 11:00
     home: Edenbridge 2
-    away: VIGO 1
+    away: Vigo 1
     group: Group E
     pitch: Stadio Olimpico
   16:

@@ -25,7 +25,7 @@ items:
 - Tonbridge Judds 1
 - Tonbridge Judds 2
 - Tunbridge Wells
-- VIGO
+- Vigo
 ---
 
 {% include registration_list.html %}

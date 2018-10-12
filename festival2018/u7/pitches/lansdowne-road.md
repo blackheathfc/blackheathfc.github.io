@@ -20,7 +20,7 @@ items:
   13:
     time: 2018-10-14 10:40
     home: Blackheath 6
-    away: VIGO 2
+    away: Vigo 2
     group: Group A
     pitch: Lansdowne Road
   14:

@@ -29,7 +29,7 @@ items:
 - Tunbridge Wells 1
 - Tunbridge Wells 2
 - Upminster
-- VIGO
+- Vigo
 ---
 
 {% include registration_list.html %}

@@ -26,7 +26,7 @@ items:
   4:
     time: 2018-10-14 11:00
     home: Blackheath 1
-    away: VIGO
+    away: Vigo
     group: Group B
     pitch: Lansdowne Road
   5:
@@ -38,7 +38,7 @@ items:
   6:
     time: 2018-10-14 11:40
     home: Cranbrook 1
-    away: VIGO
+    away: Vigo
     group: Group B
     pitch: Lansdowne Road
   7:
@@ -62,7 +62,7 @@ items:
   10:
     time: 2018-10-14 13:00
     home: Sevenoaks
-    away: VIGO
+    away: Vigo
     group: Group B
     pitch: Lansdowne Road
 ---

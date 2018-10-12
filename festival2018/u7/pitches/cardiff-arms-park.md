@@ -38,7 +38,7 @@ items:
   16:
     time: 2018-10-14 11:40
     home: Medway 1
-    away: VIGO 1
+    away: Vigo 1
     group: Group E
     pitch: Cardiff Arms Park
   17:
@@ -62,7 +62,7 @@ items:
   20:
     time: 2018-10-14 13:00
     home: Blackheath 5
-    away: VIGO 1
+    away: Vigo 1
     group: Group E
     pitch: Cardiff Arms Park
 ---

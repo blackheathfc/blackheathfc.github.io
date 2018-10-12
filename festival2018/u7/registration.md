@@ -28,8 +28,8 @@ items:
 - Tonbridge Judds 2
 - Upminster 1
 - Upminster 2
-- VIGO 1
-- VIGO 2
+- Vigo 1
+- Vigo 2
 ---
 
 {% include registration_list.html %}

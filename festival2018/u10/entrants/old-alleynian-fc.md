@@ -34,7 +34,7 @@ items:
     11:
       time: 2018-10-14 10:00
       home: Old Alleynians 2
-      away: VIGO
+      away: Vigo
       group: Group A
       pitch: Twickenham
     13:

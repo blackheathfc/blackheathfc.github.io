@@ -8,7 +8,7 @@ items:
   11:
     time: 2018-10-14 10:00
     home: Old Alleynians 2
-    away: VIGO
+    away: Vigo
     group: Group A
     pitch: Twickenham
   12:
@@ -32,7 +32,7 @@ items:
   15:
     time: 2018-10-14 11:20
     home: Barking
-    away: VIGO
+    away: Vigo
     group: Group A
     pitch: Twickenham
   16:
@@ -44,7 +44,7 @@ items:
   17:
     time: 2018-10-14 12:00
     home: Gravesend 2
-    away: VIGO
+    away: Vigo
     group: Group A
     pitch: Twickenham
   18:
@@ -56,7 +56,7 @@ items:
   19:
     time: 2018-10-14 12:40
     home: Tonbridge Judds 1
-    away: VIGO
+    away: Vigo
     group: Group A
     pitch: Twickenham
   20:

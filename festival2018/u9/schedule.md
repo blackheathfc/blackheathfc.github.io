@@ -118,12 +118,12 @@ items:
       pitch: Lansdowne Road
     - time: 2018-10-14 11:00
       home: Blackheath 1
-      away: VIGO
+      away: Vigo
       group: Group B
       pitch: Lansdowne Road
     - time: 2018-10-14 11:40
       home: Cranbrook 1
-      away: VIGO
+      away: Vigo
       group: Group B
       pitch: Lansdowne Road
     - time: 2018-10-14 12:20
@@ -133,13 +133,13 @@ items:
       pitch: Lansdowne Road
     - time: 2018-10-14 13:00
       home: Sevenoaks
-      away: VIGO
+      away: Vigo
       group: Group B
       pitch: Lansdowne Road
     Cardiff Arms Park:
     - time: 2018-10-14 10:20
       home: Medway 1
-      away: VIGO
+      away: Vigo
       group: Group B
       pitch: Cardiff Arms Park
     - time: 2018-10-14 11:00
@@ -154,7 +154,7 @@ items:
       pitch: Cardiff Arms Park
     - time: 2018-10-14 12:20
       home: Gravesend 1
-      away: VIGO
+      away: Vigo
       group: Group B
       pitch: Cardiff Arms Park
     - time: 2018-10-14 13:00

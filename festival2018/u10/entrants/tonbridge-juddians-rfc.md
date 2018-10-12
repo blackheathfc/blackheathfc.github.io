@@ -33,7 +33,7 @@ items:
     19:
       time: 2018-10-14 12:40
       home: Tonbridge Judds 1
-      away: VIGO
+      away: Vigo
       group: Group A
       pitch: Twickenham
   Tonbridge Judds 2:

@@ -33,7 +33,7 @@ items:
     10:
       time: 2018-10-14 13:00
       home: Sevenoaks
-      away: VIGO
+      away: Vigo
       group: Group B
       pitch: Lansdowne Road
 ---

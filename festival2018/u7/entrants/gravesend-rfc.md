@@ -27,7 +27,7 @@ items:
     17:
       time: 2018-10-14 12:00
       home: Gravesend 1
-      away: VIGO 2
+      away: Vigo 2
       group: Group A
       pitch: Twickenham
     19:

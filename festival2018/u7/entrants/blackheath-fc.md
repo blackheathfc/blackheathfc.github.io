@@ -21,7 +21,7 @@ items:
     15:
       time: 2018-10-14 11:20
       home: Blackheath 1
-      away: VIGO 2
+      away: Vigo 2
       group: Group A
       pitch: Twickenham
     17:
@@ -133,7 +133,7 @@ items:
     20:
       time: 2018-10-14 13:00
       home: Blackheath 5
-      away: VIGO 1
+      away: Vigo 1
       group: Group E
       pitch: Cardiff Arms Park
   Blackheath 6:
@@ -146,7 +146,7 @@ items:
     13:
       time: 2018-10-14 10:40
       home: Blackheath 6
-      away: VIGO 2
+      away: Vigo 2
       group: Group A
       pitch: Lansdowne Road
     15:

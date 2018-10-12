@@ -12,55 +12,55 @@ items:
     group: Group A
     pitch: Lansdowne Road
   12:
-    time: 2018-10-14 10:25
+    time: 2018-10-14 10:20
     home: Blackheath 2
     away: Edenbridge
     group: Group B
     pitch: Lansdowne Road
   13:
-    time: 2018-10-14 10:50
+    time: 2018-10-14 10:40
     home: Cranbrook 2
     away: Old Alleynians 2
     group: Group A
     pitch: Lansdowne Road
   14:
-    time: 2018-10-14 11:15
+    time: 2018-10-14 11:00
     home: Old Colfeians 1
     away: Tunbridge Wells 1
     group: Group B
     pitch: Lansdowne Road
   15:
-    time: 2018-10-14 11:40
+    time: 2018-10-14 11:20
     home: Hackney Bulls 2
     away: Old Alleynians 2
     group: Group A
     pitch: Lansdowne Road
   16:
-    time: 2018-10-14 12:05
+    time: 2018-10-14 11:40
     home: Edenbridge
     away: Tunbridge Wells 1
     group: Group B
     pitch: Lansdowne Road
   17:
-    time: 2018-10-14 12:30
+    time: 2018-10-14 12:00
     home: Old Alleynians 2
     away: Tonbridge Judds 2
     group: Group A
     pitch: Lansdowne Road
   18:
-    time: 2018-10-14 12:55
+    time: 2018-10-14 12:20
     home: Edenbridge
     away: Medway 1
     group: Group B
     pitch: Lansdowne Road
   19:
-    time: 2018-10-14 13:20
+    time: 2018-10-14 12:40
     home: Cranbrook 2
     away: Tonbridge Judds 2
     group: Group A
     pitch: Lansdowne Road
   20:
-    time: 2018-10-14 13:45
+    time: 2018-10-14 13:00
     home: Medway 1
     away: Tunbridge Wells 1
     group: Group B

@@ -8,7 +8,7 @@ items:
     Twickenham:
     - time: 2018-10-14 10:00
       home: Medway 2
-      away: VIGO 2
+      away: Vigo 2
       group: Group A
       pitch: Twickenham
     - time: 2018-10-14 10:40
@@ -18,17 +18,17 @@ items:
       pitch: Twickenham
     - time: 2018-10-14 11:20
       home: Blackheath 1
-      away: VIGO 2
+      away: Vigo 2
       group: Group A
       pitch: Twickenham
     - time: 2018-10-14 12:00
       home: Gravesend 1
-      away: VIGO 2
+      away: Vigo 2
       group: Group A
       pitch: Twickenham
     - time: 2018-10-14 12:40
       home: Tonbridge Judds 1
-      away: VIGO 2
+      away: Vigo 2
       group: Group A
       pitch: Twickenham
     Lansdowne Road:
@@ -39,7 +39,7 @@ items:
       pitch: Lansdowne Road
     - time: 2018-10-14 10:40
       home: Blackheath 6
-      away: VIGO 2
+      away: Vigo 2
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-10-14 11:20
@@ -256,7 +256,7 @@ items:
       pitch: Cardiff Arms Park
     - time: 2018-10-14 11:40
       home: Medway 1
-      away: VIGO 1
+      away: Vigo 1
       group: Group E
       pitch: Cardiff Arms Park
     - time: 2018-10-14 12:20
@@ -266,18 +266,18 @@ items:
       pitch: Cardiff Arms Park
     - time: 2018-10-14 13:00
       home: Blackheath 5
-      away: VIGO 1
+      away: Vigo 1
       group: Group E
       pitch: Cardiff Arms Park
     Stadio Olimpico:
     - time: 2018-10-14 10:20
       home: Sevenoaks 2
-      away: VIGO 1
+      away: Vigo 1
       group: Group E
       pitch: Stadio Olimpico
     - time: 2018-10-14 11:00
       home: Edenbridge 2
-      away: VIGO 1
+      away: Vigo 1
       group: Group E
       pitch: Stadio Olimpico
     - time: 2018-10-14 11:40
