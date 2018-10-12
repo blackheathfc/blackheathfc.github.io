@@ -45,7 +45,7 @@ items:
       pitch: Cardiff Arms Park
     16:
       time: 2018-10-14 11:40
-      home: Cranbrook 1
+      home: Blackheath 4
       away: Sevenoaks 2
       group: Group E
       pitch: Stadio Olimpico

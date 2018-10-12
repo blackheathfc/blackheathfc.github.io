@@ -26,7 +26,7 @@ items:
   14:
     time: 2018-10-14 11:00
     home: Medway 1
-    away: Old Colfians 2
+    away: Old Colfeians 2
     group: Group C
     pitch: Twickenham
   15:

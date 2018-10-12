@@ -8,9 +8,9 @@ items:
 - Blackheath 1
 - Blackheath 2
 - Blackheath 3
+- Blackheath 4
 - Cranbrook 1
 - Cranbrook 2
-- East Grinstead
 - Edenbridge
 - Eton Manor
 - Gravesend 1
@@ -20,8 +20,8 @@ items:
 - Medway 2
 - Old Alleynians 1
 - Old Alleynians 2
-- Old Colfians 1
-- Old Colfians 2
+- Old Colfeians 1
+- Old Colfeians 2
 - Sevenoaks 1
 - Sevenoaks 2
 - Tonbridge Judds 1

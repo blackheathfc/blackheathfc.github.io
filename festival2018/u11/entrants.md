@@ -6,13 +6,12 @@ breadcrumbs:
 items:
 - Blackheath FC
 - Cranbrook RFC
-- East Grinstead RFC
 - Edenbridge RFC
 - Gravesend RFC
 - Hackney RFC
 - Medway RFC
-- Old Alleynians RFC
-- Old Colfians RFC
+- Old Alleynian FC
+- Old Colfeians RFC
 - Tonbridge Juddians RFC
 - Tunbridge Wells RFC
 - Upminster RFC

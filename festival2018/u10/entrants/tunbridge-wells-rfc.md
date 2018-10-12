@@ -8,7 +8,7 @@ items:
   Tunbridge Wells 1:
     12:
       time: 2018-10-14 10:20
-      home: Old Colfians 2
+      home: Old Colfeians 2
       away: Tunbridge Wells 1
       group: Group C
       pitch: Murrayfield

@@ -20,14 +20,14 @@ items:
       pitch: Murrayfield
     15:
       time: 2018-10-14 11:20
-      home: East Grinstead
+      home: Cranbrook 2
       away: Hackney Bulls
       group: Group B
       pitch: Murrayfield
     19:
       time: 2018-10-14 12:40
       home: Hackney Bulls
-      away: Old Colfians 1
+      away: Old Colfeians 1
       group: Group B
       pitch: Murrayfield
 ---

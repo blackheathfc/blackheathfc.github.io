@@ -6,67 +6,61 @@ breadcrumbs:
   entrants: clubs
 items:
   Medway 1:
-    1:
-      time: 2018-10-14 10:00
-      home: Cranbrook 1
-      away: Medway 1
-      group: Group A
-      pitch: Twickenham
-    3:
-      time: 2018-10-14 10:30
-      home: Gravesend 1
-      away: Medway 1
-      group: Group A
-      pitch: Lansdowne Road
-    5:
+    14:
       time: 2018-10-14 11:00
       home: Medway 1
-      away: Sevenoaks 1
+      away: Sevenoaks 2
+      group: Group E
+      pitch: Cardiff Arms Park
+    16:
+      time: 2018-10-14 11:40
+      home: Medway 1
+      away: VIGO 1
+      group: Group E
+      pitch: Cardiff Arms Park
+    18:
+      time: 2018-10-14 12:20
+      home: Blackheath 5
+      away: Medway 1
+      group: Group E
+      pitch: Cardiff Arms Park
+    20:
+      time: 2018-10-14 13:00
+      home: Edenbridge 2
+      away: Medway 1
+      group: Group E
+      pitch: Stadio Olimpico
+  Medway 2:
+    11:
+      time: 2018-10-14 10:00
+      home: Medway 2
+      away: VIGO 2
+      group: Group A
+      pitch: Twickenham
+    13:
+      time: 2018-10-14 10:40
+      home: Medway 2
+      away: Tonbridge Judds 1
       group: Group A
       pitch: Cardiff Arms Park
-    7:
-      time: 2018-10-14 11:30
-      home: Blackheath 1
-      away: Medway 1
+    15:
+      time: 2018-10-14 11:20
+      home: Blackheath 6
+      away: Medway 2
       group: Group A
-      pitch: Twickenham
-    9:
+      pitch: Cardiff Arms Park
+    17:
       time: 2018-10-14 12:00
-      home: Medway 1
-      away: Upminster 1
+      home: Blackheath 1
+      away: Medway 2
       group: Group A
       pitch: Lansdowne Road
-  Medway 2:
-    2:
-      time: 2018-10-14 10:15
-      home: Cranbrook 2
+    19:
+      time: 2018-10-14 12:40
+      home: Gravesend 1
       away: Medway 2
-      group: Group B
-      pitch: Twickenham
-    4:
-      time: 2018-10-14 10:45
-      home: Medway 2
-      away: Upminster 2
-      group: Group B
-      pitch: Twickenham
-    6:
-      time: 2018-10-14 11:15
-      home: Gravesend 2
-      away: Medway 2
-      group: Group B
-      pitch: Twickenham
-    8:
-      time: 2018-10-14 11:45
-      home: Blackheath 2
-      away: Medway 2
-      group: Group B
+      group: Group A
       pitch: Lansdowne Road
-    10:
-      time: 2018-10-14 12:15
-      home: Medway 2
-      away: Sevenoaks 2
-      group: Group B
-      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}

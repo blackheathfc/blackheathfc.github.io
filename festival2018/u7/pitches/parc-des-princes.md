@@ -5,64 +5,64 @@ breadcrumbs:
   u7: U7
   pitches: pitches
 items:
-  1:
+  11:
     time: 2018-10-14 10:00
-    home: Blackheath 3
-    away: Old Alleynians 1
-    group: Group C
+    home: Gravesend 2
+    away: Tonbridge Judds 2
+    group: Group B
     pitch: Parc des Princes
-  2:
-    time: 2018-10-14 10:15
-    home: Blackheath 4
-    away: Edenbridge 2
-    group: Group D
-    pitch: Parc des Princes
-  3:
-    time: 2018-10-14 10:30
+  12:
+    time: 2018-10-14 10:20
     home: Edenbridge 1
-    away: Hackney Bulls 1
-    group: Group C
-    pitch: Parc des Princes
-  4:
-    time: 2018-10-14 10:45
-    home: Tonbridge Judds 2
-    away: VIGO 2
+    away: Hackney Bulls 2
     group: Group D
     pitch: Parc des Princes
-  5:
+  13:
+    time: 2018-10-14 10:40
+    home: Cranbrook 1
+    away: Old Alleynians 1
+    group: Group B
+    pitch: Parc des Princes
+  14:
     time: 2018-10-14 11:00
-    home: Blackheath 3
-    away: Hackney Bulls 1
-    group: Group C
+    home: Hackney Bulls 2
+    away: Sevenoaks 1
+    group: Group D
     pitch: Parc des Princes
-  6:
-    time: 2018-10-14 11:15
+  15:
+    time: 2018-10-14 11:20
+    home: Old Alleynians 1
+    away: Tonbridge Judds 2
+    group: Group B
+    pitch: Parc des Princes
+  16:
+    time: 2018-10-14 11:40
     home: Blackheath 4
-    away: VIGO 2
+    away: Hackney Bulls 2
     group: Group D
     pitch: Parc des Princes
-  7:
-    time: 2018-10-14 11:30
-    home: Blackheath 3
-    away: VIGO 1
-    group: Group C
-    pitch: Parc des Princes
-  8:
-    time: 2018-10-14 11:45
-    home: Old Alleynians 2
-    away: VIGO 2
-    group: Group D
-    pitch: Parc des Princes
-  9:
+  17:
     time: 2018-10-14 12:00
-    home: Tonbridge Judds 1
-    away: VIGO 1
-    group: Group C
+    home: Blackheath 2
+    away: Old Alleynians 1
+    group: Group B
     pitch: Parc des Princes
-  10:
-    time: 2018-10-14 12:15
-    home: Blackheath 4
-    away: Old Alleynians 2
+  18:
+    time: 2018-10-14 12:20
+    home: Hackney Bulls 2
+    away: Upminster 2
+    group: Group D
+    pitch: Parc des Princes
+  19:
+    time: 2018-10-14 12:40
+    home: Blackheath 2
+    away: Tonbridge Judds 2
+    group: Group B
+    pitch: Parc des Princes
+  20:
+    time: 2018-10-14 13:00
+    home: Sevenoaks 1
+    away: Upminster 2
     group: Group D
     pitch: Parc des Princes
 ---

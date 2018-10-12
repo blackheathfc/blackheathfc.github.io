@@ -15,7 +15,7 @@ items:
 - Sevenoaks RFC
 - Tonbridge Juddians RFC
 - Tunbridge Wells RFC
-- VIGO RFC
+- Vigo RFC
 ---
 
 {% include entrant_list.html %}

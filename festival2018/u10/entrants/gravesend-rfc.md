@@ -8,7 +8,7 @@ items:
   Gravesend 1:
     12:
       time: 2018-10-14 10:20
-      home: Cranbrook 1
+      home: Blackheath 4
       away: Gravesend 1
       group: Group E
       pitch: Cardiff Arms Park
@@ -33,7 +33,7 @@ items:
   Gravesend 2:
     11:
       time: 2018-10-14 10:00
-      home: Cranbrook 2
+      home: Cranbrook 1
       away: Gravesend 2
       group: Group A
       pitch: Lansdowne Road

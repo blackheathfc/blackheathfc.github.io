@@ -9,58 +9,52 @@ items:
     12:
       time: 2018-10-14 10:25
       home: Medway 1
-      away: Tunbridge Wells 1
-      group: Group D
-      pitch: Parc des Princes
+      away: Old Colfeians 1
+      group: Group B
+      pitch: Twickenham
     14:
       time: 2018-10-14 11:15
-      home: Medway 1
-      away: Old Colfians 1
-      group: Group D
-      pitch: Parc des Princes
-    16:
-      time: 2018-10-14 12:05
-      home: Cranbrook 1
+      home: Blackheath 2
       away: Medway 1
-      group: Group D
-      pitch: Murrayfield
-    20:
-      time: 2018-10-14 13:45
+      group: Group B
+      pitch: Twickenham
+    18:
+      time: 2018-10-14 12:55
       home: Edenbridge
       away: Medway 1
-      group: Group D
-      pitch: Parc des Princes
+      group: Group B
+      pitch: Lansdowne Road
+    20:
+      time: 2018-10-14 13:45
+      home: Medway 1
+      away: Tunbridge Wells 1
+      group: Group B
+      pitch: Lansdowne Road
   Medway 2:
-    1:
+    11:
       time: 2018-10-14 10:00
+      home: Blackheath 3
+      away: Medway 2
+      group: Group C
+      pitch: Murrayfield
+    13:
+      time: 2018-10-14 10:50
       home: Gravesend
       away: Medway 2
-      group: Group A
-      pitch: Lansdowne Road
-    3:
-      time: 2018-10-14 10:40
+      group: Group C
+      pitch: Murrayfield
+    17:
+      time: 2018-10-14 12:30
+      home: Medway 2
+      away: Old Colfeians 2
+      group: Group C
+      pitch: Cardiff Arms Park
+    19:
+      time: 2018-10-14 13:20
       home: Medway 2
       away: Tunbridge Wells 2
-      group: Group A
+      group: Group C
       pitch: Cardiff Arms Park
-    5:
-      time: 2018-10-14 11:20
-      home: Medway 2
-      away: Old Colfians 2
-      group: Group A
-      pitch: Lansdowne Road
-    7:
-      time: 2018-10-14 12:00
-      home: Blackheath 1
-      away: Medway 2
-      group: Group A
-      pitch: Lansdowne Road
-    9:
-      time: 2018-10-14 12:40
-      home: Cranbrook 2
-      away: Medway 2
-      group: Group A
-      pitch: Lansdowne Road
 ---
 
 {% include schedule_entrant.html %}

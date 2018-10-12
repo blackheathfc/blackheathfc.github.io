@@ -26,7 +26,7 @@ items:
       pitch: Lansdowne Road
     17:
       time: 2018-10-14 12:00
-      home: Cranbrook 2
+      home: Cranbrook 1
       away: Tonbridge Judds 1
       group: Group A
       pitch: Cardiff Arms Park
@@ -45,13 +45,13 @@ items:
       pitch: Parc des Princes
     15:
       time: 2018-10-14 11:20
-      home: Old Colfians 1
+      home: Old Colfeians 1
       away: Tonbridge Judds 2
       group: Group B
       pitch: Parc des Princes
     17:
       time: 2018-10-14 12:00
-      home: East Grinstead
+      home: Cranbrook 2
       away: Tonbridge Judds 2
       group: Group B
       pitch: Murrayfield

@@ -19,8 +19,8 @@ items:
     pitch: Parc des Princes
   13:
     time: 2018-10-14 10:40
-    home: East Grinstead
-    away: Old Colfians 1
+    home: Cranbrook 2
+    away: Old Colfeians 1
     group: Group B
     pitch: Parc des Princes
   14:
@@ -31,7 +31,7 @@ items:
     pitch: Parc des Princes
   15:
     time: 2018-10-14 11:20
-    home: Old Colfians 1
+    home: Old Colfeians 1
     away: Tonbridge Judds 2
     group: Group B
     pitch: Parc des Princes
@@ -44,7 +44,7 @@ items:
   17:
     time: 2018-10-14 12:00
     home: Blackheath 1
-    away: Old Colfians 1
+    away: Old Colfeians 1
     group: Group B
     pitch: Parc des Princes
   18:

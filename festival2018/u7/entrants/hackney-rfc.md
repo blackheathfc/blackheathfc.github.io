@@ -6,67 +6,55 @@ breadcrumbs:
   entrants: clubs
 items:
   Hackney Bulls 1:
-    1:
-      time: 2018-10-14 10:00
-      home: Hackney Bulls 1
-      away: VIGO 1
-      group: Group C
-      pitch: Stadio Olimpico
-    3:
-      time: 2018-10-14 10:30
-      home: Edenbridge 1
+    12:
+      time: 2018-10-14 10:20
+      home: Cranbrook 2
       away: Hackney Bulls 1
       group: Group C
-      pitch: Parc des Princes
-    5:
+      pitch: Twickenham
+    14:
       time: 2018-10-14 11:00
+      home: Hackney Bulls 1
+      away: Old Alleynians 2
+      group: Group C
+      pitch: Twickenham
+    16:
+      time: 2018-10-14 11:40
       home: Blackheath 3
       away: Hackney Bulls 1
       group: Group C
-      pitch: Parc des Princes
-    7:
-      time: 2018-10-14 11:30
+      pitch: Twickenham
+    18:
+      time: 2018-10-14 12:20
       home: Hackney Bulls 1
-      away: Tonbridge Judds 1
+      away: Upminster 1
       group: Group C
-      pitch: Stadio Olimpico
-    9:
-      time: 2018-10-14 12:00
-      home: Hackney Bulls 1
-      away: Old Alleynians 1
-      group: Group C
-      pitch: Stadio Olimpico
+      pitch: Twickenham
   Hackney Bulls 2:
-    2:
-      time: 2018-10-14 10:15
-      home: Hackney Bulls 2
-      away: VIGO 2
+    12:
+      time: 2018-10-14 10:20
+      home: Edenbridge 1
+      away: Hackney Bulls 2
       group: Group D
-      pitch: Murrayfield
-    4:
-      time: 2018-10-14 10:45
+      pitch: Parc des Princes
+    14:
+      time: 2018-10-14 11:00
+      home: Hackney Bulls 2
+      away: Sevenoaks 1
+      group: Group D
+      pitch: Parc des Princes
+    16:
+      time: 2018-10-14 11:40
       home: Blackheath 4
       away: Hackney Bulls 2
       group: Group D
-      pitch: Murrayfield
-    6:
-      time: 2018-10-14 11:15
+      pitch: Parc des Princes
+    18:
+      time: 2018-10-14 12:20
       home: Hackney Bulls 2
-      away: Old Alleynians 2
+      away: Upminster 2
       group: Group D
-      pitch: Murrayfield
-    8:
-      time: 2018-10-14 11:45
-      home: Edenbridge 2
-      away: Hackney Bulls 2
-      group: Group D
-      pitch: Stadio Olimpico
-    10:
-      time: 2018-10-14 12:15
-      home: Hackney Bulls 2
-      away: Tonbridge Judds 2
-      group: Group D
-      pitch: Murrayfield
+      pitch: Parc des Princes
 ---
 
 {% include schedule_entrant.html %}

@@ -1,5 +1,5 @@
 ---
-title: U10 - VIGO RFC
+title: U10 - Vigo RFC
 style: entrant_schedule
 breadcrumbs:
   u10: U10
@@ -14,7 +14,7 @@ items:
       pitch: Twickenham
     13:
       time: 2018-10-14 10:40
-      home: Cranbrook 2
+      home: Cranbrook 1
       away: VIGO
       group: Group A
       pitch: Lansdowne Road

@@ -1,5 +1,5 @@
 ---
-title: U9 - VIGO RFC
+title: U9 - Vigo RFC
 style: entrant_schedule
 breadcrumbs:
   u9: U9

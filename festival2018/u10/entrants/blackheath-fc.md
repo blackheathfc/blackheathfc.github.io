@@ -9,7 +9,7 @@ items:
     11:
       time: 2018-10-14 10:00
       home: Blackheath 1
-      away: East Grinstead
+      away: Cranbrook 2
       group: Group B
       pitch: Murrayfield
     13:
@@ -21,7 +21,7 @@ items:
     17:
       time: 2018-10-14 12:00
       home: Blackheath 1
-      away: Old Colfians 1
+      away: Old Colfeians 1
       group: Group B
       pitch: Parc des Princes
     19:
@@ -46,7 +46,7 @@ items:
     18:
       time: 2018-10-14 12:20
       home: Blackheath 2
-      away: Old Colfians 2
+      away: Old Colfeians 2
       group: Group C
       pitch: Murrayfield
     20:
@@ -80,6 +80,31 @@ items:
       away: Eton Manor
       group: Group D
       pitch: Lansdowne Road
+  Blackheath 4:
+    12:
+      time: 2018-10-14 10:20
+      home: Blackheath 4
+      away: Gravesend 1
+      group: Group E
+      pitch: Cardiff Arms Park
+    16:
+      time: 2018-10-14 11:40
+      home: Blackheath 4
+      away: Sevenoaks 2
+      group: Group E
+      pitch: Stadio Olimpico
+    18:
+      time: 2018-10-14 12:20
+      home: Blackheath 4
+      away: Old Alleynians 1
+      group: Group E
+      pitch: Cardiff Arms Park
+    20:
+      time: 2018-10-14 13:00
+      home: Blackheath 4
+      away: Upminster
+      group: Group E
+      pitch: Cardiff Arms Park
 ---
 
 {% include schedule_entrant.html %}

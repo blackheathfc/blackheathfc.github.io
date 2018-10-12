@@ -10,11 +10,11 @@ items:
 - Gravesend RFC
 - Hackney RFC
 - Medway RFC
-- Old Alleynians RFC
+- Old Alleynian FC
 - Sevenoaks RFC
 - Tonbridge Juddians RFC
 - Upminster RFC
-- VIGO RFC
+- Vigo RFC
 ---
 
 {% include entrant_list.html %}

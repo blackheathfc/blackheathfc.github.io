@@ -1,5 +1,5 @@
 ---
-title: U10 - Old Alleynians RFC
+title: U10 - Old Alleynian FC
 style: entrant_schedule
 breadcrumbs:
   u10: U10
@@ -20,7 +20,7 @@ items:
       pitch: Cardiff Arms Park
     18:
       time: 2018-10-14 12:20
-      home: Cranbrook 1
+      home: Blackheath 4
       away: Old Alleynians 1
       group: Group E
       pitch: Cardiff Arms Park
@@ -45,7 +45,7 @@ items:
       pitch: Cardiff Arms Park
     15:
       time: 2018-10-14 11:20
-      home: Cranbrook 2
+      home: Cranbrook 1
       away: Old Alleynians 2
       group: Group A
       pitch: Cardiff Arms Park

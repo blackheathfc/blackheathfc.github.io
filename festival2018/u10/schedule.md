@@ -33,12 +33,12 @@ items:
       pitch: Twickenham
     Lansdowne Road:
     - time: 2018-10-14 10:00
-      home: Cranbrook 2
+      home: Cranbrook 1
       away: Gravesend 2
       group: Group A
       pitch: Lansdowne Road
     - time: 2018-10-14 10:40
-      home: Cranbrook 2
+      home: Cranbrook 1
       away: VIGO
       group: Group A
       pitch: Lansdowne Road
@@ -69,25 +69,25 @@ items:
       group: Group A
       pitch: Cardiff Arms Park
     - time: 2018-10-14 11:20
-      home: Cranbrook 2
+      home: Cranbrook 1
       away: Old Alleynians 2
       group: Group A
       pitch: Cardiff Arms Park
     - time: 2018-10-14 12:00
-      home: Cranbrook 2
+      home: Cranbrook 1
       away: Tonbridge Judds 1
       group: Group A
       pitch: Cardiff Arms Park
     - time: 2018-10-14 12:40
       home: Barking
-      away: Cranbrook 2
+      away: Cranbrook 1
       group: Group A
       pitch: Cardiff Arms Park
   Group B:
     Murrayfield:
     - time: 2018-10-14 10:00
       home: Blackheath 1
-      away: East Grinstead
+      away: Cranbrook 2
       group: Group B
       pitch: Murrayfield
     - time: 2018-10-14 10:40
@@ -96,18 +96,18 @@ items:
       group: Group B
       pitch: Murrayfield
     - time: 2018-10-14 11:20
-      home: East Grinstead
+      home: Cranbrook 2
       away: Hackney Bulls
       group: Group B
       pitch: Murrayfield
     - time: 2018-10-14 12:00
-      home: East Grinstead
+      home: Cranbrook 2
       away: Tonbridge Judds 2
       group: Group B
       pitch: Murrayfield
     - time: 2018-10-14 12:40
       home: Hackney Bulls
-      away: Old Colfians 1
+      away: Old Colfeians 1
       group: Group B
       pitch: Murrayfield
     Parc des Princes:
@@ -117,18 +117,18 @@ items:
       group: Group B
       pitch: Parc des Princes
     - time: 2018-10-14 10:40
-      home: East Grinstead
-      away: Old Colfians 1
+      home: Cranbrook 2
+      away: Old Colfeians 1
       group: Group B
       pitch: Parc des Princes
     - time: 2018-10-14 11:20
-      home: Old Colfians 1
+      home: Old Colfeians 1
       away: Tonbridge Judds 2
       group: Group B
       pitch: Parc des Princes
     - time: 2018-10-14 12:00
       home: Blackheath 1
-      away: Old Colfians 1
+      away: Old Colfeians 1
       group: Group B
       pitch: Parc des Princes
     - time: 2018-10-14 12:40
@@ -145,7 +145,7 @@ items:
       pitch: Twickenham
     - time: 2018-10-14 11:00
       home: Medway 1
-      away: Old Colfians 2
+      away: Old Colfeians 2
       group: Group C
       pitch: Twickenham
     - time: 2018-10-14 11:40
@@ -165,7 +165,7 @@ items:
       pitch: Twickenham
     Murrayfield:
     - time: 2018-10-14 10:20
-      home: Old Colfians 2
+      home: Old Colfeians 2
       away: Tunbridge Wells 1
       group: Group C
       pitch: Murrayfield
@@ -181,12 +181,12 @@ items:
       pitch: Murrayfield
     - time: 2018-10-14 12:20
       home: Blackheath 2
-      away: Old Colfians 2
+      away: Old Colfeians 2
       group: Group C
       pitch: Murrayfield
     - time: 2018-10-14 13:00
       home: Edenbridge
-      away: Old Colfians 2
+      away: Old Colfeians 2
       group: Group C
       pitch: Murrayfield
   Group D:
@@ -245,7 +245,7 @@ items:
   Group E:
     Cardiff Arms Park:
     - time: 2018-10-14 10:20
-      home: Cranbrook 1
+      home: Blackheath 4
       away: Gravesend 1
       group: Group E
       pitch: Cardiff Arms Park
@@ -260,12 +260,12 @@ items:
       group: Group E
       pitch: Cardiff Arms Park
     - time: 2018-10-14 12:20
-      home: Cranbrook 1
+      home: Blackheath 4
       away: Old Alleynians 1
       group: Group E
       pitch: Cardiff Arms Park
     - time: 2018-10-14 13:00
-      home: Cranbrook 1
+      home: Blackheath 4
       away: Upminster
       group: Group E
       pitch: Cardiff Arms Park
@@ -281,7 +281,7 @@ items:
       group: Group E
       pitch: Stadio Olimpico
     - time: 2018-10-14 11:40
-      home: Cranbrook 1
+      home: Blackheath 4
       away: Sevenoaks 2
       group: Group E
       pitch: Stadio Olimpico

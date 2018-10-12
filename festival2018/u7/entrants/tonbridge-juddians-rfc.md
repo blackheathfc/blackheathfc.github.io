@@ -6,67 +6,61 @@ breadcrumbs:
   entrants: clubs
 items:
   Tonbridge Judds 1:
-    1:
+    11:
       time: 2018-10-14 10:00
-      home: Edenbridge 1
+      home: Blackheath 1
       away: Tonbridge Judds 1
-      group: Group C
-      pitch: Murrayfield
-    3:
-      time: 2018-10-14 10:30
-      home: Blackheath 3
+      group: Group A
+      pitch: Cardiff Arms Park
+    13:
+      time: 2018-10-14 10:40
+      home: Medway 2
       away: Tonbridge Judds 1
-      group: Group C
-      pitch: Murrayfield
-    5:
-      time: 2018-10-14 11:00
-      home: Old Alleynians 1
+      group: Group A
+      pitch: Cardiff Arms Park
+    15:
+      time: 2018-10-14 11:20
+      home: Gravesend 1
       away: Tonbridge Judds 1
-      group: Group C
-      pitch: Murrayfield
-    7:
-      time: 2018-10-14 11:30
-      home: Hackney Bulls 1
-      away: Tonbridge Judds 1
-      group: Group C
-      pitch: Stadio Olimpico
-    9:
+      group: Group A
+      pitch: Lansdowne Road
+    17:
       time: 2018-10-14 12:00
+      home: Blackheath 6
+      away: Tonbridge Judds 1
+      group: Group A
+      pitch: Cardiff Arms Park
+    19:
+      time: 2018-10-14 12:40
       home: Tonbridge Judds 1
-      away: VIGO 1
-      group: Group C
-      pitch: Parc des Princes
-  Tonbridge Judds 2:
-    2:
-      time: 2018-10-14 10:15
-      home: Old Alleynians 2
-      away: Tonbridge Judds 2
-      group: Group D
-      pitch: Stadio Olimpico
-    4:
-      time: 2018-10-14 10:45
-      home: Tonbridge Judds 2
       away: VIGO 2
-      group: Group D
+      group: Group A
+      pitch: Twickenham
+  Tonbridge Judds 2:
+    11:
+      time: 2018-10-14 10:00
+      home: Gravesend 2
+      away: Tonbridge Judds 2
+      group: Group B
       pitch: Parc des Princes
-    6:
-      time: 2018-10-14 11:15
-      home: Edenbridge 2
+    15:
+      time: 2018-10-14 11:20
+      home: Old Alleynians 1
       away: Tonbridge Judds 2
-      group: Group D
-      pitch: Stadio Olimpico
-    8:
-      time: 2018-10-14 11:45
-      home: Blackheath 4
+      group: Group B
+      pitch: Parc des Princes
+    17:
+      time: 2018-10-14 12:00
+      home: Cranbrook 1
       away: Tonbridge Judds 2
-      group: Group D
+      group: Group B
       pitch: Murrayfield
-    10:
-      time: 2018-10-14 12:15
-      home: Hackney Bulls 2
+    19:
+      time: 2018-10-14 12:40
+      home: Blackheath 2
       away: Tonbridge Judds 2
-      group: Group D
-      pitch: Murrayfield
+      group: Group B
+      pitch: Parc des Princes
 ---
 
 {% include schedule_entrant.html %}

@@ -8,6 +8,8 @@ items:
 - Blackheath 2
 - Blackheath 3
 - Blackheath 4
+- Blackheath 5
+- Blackheath 6
 - Cranbrook 1
 - Cranbrook 2
 - Edenbridge 1

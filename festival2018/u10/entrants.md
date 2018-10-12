@@ -7,19 +7,18 @@ items:
 - Barking RFC
 - Blackheath FC
 - Cranbrook RFC
-- East Grinstead RFC
 - Edenbridge RFC
 - Eton Manor RFC
 - Gravesend RFC
 - Hackney RFC
 - Medway RFC
-- Old Alleynians RFC
-- Old Colfians RFC
+- Old Alleynian FC
+- Old Colfeians RFC
 - Sevenoaks RFC
 - Tonbridge Juddians RFC
 - Tunbridge Wells RFC
 - Upminster RFC
-- VIGO RFC
+- Vigo RFC
 ---
 
 {% include entrant_list.html %}

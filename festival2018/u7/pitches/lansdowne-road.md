@@ -5,65 +5,65 @@ breadcrumbs:
   u7: U7
   pitches: pitches
 items:
-  1:
+  11:
     time: 2018-10-14 10:00
-    home: Sevenoaks 1
-    away: Upminster 1
+    home: Blackheath 6
+    away: Gravesend 1
     group: Group A
     pitch: Lansdowne Road
-  2:
-    time: 2018-10-14 10:15
-    home: Gravesend 2
-    away: Upminster 2
-    group: Group B
-    pitch: Lansdowne Road
-  3:
-    time: 2018-10-14 10:30
-    home: Gravesend 1
-    away: Medway 1
-    group: Group A
-    pitch: Lansdowne Road
-  4:
-    time: 2018-10-14 10:45
-    home: Blackheath 2
-    away: Cranbrook 2
-    group: Group B
-    pitch: Lansdowne Road
-  5:
-    time: 2018-10-14 11:00
-    home: Gravesend 1
-    away: Upminster 1
-    group: Group A
-    pitch: Lansdowne Road
-  6:
-    time: 2018-10-14 11:15
-    home: Cranbrook 2
-    away: Sevenoaks 2
-    group: Group B
-    pitch: Lansdowne Road
-  7:
-    time: 2018-10-14 11:30
-    home: Gravesend 1
+  12:
+    time: 2018-10-14 10:20
+    home: Blackheath 4
     away: Sevenoaks 1
+    group: Group D
+    pitch: Lansdowne Road
+  13:
+    time: 2018-10-14 10:40
+    home: Blackheath 6
+    away: VIGO 2
     group: Group A
     pitch: Lansdowne Road
-  8:
-    time: 2018-10-14 11:45
-    home: Blackheath 2
-    away: Medway 2
-    group: Group B
-    pitch: Lansdowne Road
-  9:
-    time: 2018-10-14 12:00
-    home: Medway 1
-    away: Upminster 1
-    group: Group A
-    pitch: Lansdowne Road
-  10:
-    time: 2018-10-14 12:15
-    home: Cranbrook 2
+  14:
+    time: 2018-10-14 11:00
+    home: Blackheath 4
     away: Upminster 2
-    group: Group B
+    group: Group D
+    pitch: Lansdowne Road
+  15:
+    time: 2018-10-14 11:20
+    home: Gravesend 1
+    away: Tonbridge Judds 1
+    group: Group A
+    pitch: Lansdowne Road
+  16:
+    time: 2018-10-14 11:40
+    home: Edenbridge 1
+    away: Upminster 2
+    group: Group D
+    pitch: Lansdowne Road
+  17:
+    time: 2018-10-14 12:00
+    home: Blackheath 1
+    away: Medway 2
+    group: Group A
+    pitch: Lansdowne Road
+  18:
+    time: 2018-10-14 12:20
+    home: Edenbridge 1
+    away: Sevenoaks 1
+    group: Group D
+    pitch: Lansdowne Road
+  19:
+    time: 2018-10-14 12:40
+    home: Gravesend 1
+    away: Medway 2
+    group: Group A
+    pitch: Lansdowne Road
+  20:
+    time: 2018-10-14 13:00
+    home: Blackheath 4
+    away: Edenbridge 1
+    group: Group D
     pitch: Lansdowne Road
 ---
 

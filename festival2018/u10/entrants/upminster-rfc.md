@@ -26,7 +26,7 @@ items:
       pitch: Cardiff Arms Park
     20:
       time: 2018-10-14 13:00
-      home: Cranbrook 1
+      home: Blackheath 4
       away: Upminster
       group: Group E
       pitch: Cardiff Arms Park

@@ -7,7 +7,7 @@ breadcrumbs:
 items:
   11:
     time: 2018-10-14 10:00
-    home: Cranbrook 2
+    home: Cranbrook 1
     away: Gravesend 2
     group: Group A
     pitch: Lansdowne Road
@@ -19,7 +19,7 @@ items:
     pitch: Lansdowne Road
   13:
     time: 2018-10-14 10:40
-    home: Cranbrook 2
+    home: Cranbrook 1
     away: VIGO
     group: Group A
     pitch: Lansdowne Road

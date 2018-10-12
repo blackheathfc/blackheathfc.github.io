@@ -27,7 +27,7 @@ items:
     20:
       time: 2018-10-14 13:00
       home: Edenbridge
-      away: Old Colfians 2
+      away: Old Colfeians 2
       group: Group C
       pitch: Murrayfield
 ---

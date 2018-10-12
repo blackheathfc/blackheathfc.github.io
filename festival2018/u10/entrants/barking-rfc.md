@@ -33,7 +33,7 @@ items:
     19:
       time: 2018-10-14 12:40
       home: Barking
-      away: Cranbrook 2
+      away: Cranbrook 1
       group: Group A
       pitch: Cardiff Arms Park
 ---

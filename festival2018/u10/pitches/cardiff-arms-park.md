@@ -13,7 +13,7 @@ items:
     pitch: Cardiff Arms Park
   12:
     time: 2018-10-14 10:20
-    home: Cranbrook 1
+    home: Blackheath 4
     away: Gravesend 1
     group: Group E
     pitch: Cardiff Arms Park
@@ -31,7 +31,7 @@ items:
     pitch: Cardiff Arms Park
   15:
     time: 2018-10-14 11:20
-    home: Cranbrook 2
+    home: Cranbrook 1
     away: Old Alleynians 2
     group: Group A
     pitch: Cardiff Arms Park
@@ -43,25 +43,25 @@ items:
     pitch: Cardiff Arms Park
   17:
     time: 2018-10-14 12:00
-    home: Cranbrook 2
+    home: Cranbrook 1
     away: Tonbridge Judds 1
     group: Group A
     pitch: Cardiff Arms Park
   18:
     time: 2018-10-14 12:20
-    home: Cranbrook 1
+    home: Blackheath 4
     away: Old Alleynians 1
     group: Group E
     pitch: Cardiff Arms Park
   19:
     time: 2018-10-14 12:40
     home: Barking
-    away: Cranbrook 2
+    away: Cranbrook 1
     group: Group A
     pitch: Cardiff Arms Park
   20:
     time: 2018-10-14 13:00
-    home: Cranbrook 1
+    home: Blackheath 4
     away: Upminster
     group: Group E
     pitch: Cardiff Arms Park

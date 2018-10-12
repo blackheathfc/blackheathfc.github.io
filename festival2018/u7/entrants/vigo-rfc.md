@@ -1,72 +1,66 @@
 ---
-title: U7 - VIGO RFC
+title: U7 - Vigo RFC
 style: entrant_schedule
 breadcrumbs:
   u7: U7
   entrants: clubs
 items:
   VIGO 1:
-    1:
-      time: 2018-10-14 10:00
-      home: Hackney Bulls 1
+    12:
+      time: 2018-10-14 10:20
+      home: Sevenoaks 2
       away: VIGO 1
-      group: Group C
+      group: Group E
       pitch: Stadio Olimpico
-    3:
-      time: 2018-10-14 10:30
-      home: Old Alleynians 1
-      away: VIGO 1
-      group: Group C
-      pitch: Stadio Olimpico
-    5:
+    14:
       time: 2018-10-14 11:00
-      home: Edenbridge 1
-      away: VIGO 1
-      group: Group C
-      pitch: Stadio Olimpico
-    7:
-      time: 2018-10-14 11:30
-      home: Blackheath 3
-      away: VIGO 1
-      group: Group C
-      pitch: Parc des Princes
-    9:
-      time: 2018-10-14 12:00
-      home: Tonbridge Judds 1
-      away: VIGO 1
-      group: Group C
-      pitch: Parc des Princes
-  VIGO 2:
-    2:
-      time: 2018-10-14 10:15
-      home: Hackney Bulls 2
-      away: VIGO 2
-      group: Group D
-      pitch: Murrayfield
-    4:
-      time: 2018-10-14 10:45
-      home: Tonbridge Judds 2
-      away: VIGO 2
-      group: Group D
-      pitch: Parc des Princes
-    6:
-      time: 2018-10-14 11:15
-      home: Blackheath 4
-      away: VIGO 2
-      group: Group D
-      pitch: Parc des Princes
-    8:
-      time: 2018-10-14 11:45
-      home: Old Alleynians 2
-      away: VIGO 2
-      group: Group D
-      pitch: Parc des Princes
-    10:
-      time: 2018-10-14 12:15
       home: Edenbridge 2
-      away: VIGO 2
-      group: Group D
+      away: VIGO 1
+      group: Group E
       pitch: Stadio Olimpico
+    16:
+      time: 2018-10-14 11:40
+      home: Medway 1
+      away: VIGO 1
+      group: Group E
+      pitch: Cardiff Arms Park
+    20:
+      time: 2018-10-14 13:00
+      home: Blackheath 5
+      away: VIGO 1
+      group: Group E
+      pitch: Cardiff Arms Park
+  VIGO 2:
+    11:
+      time: 2018-10-14 10:00
+      home: Medway 2
+      away: VIGO 2
+      group: Group A
+      pitch: Twickenham
+    13:
+      time: 2018-10-14 10:40
+      home: Blackheath 6
+      away: VIGO 2
+      group: Group A
+      pitch: Lansdowne Road
+    15:
+      time: 2018-10-14 11:20
+      home: Blackheath 1
+      away: VIGO 2
+      group: Group A
+      pitch: Twickenham
+    17:
+      time: 2018-10-14 12:00
+      home: Gravesend 1
+      away: VIGO 2
+      group: Group A
+      pitch: Twickenham
+    19:
+      time: 2018-10-14 12:40
+      home: Tonbridge Judds 1
+      away: VIGO 2
+      group: Group A
+      pitch: Twickenham
 ---
 
 {% include schedule_entrant.html %}
