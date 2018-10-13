@@ -1,70 +1,70 @@
 ---
-title: U7 - Parc des Princes
+title: U10 - Sixways
 style: pitch_schedule
 breadcrumbs:
-  u7: U7
+  u10: U10
   pitches: pitches
 items:
   11:
     time: 2018-10-14 10:00
-    home: Gravesend 2
+    home: Hackney Bulls
     away: Tonbridge Judds 2
     group: Group B
-    pitch: Parc des Princes
+    pitch: Sixways
   12:
     time: 2018-10-14 10:20
-    home: Edenbridge 1
-    away: Hackney Bulls 2
+    home: Eton Manor
+    away: Medway 2
     group: Group D
-    pitch: Parc des Princes
+    pitch: Sixways
   13:
     time: 2018-10-14 10:40
-    home: Cranbrook 1
-    away: Old Alleynians 1
+    home: Cranbrook 2
+    away: Old Colfeians 1
     group: Group B
-    pitch: Parc des Princes
+    pitch: Sixways
   14:
     time: 2018-10-14 11:00
-    home: Hackney Bulls 2
+    home: Medway 2
     away: Sevenoaks 1
     group: Group D
-    pitch: Parc des Princes
+    pitch: Sixways
   15:
     time: 2018-10-14 11:20
-    home: Old Alleynians 1
+    home: Old Colfeians 1
     away: Tonbridge Judds 2
     group: Group B
-    pitch: Parc des Princes
+    pitch: Sixways
   16:
     time: 2018-10-14 11:40
-    home: Blackheath 4
-    away: Hackney Bulls 2
+    home: Blackheath 3
+    away: Medway 2
     group: Group D
-    pitch: Parc des Princes
+    pitch: Sixways
   17:
     time: 2018-10-14 12:00
-    home: Blackheath 2
-    away: Old Alleynians 1
+    home: Blackheath 1
+    away: Old Colfeians 1
     group: Group B
-    pitch: Parc des Princes
+    pitch: Sixways
   18:
     time: 2018-10-14 12:20
-    home: Hackney Bulls 2
-    away: Upminster 2
+    home: Medway 2
+    away: Tunbridge Wells 2
     group: Group D
-    pitch: Parc des Princes
+    pitch: Sixways
   19:
     time: 2018-10-14 12:40
-    home: Blackheath 2
+    home: Blackheath 1
     away: Tonbridge Judds 2
     group: Group B
-    pitch: Parc des Princes
+    pitch: Sixways
   20:
     time: 2018-10-14 13:00
     home: Sevenoaks 1
-    away: Upminster 2
+    away: Tunbridge Wells 2
     group: Group D
-    pitch: Parc des Princes
+    pitch: Sixways
 ---
 
 {% include schedule_pitch.html %}

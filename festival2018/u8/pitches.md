@@ -4,11 +4,11 @@ style: pitch_list
 breadcrumbs:
   u8: U8
 items:
-- Twickenham
-- Lansdowne Road
-- Cardiff Arms Park
-- Murrayfield
-- Parc des Princes
+- Allianz
+- Carisbrook
+- Franklin's Gardens
+- Kingston Park
+- The Rec
 ---
 
 {% include pitch_list.html %}

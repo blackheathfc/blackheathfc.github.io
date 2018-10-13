@@ -11,56 +11,56 @@ items:
       home: Barking
       away: Tonbridge Judds 1
       group: Group A
-      pitch: Cardiff Arms Park
+      pitch: Murrayfield
     13:
       time: 2018-10-14 10:40
       home: Old Alleynians 2
       away: Tonbridge Judds 1
       group: Group A
-      pitch: Cardiff Arms Park
+      pitch: Murrayfield
     15:
       time: 2018-10-14 11:20
       home: Gravesend 2
       away: Tonbridge Judds 1
       group: Group A
-      pitch: Lansdowne Road
+      pitch: Millenium Stadium
     17:
       time: 2018-10-14 12:00
       home: Cranbrook 1
       away: Tonbridge Judds 1
       group: Group A
-      pitch: Cardiff Arms Park
+      pitch: Murrayfield
     19:
       time: 2018-10-14 12:40
       home: Tonbridge Judds 1
       away: Vigo
       group: Group A
-      pitch: Twickenham
+      pitch: Ellis Park
   Tonbridge Judds 2:
     11:
       time: 2018-10-14 10:00
       home: Hackney Bulls
       away: Tonbridge Judds 2
       group: Group B
-      pitch: Parc des Princes
+      pitch: Sixways
     15:
       time: 2018-10-14 11:20
       home: Old Colfeians 1
       away: Tonbridge Judds 2
       group: Group B
-      pitch: Parc des Princes
+      pitch: Sixways
     17:
       time: 2018-10-14 12:00
       home: Cranbrook 2
       away: Tonbridge Judds 2
       group: Group B
-      pitch: Murrayfield
+      pitch: Sandy Park
     19:
       time: 2018-10-14 12:40
       home: Blackheath 1
       away: Tonbridge Judds 2
       group: Group B
-      pitch: Parc des Princes
+      pitch: Sixways
 ---
 
 {% include schedule_entrant.html %}

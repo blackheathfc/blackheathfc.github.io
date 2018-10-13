@@ -23,7 +23,7 @@ items:
       home: Gravesend 1
       away: Tonbridge Judds 1
       group: Group A
-      pitch: Lansdowne Road
+      pitch: Aviva
     17:
       time: 2018-10-14 12:00
       home: Blackheath 6
@@ -35,32 +35,32 @@ items:
       home: Tonbridge Judds 1
       away: Vigo 2
       group: Group A
-      pitch: Twickenham
+      pitch: Allianz
   Tonbridge Judds 2:
     11:
       time: 2018-10-14 10:00
       home: Gravesend 2
       away: Tonbridge Judds 2
       group: Group B
-      pitch: Parc des Princes
+      pitch: Franklin's Gardens
     15:
       time: 2018-10-14 11:20
       home: Old Alleynians 1
       away: Tonbridge Judds 2
       group: Group B
-      pitch: Parc des Princes
+      pitch: Franklin's Gardens
     17:
       time: 2018-10-14 12:00
       home: Cranbrook 1
       away: Tonbridge Judds 2
       group: Group B
-      pitch: Murrayfield
+      pitch: Carisbrook
     19:
       time: 2018-10-14 12:40
       home: Blackheath 2
       away: Tonbridge Judds 2
       group: Group B
-      pitch: Parc des Princes
+      pitch: Franklin's Gardens
 ---
 
 {% include schedule_entrant.html %}

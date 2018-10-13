@@ -11,25 +11,25 @@ items:
       home: Edenbridge
       away: Medway 1
       group: Group C
-      pitch: Twickenham
+      pitch: Ellis Park
     14:
       time: 2018-10-14 11:00
       home: Blackheath 2
       away: Edenbridge
       group: Group C
-      pitch: Murrayfield
+      pitch: Sandy Park
     16:
       time: 2018-10-14 11:40
       home: Edenbridge
       away: Tunbridge Wells 1
       group: Group C
-      pitch: Murrayfield
+      pitch: Sandy Park
     20:
       time: 2018-10-14 13:00
       home: Edenbridge
       away: Old Colfeians 2
       group: Group C
-      pitch: Murrayfield
+      pitch: Sandy Park
 ---
 
 {% include schedule_entrant.html %}

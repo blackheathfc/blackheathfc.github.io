@@ -29,14 +29,14 @@ items:
       home: Edenbridge 2
       away: Medway 1
       group: Group E
-      pitch: Stadio Olimpico
+      pitch: Kingston Park
   Medway 2:
     11:
       time: 2018-10-14 10:00
       home: Medway 2
       away: Vigo 2
       group: Group A
-      pitch: Twickenham
+      pitch: Allianz
     13:
       time: 2018-10-14 10:40
       home: Medway 2
@@ -54,13 +54,13 @@ items:
       home: Blackheath 1
       away: Medway 2
       group: Group A
-      pitch: Lansdowne Road
+      pitch: Aviva
     19:
       time: 2018-10-14 12:40
       home: Gravesend 1
       away: Medway 2
       group: Group A
-      pitch: Lansdowne Road
+      pitch: Aviva
 ---
 
 {% include schedule_entrant.html %}

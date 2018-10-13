@@ -4,12 +4,12 @@ style: pitch_list
 breadcrumbs:
   u10: U10
 items:
-- Twickenham
-- Lansdowne Road
-- Cardiff Arms Park
+- Ellis Park
+- Millenium Stadium
 - Murrayfield
-- Parc des Princes
-- Stadio Olimpico
+- Sandy Park
+- Sixways
+- The Rec
 ---
 
 {% include pitch_list.html %}

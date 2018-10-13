@@ -11,13 +11,13 @@ items:
       home: Sevenoaks 2
       away: Vigo 1
       group: Group E
-      pitch: Stadio Olimpico
+      pitch: Kingston Park
     14:
       time: 2018-10-14 11:00
       home: Edenbridge 2
       away: Vigo 1
       group: Group E
-      pitch: Stadio Olimpico
+      pitch: Kingston Park
     16:
       time: 2018-10-14 11:40
       home: Medway 1
@@ -36,31 +36,31 @@ items:
       home: Medway 2
       away: Vigo 2
       group: Group A
-      pitch: Twickenham
+      pitch: Allianz
     13:
       time: 2018-10-14 10:40
       home: Blackheath 6
       away: Vigo 2
       group: Group A
-      pitch: Lansdowne Road
+      pitch: Aviva
     15:
       time: 2018-10-14 11:20
       home: Blackheath 1
       away: Vigo 2
       group: Group A
-      pitch: Twickenham
+      pitch: Allianz
     17:
       time: 2018-10-14 12:00
       home: Gravesend 1
       away: Vigo 2
       group: Group A
-      pitch: Twickenham
+      pitch: Allianz
     19:
       time: 2018-10-14 12:40
       home: Tonbridge Judds 1
       away: Vigo 2
       group: Group A
-      pitch: Twickenham
+      pitch: Allianz
 ---
 
 {% include schedule_entrant.html %}
