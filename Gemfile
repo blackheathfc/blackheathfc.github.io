@@ -1,10 +1,12 @@
-ruby File.read(".ruby-version").strip
+# frozen_string_literal: true
+
+ruby File.read('.ruby-version').strip
 
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
-  gem 'github-pages' # 'github-pages' includes 'jekyll' gem
   gem 'bourbon'
-  gem 'jemoji'
+  gem 'github-pages' # 'github-pages' includes 'jekyll' gem
   gem 'jekyll-include-cache'
+  gem 'jemoji'
 end
