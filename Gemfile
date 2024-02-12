@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem 'github-pages' # 'github-pages' includes 'jekyll' gem
   gem 'jekyll-include-cache'
   gem 'jemoji'
+  gem 'webrick'
 end
